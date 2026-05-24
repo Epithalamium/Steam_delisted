@@ -32,7 +32,17 @@ def fetch_games() -> dict[str, str]:
     }
     resp = requests.get(URL, headers=headers, timeout=30)
     resp.raise_for_status()
-    return parse_html(resp.text)
+
+    # Debug: show what the server actually returned
+    html = resp.text
+    print(f"[debug] HTTP {resp.status_code}, content-length: {len(html)}")
+    print(f"[debug] First 1000 chars:\n{html[:1000]}")
+    has_appid = "data-appid" in html
+    print(f"[debug] 'data-appid' found in response: {has_appid}")
+    if not has_appid:
+        print(f"[debug] All <tr> tags found: {html.count('<tr')}")
+
+    return parse_html(html)
 
 
 def parse_html(html: str) -> dict[str, str]:
@@ -127,6 +137,8 @@ def main() -> None:
     if not current:
         print("ERROR: parsed 0 games — the page structure may have changed", file=sys.stderr)
         sys.exit(1)
+
+
 
     new_appids = set(current) - set(previous)
 
