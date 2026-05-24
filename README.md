@@ -2,7 +2,7 @@
 
 Automatically tracks apps listed on [steam-tracker.com/apps/at-risk](https://steam-tracker.com/apps/at-risk).
 
-Updated every 2 days via GitHub Actions. Last updated: **2026-05-24 16:48 UTC**
+Updated every 2 days via GitHub Actions. Last updated: **2026-05-24 16:55 UTC**
 
 **Filters applied:** Recommended · Released (default page view)
 
