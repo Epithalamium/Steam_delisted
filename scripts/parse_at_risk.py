@@ -32,17 +32,7 @@ def fetch_games() -> dict[str, str]:
     }
     resp = requests.get(URL, headers=headers, timeout=30)
     resp.raise_for_status()
-
-    # Debug: show what the server actually returned
-    html = resp.text
-    print(f"[debug] HTTP {resp.status_code}, content-length: {len(html)}")
-    print(f"[debug] First 1000 chars:\n{html[:1000]}")
-    has_appid = "data-appid" in html
-    print(f"[debug] 'data-appid' found in response: {has_appid}")
-    if not has_appid:
-        print(f"[debug] All <tr> tags found: {html.count('<tr')}")
-
-    return parse_html(html)
+    return parse_html(resp.text)
 
 
 def parse_html(html: str) -> dict[str, str]:
