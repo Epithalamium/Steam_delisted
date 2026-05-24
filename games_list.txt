@@ -11,6 +11,7 @@
 70420	Chantelise
 203290	America's Army: Proving Grounds
 210950	Rune Classic
+215830	Closers
 224940	Legacy of Kain: Soul Reaver 2 (2001)
 242880	Sir, You Are Being Hunted
 246980	InFlux
@@ -130,7 +131,7 @@
 919240	Happy Block
 930470	Crimson Souls
 942270	Kunoichi Tsubaki
-950370	Tactics &amp; Strategy Master 2 :Princess of Holy Light
+950370	Tactics & Strategy Master 2 :Princess of Holy Light
 954280	3dSenVR
 966870	SinVR
 975910	HENTAI SHADOW
@@ -244,7 +245,7 @@
 2859870	Duel of games
 3066920	Nuke Bomberman
 3082770	BombMaze
-3185460	Fap&amp;Click
+3185460	Fap&Click
 3189010	The Mansion of The Macabre
 3213300	DUST II | The Infinite Zero Point
 3231900	Go Babies
@@ -260,6 +261,7 @@
 3572830	西游降魔
 3600820	In Gehenna Fantasy Heroine Edition
 3650490	Oikizo
+3672650	Dfiance
 3700250	Master of Piece: Prologue
 3728810	Cop Rush
 3785420	A Tale of Fortunate Lust
@@ -272,3 +274,4 @@
 4107260	末日战姬：命运交锋
 4162630	MINOS: Home A-Labyrinth
 4316960	Spirit-Sealing Tome
+4495510	Plantation Simulator
