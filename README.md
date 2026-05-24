@@ -2,17 +2,19 @@
 
 Automatically tracks apps listed on [steam-tracker.com/apps/at-risk](https://steam-tracker.com/apps/at-risk).
 
-Updated every 2 days via GitHub Actions. Last updated: **2026-05-24 16:24 UTC**
+Updated every 2 days via GitHub Actions. Last updated: **2026-05-24 17:54 UTC**
 
 **Filters applied:** Recommended · Released (default page view)
 
-**Total tracked:** 274 apps
+**Total tracked:** 277 apps
 
 ---
 
 ## Newly Added Since Last Check
 
-_(This is the initial snapshot — future runs will list newly appeared games here)_
+- [Closers](https://store.steampowered.com/app/215830/) (AppID: 215830)
+- [Dfiance](https://store.steampowered.com/app/3672650/) (AppID: 3672650)
+- [Plantation Simulator](https://store.steampowered.com/app/4495510/) (AppID: 4495510)
 
 ---
 
@@ -31,6 +33,7 @@ _(This is the initial snapshot — future runs will list newly appeared games he
 - [Chantelise](https://store.steampowered.com/app/70420/) (AppID: 70420)
 - [America's Army: Proving Grounds](https://store.steampowered.com/app/203290/) (AppID: 203290)
 - [Rune Classic](https://store.steampowered.com/app/210950/) (AppID: 210950)
+- [Closers](https://store.steampowered.com/app/215830/) (AppID: 215830)
 - [Legacy of Kain: Soul Reaver 2 (2001)](https://store.steampowered.com/app/224940/) (AppID: 224940)
 - [Sir, You Are Being Hunted](https://store.steampowered.com/app/242880/) (AppID: 242880)
 - [InFlux](https://store.steampowered.com/app/246980/) (AppID: 246980)
@@ -150,7 +153,7 @@ _(This is the initial snapshot — future runs will list newly appeared games he
 - [Happy Block](https://store.steampowered.com/app/919240/) (AppID: 919240)
 - [Crimson Souls](https://store.steampowered.com/app/930470/) (AppID: 930470)
 - [Kunoichi Tsubaki](https://store.steampowered.com/app/942270/) (AppID: 942270)
-- [Tactics &amp; Strategy Master 2 :Princess of Holy Light](https://store.steampowered.com/app/950370/) (AppID: 950370)
+- [Tactics & Strategy Master 2 :Princess of Holy Light](https://store.steampowered.com/app/950370/) (AppID: 950370)
 - [3dSenVR](https://store.steampowered.com/app/954280/) (AppID: 954280)
 - [SinVR](https://store.steampowered.com/app/966870/) (AppID: 966870)
 - [HENTAI SHADOW](https://store.steampowered.com/app/975910/) (AppID: 975910)
@@ -264,7 +267,7 @@ _(This is the initial snapshot — future runs will list newly appeared games he
 - [Duel of games](https://store.steampowered.com/app/2859870/) (AppID: 2859870)
 - [Nuke Bomberman](https://store.steampowered.com/app/3066920/) (AppID: 3066920)
 - [BombMaze](https://store.steampowered.com/app/3082770/) (AppID: 3082770)
-- [Fap&amp;Click](https://store.steampowered.com/app/3185460/) (AppID: 3185460)
+- [Fap&Click](https://store.steampowered.com/app/3185460/) (AppID: 3185460)
 - [The Mansion of The Macabre](https://store.steampowered.com/app/3189010/) (AppID: 3189010)
 - [DUST II | The Infinite Zero Point](https://store.steampowered.com/app/3213300/) (AppID: 3213300)
 - [Go Babies](https://store.steampowered.com/app/3231900/) (AppID: 3231900)
@@ -280,6 +283,7 @@ _(This is the initial snapshot — future runs will list newly appeared games he
 - [西游降魔](https://store.steampowered.com/app/3572830/) (AppID: 3572830)
 - [In Gehenna Fantasy Heroine Edition](https://store.steampowered.com/app/3600820/) (AppID: 3600820)
 - [Oikizo](https://store.steampowered.com/app/3650490/) (AppID: 3650490)
+- [Dfiance](https://store.steampowered.com/app/3672650/) (AppID: 3672650)
 - [Master of Piece: Prologue](https://store.steampowered.com/app/3700250/) (AppID: 3700250)
 - [Cop Rush](https://store.steampowered.com/app/3728810/) (AppID: 3728810)
 - [A Tale of Fortunate Lust](https://store.steampowered.com/app/3785420/) (AppID: 3785420)
@@ -292,3 +296,4 @@ _(This is the initial snapshot — future runs will list newly appeared games he
 - [末日战姬：命运交锋](https://store.steampowered.com/app/4107260/) (AppID: 4107260)
 - [MINOS: Home A-Labyrinth](https://store.steampowered.com/app/4162630/) (AppID: 4162630)
 - [Spirit-Sealing Tome](https://store.steampowered.com/app/4316960/) (AppID: 4316960)
+- [Plantation Simulator](https://store.steampowered.com/app/4495510/) (AppID: 4495510)
