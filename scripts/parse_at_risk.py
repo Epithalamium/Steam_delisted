@@ -1,9 +1,9 @@
-import re
 import sys
 from datetime import datetime, timezone
 from pathlib import Path
 
 import requests
+from bs4 import BeautifulSoup
 
 URL = "https://steam-tracker.com/apps/at-risk"
 
@@ -27,6 +27,7 @@ def fetch_games() -> dict[str, str]:
             "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
             "(KHTML, like Gecko) Chrome/124.0 Safari/537.36"
         ),
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
         "Accept-Language": "en-US,en;q=0.9",
     }
     resp = requests.get(URL, headers=headers, timeout=30)
@@ -35,20 +36,23 @@ def fetch_games() -> dict[str, str]:
 
 
 def parse_html(html: str) -> dict[str, str]:
+    soup = BeautifulSoup(html, "html.parser")
     games: dict[str, str] = {}
-    for seg in re.split(r"<tr\s+id=app-", html)[1:]:
-        m = re.match(
-            r"\d+\s+data-appid=(\d+)\s+data-state=\d+\s+data-itemtype=(\d+)\s+data-releasestate=(\w+)",
-            seg,
-        )
-        if not m:
-            continue
-        appid, itemtype, releasestate = m.group(1), m.group(2), m.group(3)
+
+    for row in soup.find_all("tr", attrs={"data-appid": True}):
+        itemtype = row.get("data-itemtype", "")
+        releasestate = row.get("data-releasestate", "")
         if itemtype not in ALLOWED_ITEMTYPES or releasestate not in ALLOWED_RELEASESTATES:
             continue
-        name_m = re.search(r"steam-tracker\.com/app/\d+/>([^<]+)", seg)
-        if name_m:
-            games[appid] = name_m.group(1).strip()
+
+        appid = row["data-appid"]
+        tds = row.find_all("td", recursive=False)
+        if len(tds) < 2:
+            continue
+        link = tds[1].find("a")
+        if link:
+            games[appid] = link.get_text(strip=True)
+
     return games
 
 
@@ -118,6 +122,10 @@ def main() -> None:
         current = fetch_games()
     except Exception as exc:
         print(f"ERROR fetching page: {exc}", file=sys.stderr)
+        sys.exit(1)
+
+    if not current:
+        print("ERROR: parsed 0 games — the page structure may have changed", file=sys.stderr)
         sys.exit(1)
 
     new_appids = set(current) - set(previous)
