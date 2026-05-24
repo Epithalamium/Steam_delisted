@@ -1,0 +1,134 @@
+import re
+import sys
+from datetime import datetime, timezone
+from pathlib import Path
+
+import requests
+
+URL = "https://steam-tracker.com/apps/at-risk"
+
+# Mirrors the default checked state of the client-side filters on the page:
+#   itemtype  0 = Recommended  (checked by default)
+#   itemtype  1 = Not recommended
+#   itemtype  2 = Informational
+# releasestate "released"   (checked by default)
+# releasestate "prerelease" (unchecked by default)
+ALLOWED_ITEMTYPES = {"0"}
+ALLOWED_RELEASESTATES = {"released"}
+
+ROOT = Path(__file__).parent.parent
+LIST_FILE = ROOT / "games_list.txt"
+README_FILE = ROOT / "README.md"
+
+
+def fetch_games() -> dict[str, str]:
+    headers = {
+        "User-Agent": (
+            "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
+            "(KHTML, like Gecko) Chrome/124.0 Safari/537.36"
+        ),
+        "Accept-Language": "en-US,en;q=0.9",
+    }
+    resp = requests.get(URL, headers=headers, timeout=30)
+    resp.raise_for_status()
+    return parse_html(resp.text)
+
+
+def parse_html(html: str) -> dict[str, str]:
+    games: dict[str, str] = {}
+    for seg in re.split(r"<tr\s+id=app-", html)[1:]:
+        m = re.match(
+            r"\d+\s+data-appid=(\d+)\s+data-state=\d+\s+data-itemtype=(\d+)\s+data-releasestate=(\w+)",
+            seg,
+        )
+        if not m:
+            continue
+        appid, itemtype, releasestate = m.group(1), m.group(2), m.group(3)
+        if itemtype not in ALLOWED_ITEMTYPES or releasestate not in ALLOWED_RELEASESTATES:
+            continue
+        name_m = re.search(r"steam-tracker\.com/app/\d+/>([^<]+)", seg)
+        if name_m:
+            games[appid] = name_m.group(1).strip()
+    return games
+
+
+def load_previous() -> dict[str, str]:
+    if not LIST_FILE.exists():
+        return {}
+    games: dict[str, str] = {}
+    for line in LIST_FILE.read_text(encoding="utf-8").splitlines():
+        if "\t" in line:
+            appid, name = line.split("\t", 1)
+            games[appid.strip()] = name.strip()
+    return games
+
+
+def save_games(games: dict[str, str]) -> None:
+    lines = [
+        f"{appid}\t{name}"
+        for appid, name in sorted(games.items(), key=lambda x: int(x[0]))
+    ]
+    LIST_FILE.write_text("\n".join(lines) + "\n", encoding="utf-8")
+
+
+def update_readme(current: dict[str, str], new_appids: set[str]) -> None:
+    now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+
+    if new_appids:
+        new_lines = [
+            f"- [{current[a]}](https://store.steampowered.com/app/{a}/) (AppID: {a})"
+            for a in sorted(new_appids, key=int)
+        ]
+        new_section = "## Newly Added Since Last Check\n\n" + "\n".join(new_lines)
+    else:
+        new_section = "## Newly Added Since Last Check\n\n_(No new entries this run)_"
+
+    all_lines = [
+        f"- [{name}](https://store.steampowered.com/app/{appid}/) (AppID: {appid})"
+        for appid, name in sorted(current.items(), key=lambda x: int(x[0]))
+    ]
+
+    readme = f"""\
+# Steam At-Risk Games Tracker
+
+Automatically tracks apps listed on [steam-tracker.com/apps/at-risk](https://steam-tracker.com/apps/at-risk).
+
+Updated every 2 days via GitHub Actions. Last updated: **{now}**
+
+**Filters applied:** Recommended · Released (default page view)
+
+**Total tracked:** {len(current)} apps
+
+---
+
+{new_section}
+
+---
+
+## Full List
+
+{chr(10).join(all_lines)}
+"""
+    README_FILE.write_text(readme, encoding="utf-8")
+
+
+def main() -> None:
+    previous = load_previous()
+    try:
+        current = fetch_games()
+    except Exception as exc:
+        print(f"ERROR fetching page: {exc}", file=sys.stderr)
+        sys.exit(1)
+
+    new_appids = set(current) - set(previous)
+
+    save_games(current)
+    update_readme(current, new_appids)
+
+    print(f"Total: {len(current)}  |  New this run: {len(new_appids)}")
+    for appid in sorted(new_appids, key=int):
+        print(f"  + {current[appid]} (AppID {appid})")
+
+
+if __name__ == "__main__":
+    main()
