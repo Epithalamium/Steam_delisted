@@ -2,19 +2,19 @@
 
 Automatically tracks apps listed on [steam-tracker.com/apps/at-risk](https://steam-tracker.com/apps/at-risk).
 
-Updated every 2 days via GitHub Actions. Last updated: **2026-05-24 17:54 UTC**
+Updated every 2 days via GitHub Actions. Last updated: **2026-05-25 10:47 UTC**
 
 **Filters applied:** Recommended · Released (default page view)
 
-**Total tracked:** 277 apps
+**Total tracked:** 280 apps
 
 ---
 
 ## Newly Added Since Last Check
 
-- [Closers](https://store.steampowered.com/app/215830/) (AppID: 215830)
-- [Dfiance](https://store.steampowered.com/app/3672650/) (AppID: 3672650)
-- [Plantation Simulator](https://store.steampowered.com/app/4495510/) (AppID: 4495510)
+- [Brass](https://store.steampowered.com/app/677650/) (AppID: 677650)
+- [Brass: Birmingham](https://store.steampowered.com/app/1287920/) (AppID: 1287920)
+- [Crucifier](https://store.steampowered.com/app/4439210/) (AppID: 4439210)
 
 ---
 
@@ -116,6 +116,7 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-05-24 17:54 UTC**
 - [MuX](https://store.steampowered.com/app/673970/) (AppID: 673970)
 - [Gift To Humanity](https://store.steampowered.com/app/677210/) (AppID: 677210)
 - [Splitgate](https://store.steampowered.com/app/677620/) (AppID: 677620)
+- [Brass](https://store.steampowered.com/app/677650/) (AppID: 677650)
 - [Zeus' Battlegrounds](https://store.steampowered.com/app/682290/) (AppID: 682290)
 - [SpyHack](https://store.steampowered.com/app/687340/) (AppID: 687340)
 - [Community Garden](https://store.steampowered.com/app/692530/) (AppID: 692530)
@@ -204,6 +205,7 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-05-24 17:54 UTC**
 - [BLACK STIGMA](https://store.steampowered.com/app/1277530/) (AppID: 1277530)
 - [CNDL](https://store.steampowered.com/app/1282740/) (AppID: 1282740)
 - [Grey Skies: A War of the Worlds Story](https://store.steampowered.com/app/1283770/) (AppID: 1283770)
+- [Brass: Birmingham](https://store.steampowered.com/app/1287920/) (AppID: 1287920)
 - [RussianPunk 2007](https://store.steampowered.com/app/1310970/) (AppID: 1310970)
 - [足球梦之队](https://store.steampowered.com/app/1332460/) (AppID: 1332460)
 - [Gatewalkers (Alpha)](https://store.steampowered.com/app/1341330/) (AppID: 1341330)
@@ -296,4 +298,5 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-05-24 17:54 UTC**
 - [末日战姬：命运交锋](https://store.steampowered.com/app/4107260/) (AppID: 4107260)
 - [MINOS: Home A-Labyrinth](https://store.steampowered.com/app/4162630/) (AppID: 4162630)
 - [Spirit-Sealing Tome](https://store.steampowered.com/app/4316960/) (AppID: 4316960)
+- [Crucifier](https://store.steampowered.com/app/4439210/) (AppID: 4439210)
 - [Plantation Simulator](https://store.steampowered.com/app/4495510/) (AppID: 4495510)

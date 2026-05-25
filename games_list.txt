@@ -94,6 +94,7 @@
 673970	MuX
 677210	Gift To Humanity
 677620	Splitgate
+677650	Brass
 682290	Zeus' Battlegrounds
 687340	SpyHack
 692530	Community Garden
@@ -182,6 +183,7 @@
 1277530	BLACK STIGMA
 1282740	CNDL
 1283770	Grey Skies: A War of the Worlds Story
+1287920	Brass: Birmingham
 1310970	RussianPunk 2007
 1332460	足球梦之队
 1341330	Gatewalkers (Alpha)
@@ -274,4 +276,5 @@
 4107260	末日战姬：命运交锋
 4162630	MINOS: Home A-Labyrinth
 4316960	Spirit-Sealing Tome
+4439210	Crucifier
 4495510	Plantation Simulator
