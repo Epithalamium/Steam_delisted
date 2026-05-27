@@ -1,4 +1,5 @@
 import sys
+import time
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -30,9 +31,18 @@ def fetch_games() -> dict[str, str]:
         "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
         "Accept-Language": "en-US,en;q=0.9",
     }
-    resp = requests.get(URL, headers=headers, timeout=30)
-    resp.raise_for_status()
-    return parse_html(resp.text)
+    last_exc: Exception | None = None
+    for attempt in range(3):
+        if attempt:
+            time.sleep(15 * attempt)
+        try:
+            resp = requests.get(URL, headers=headers, timeout=60)
+            resp.raise_for_status()
+            return parse_html(resp.text)
+        except Exception as exc:
+            print(f"Attempt {attempt + 1} failed: {exc}", file=sys.stderr)
+            last_exc = exc
+    raise last_exc  # type: ignore[misc]
 
 
 def parse_html(html: str) -> dict[str, str]:
@@ -121,8 +131,9 @@ def main() -> None:
     try:
         current = fetch_games()
     except Exception as exc:
-        print(f"ERROR fetching page: {exc}", file=sys.stderr)
-        sys.exit(1)
+        print(f"ERROR fetching page after 3 attempts: {exc}", file=sys.stderr)
+        print("Keeping existing data unchanged.", file=sys.stderr)
+        sys.exit(0)
 
     if not current:
         print("ERROR: parsed 0 games — the page structure may have changed", file=sys.stderr)
