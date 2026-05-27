@@ -2,17 +2,20 @@
 
 Automatically tracks apps listed on [steam-tracker.com/apps/at-risk](https://steam-tracker.com/apps/at-risk).
 
-Updated every 2 days via GitHub Actions. Last updated: **2026-05-24 16:24 UTC**
+Updated every 2 days via GitHub Actions. Last updated: **2026-05-27 11:22 UTC**
 
 **Filters applied:** Recommended · Released (default page view)
 
-**Total tracked:** 274 apps
+**Total tracked:** 277 apps
 
 ---
 
 ## Newly Added Since Last Check
 
-_(This is the initial snapshot — future runs will list newly appeared games here)_
+- [Closers](https://store.steampowered.com/app/215830/) (AppID: 215830)
+- [Brass](https://store.steampowered.com/app/677650/) (AppID: 677650)
+- [Brass: Birmingham](https://store.steampowered.com/app/1287920/) (AppID: 1287920)
+- [Crucifier](https://store.steampowered.com/app/4439210/) (AppID: 4439210)
 
 ---
 
@@ -31,6 +34,7 @@ _(This is the initial snapshot — future runs will list newly appeared games he
 - [Chantelise](https://store.steampowered.com/app/70420/) (AppID: 70420)
 - [America's Army: Proving Grounds](https://store.steampowered.com/app/203290/) (AppID: 203290)
 - [Rune Classic](https://store.steampowered.com/app/210950/) (AppID: 210950)
+- [Closers](https://store.steampowered.com/app/215830/) (AppID: 215830)
 - [Legacy of Kain: Soul Reaver 2 (2001)](https://store.steampowered.com/app/224940/) (AppID: 224940)
 - [Sir, You Are Being Hunted](https://store.steampowered.com/app/242880/) (AppID: 242880)
 - [InFlux](https://store.steampowered.com/app/246980/) (AppID: 246980)
@@ -113,6 +117,7 @@ _(This is the initial snapshot — future runs will list newly appeared games he
 - [MuX](https://store.steampowered.com/app/673970/) (AppID: 673970)
 - [Gift To Humanity](https://store.steampowered.com/app/677210/) (AppID: 677210)
 - [Splitgate](https://store.steampowered.com/app/677620/) (AppID: 677620)
+- [Brass](https://store.steampowered.com/app/677650/) (AppID: 677650)
 - [Zeus' Battlegrounds](https://store.steampowered.com/app/682290/) (AppID: 682290)
 - [SpyHack](https://store.steampowered.com/app/687340/) (AppID: 687340)
 - [Community Garden](https://store.steampowered.com/app/692530/) (AppID: 692530)
@@ -125,7 +130,6 @@ _(This is the initial snapshot — future runs will list newly appeared games he
 - [Shikhondo(食魂徒) - Soul Eater](https://store.steampowered.com/app/720150/) (AppID: 720150)
 - [Baldr Sky](https://store.steampowered.com/app/741140/) (AppID: 741140)
 - [Tico](https://store.steampowered.com/app/748980/) (AppID: 748980)
-- [SK8](https://store.steampowered.com/app/749130/) (AppID: 749130)
 - [VR Kanojo](https://store.steampowered.com/app/751440/) (AppID: 751440)
 - [McRogue](https://store.steampowered.com/app/758150/) (AppID: 758150)
 - [Refight: Burning Engine](https://store.steampowered.com/app/773520/) (AppID: 773520)
@@ -150,7 +154,7 @@ _(This is the initial snapshot — future runs will list newly appeared games he
 - [Happy Block](https://store.steampowered.com/app/919240/) (AppID: 919240)
 - [Crimson Souls](https://store.steampowered.com/app/930470/) (AppID: 930470)
 - [Kunoichi Tsubaki](https://store.steampowered.com/app/942270/) (AppID: 942270)
-- [Tactics &amp; Strategy Master 2 :Princess of Holy Light](https://store.steampowered.com/app/950370/) (AppID: 950370)
+- [Tactics & Strategy Master 2 :Princess of Holy Light](https://store.steampowered.com/app/950370/) (AppID: 950370)
 - [3dSenVR](https://store.steampowered.com/app/954280/) (AppID: 954280)
 - [SinVR](https://store.steampowered.com/app/966870/) (AppID: 966870)
 - [HENTAI SHADOW](https://store.steampowered.com/app/975910/) (AppID: 975910)
@@ -201,6 +205,7 @@ _(This is the initial snapshot — future runs will list newly appeared games he
 - [BLACK STIGMA](https://store.steampowered.com/app/1277530/) (AppID: 1277530)
 - [CNDL](https://store.steampowered.com/app/1282740/) (AppID: 1282740)
 - [Grey Skies: A War of the Worlds Story](https://store.steampowered.com/app/1283770/) (AppID: 1283770)
+- [Brass: Birmingham](https://store.steampowered.com/app/1287920/) (AppID: 1287920)
 - [RussianPunk 2007](https://store.steampowered.com/app/1310970/) (AppID: 1310970)
 - [足球梦之队](https://store.steampowered.com/app/1332460/) (AppID: 1332460)
 - [Gatewalkers (Alpha)](https://store.steampowered.com/app/1341330/) (AppID: 1341330)
@@ -264,7 +269,7 @@ _(This is the initial snapshot — future runs will list newly appeared games he
 - [Duel of games](https://store.steampowered.com/app/2859870/) (AppID: 2859870)
 - [Nuke Bomberman](https://store.steampowered.com/app/3066920/) (AppID: 3066920)
 - [BombMaze](https://store.steampowered.com/app/3082770/) (AppID: 3082770)
-- [Fap&amp;Click](https://store.steampowered.com/app/3185460/) (AppID: 3185460)
+- [Fap&Click](https://store.steampowered.com/app/3185460/) (AppID: 3185460)
 - [The Mansion of The Macabre](https://store.steampowered.com/app/3189010/) (AppID: 3189010)
 - [DUST II | The Infinite Zero Point](https://store.steampowered.com/app/3213300/) (AppID: 3213300)
 - [Go Babies](https://store.steampowered.com/app/3231900/) (AppID: 3231900)
@@ -292,3 +297,4 @@ _(This is the initial snapshot — future runs will list newly appeared games he
 - [末日战姬：命运交锋](https://store.steampowered.com/app/4107260/) (AppID: 4107260)
 - [MINOS: Home A-Labyrinth](https://store.steampowered.com/app/4162630/) (AppID: 4162630)
 - [Spirit-Sealing Tome](https://store.steampowered.com/app/4316960/) (AppID: 4316960)
+- [Crucifier](https://store.steampowered.com/app/4439210/) (AppID: 4439210)
