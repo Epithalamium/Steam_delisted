@@ -2,7 +2,7 @@
 
 Automatically tracks apps listed on [steam-tracker.com/apps/at-risk](https://steam-tracker.com/apps/at-risk).
 
-Updated every 2 days via GitHub Actions. Last updated: **2026-05-27 11:22 UTC**
+Updated every 2 days via GitHub Actions. Last updated: **2026-05-29 10:15 UTC**
 
 **Filters applied:** Recommended · Released (default page view)
 
@@ -12,10 +12,8 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-05-27 11:22 UTC**
 
 ## Newly Added Since Last Check
 
-- [Closers](https://store.steampowered.com/app/215830/) (AppID: 215830)
-- [Brass](https://store.steampowered.com/app/677650/) (AppID: 677650)
-- [Brass: Birmingham](https://store.steampowered.com/app/1287920/) (AppID: 1287920)
-- [Crucifier](https://store.steampowered.com/app/4439210/) (AppID: 4439210)
+- [Bright Side: Riddles and Puzzles](https://store.steampowered.com/app/2478240/) (AppID: 2478240)
+- [Bright Side: Quiz](https://store.steampowered.com/app/3165620/) (AppID: 3165620)
 
 ---
 
@@ -93,7 +91,6 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-05-27 11:22 UTC**
 - [Darwin Project](https://store.steampowered.com/app/544920/) (AppID: 544920)
 - [NeonBall](https://store.steampowered.com/app/548280/) (AppID: 548280)
 - [Witanlore: Dreamtime](https://store.steampowered.com/app/554570/) (AppID: 554570)
-- [The Outer Worlds](https://store.steampowered.com/app/578650/) (AppID: 578650)
 - [Artifact Classic](https://store.steampowered.com/app/583950/) (AppID: 583950)
 - [OVRdrop](https://store.steampowered.com/app/586210/) (AppID: 586210)
 - [Shovel Knight: Shovel of Hope](https://store.steampowered.com/app/589500/) (AppID: 589500)
@@ -256,6 +253,7 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-05-27 11:22 UTC**
 - [Invaders](https://store.steampowered.com/app/2364540/) (AppID: 2364540)
 - [Sevyal](https://store.steampowered.com/app/2452220/) (AppID: 2452220)
 - [Tay Son Dynasty](https://store.steampowered.com/app/2468560/) (AppID: 2468560)
+- [Bright Side: Riddles and Puzzles](https://store.steampowered.com/app/2478240/) (AppID: 2478240)
 - [LivingDollsRebirth](https://store.steampowered.com/app/2483220/) (AppID: 2483220)
 - [Burger Kombat](https://store.steampowered.com/app/2487680/) (AppID: 2487680)
 - [Tracks of the Arcana](https://store.steampowered.com/app/2620870/) (AppID: 2620870)
@@ -269,6 +267,7 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-05-27 11:22 UTC**
 - [Duel of games](https://store.steampowered.com/app/2859870/) (AppID: 2859870)
 - [Nuke Bomberman](https://store.steampowered.com/app/3066920/) (AppID: 3066920)
 - [BombMaze](https://store.steampowered.com/app/3082770/) (AppID: 3082770)
+- [Bright Side: Quiz](https://store.steampowered.com/app/3165620/) (AppID: 3165620)
 - [Fap&Click](https://store.steampowered.com/app/3185460/) (AppID: 3185460)
 - [The Mansion of The Macabre](https://store.steampowered.com/app/3189010/) (AppID: 3189010)
 - [DUST II | The Infinite Zero Point](https://store.steampowered.com/app/3213300/) (AppID: 3213300)
@@ -297,4 +296,3 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-05-27 11:22 UTC**
 - [末日战姬：命运交锋](https://store.steampowered.com/app/4107260/) (AppID: 4107260)
 - [MINOS: Home A-Labyrinth](https://store.steampowered.com/app/4162630/) (AppID: 4162630)
 - [Spirit-Sealing Tome](https://store.steampowered.com/app/4316960/) (AppID: 4316960)
-- [Crucifier](https://store.steampowered.com/app/4439210/) (AppID: 4439210)

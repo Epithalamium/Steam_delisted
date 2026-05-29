@@ -70,7 +70,6 @@
 544920	Darwin Project
 548280	NeonBall
 554570	Witanlore: Dreamtime
-578650	The Outer Worlds
 583950	Artifact Classic
 586210	OVRdrop
 589500	Shovel Knight: Shovel of Hope
@@ -233,6 +232,7 @@
 2364540	Invaders
 2452220	Sevyal
 2468560	Tay Son Dynasty
+2478240	Bright Side: Riddles and Puzzles
 2483220	LivingDollsRebirth
 2487680	Burger Kombat
 2620870	Tracks of the Arcana
@@ -246,6 +246,7 @@
 2859870	Duel of games
 3066920	Nuke Bomberman
 3082770	BombMaze
+3165620	Bright Side: Quiz
 3185460	Fap&Click
 3189010	The Mansion of The Macabre
 3213300	DUST II | The Infinite Zero Point
@@ -274,4 +275,3 @@
 4107260	末日战姬：命运交锋
 4162630	MINOS: Home A-Labyrinth
 4316960	Spirit-Sealing Tome
-4439210	Crucifier
