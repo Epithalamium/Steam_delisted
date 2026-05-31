@@ -2,7 +2,7 @@
 
 Automatically tracks apps listed on [steam-tracker.com/apps/at-risk](https://steam-tracker.com/apps/at-risk).
 
-Updated every 2 days via GitHub Actions. Last updated: **2026-05-29 10:15 UTC**
+Updated every 2 days via GitHub Actions. Last updated: **2026-05-31 09:23 UTC**
 
 **Filters applied:** Recommended · Released (default page view)
 
@@ -12,8 +12,7 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-05-29 10:15 UTC**
 
 ## Newly Added Since Last Check
 
-- [Bright Side: Riddles and Puzzles](https://store.steampowered.com/app/2478240/) (AppID: 2478240)
-- [Bright Side: Quiz](https://store.steampowered.com/app/3165620/) (AppID: 3165620)
+_(No new entries this run)_
 
 ---
 
