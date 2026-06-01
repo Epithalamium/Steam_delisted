@@ -2,17 +2,17 @@
 
 Automatically tracks apps listed on [steam-tracker.com/apps/at-risk](https://steam-tracker.com/apps/at-risk).
 
-Updated every 2 days via GitHub Actions. Last updated: **2026-05-31 09:23 UTC**
+Updated every 2 days via GitHub Actions. Last updated: **2026-06-01 12:08 UTC**
 
 **Filters applied:** Recommended · Released (default page view)
 
-**Total tracked:** 277 apps
+**Total tracked:** 278 apps
 
 ---
 
 ## Newly Added Since Last Check
 
-_(No new entries this run)_
+- [Chess 2: The Sequel](https://store.steampowered.com/app/314340/) (AppID: 314340)
 
 ---
 
@@ -44,6 +44,7 @@ _(No new entries this run)_
 - [Dark Scavenger](https://store.steampowered.com/app/293880/) (AppID: 293880)
 - [Shallow Space](https://store.steampowered.com/app/305840/) (AppID: 305840)
 - [Shan Gui](https://store.steampowered.com/app/307050/) (AppID: 307050)
+- [Chess 2: The Sequel](https://store.steampowered.com/app/314340/) (AppID: 314340)
 - [The Detail](https://store.steampowered.com/app/319970/) (AppID: 319970)
 - [Disorder](https://store.steampowered.com/app/322080/) (AppID: 322080)
 - [Super Life of Pixel](https://store.steampowered.com/app/327260/) (AppID: 327260)

@@ -24,6 +24,7 @@
 293880	Dark Scavenger
 305840	Shallow Space
 307050	Shan Gui
+314340	Chess 2: The Sequel
 319970	The Detail
 322080	Disorder
 327260	Super Life of Pixel
