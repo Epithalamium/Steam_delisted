@@ -24,7 +24,6 @@
 293880	Dark Scavenger
 305840	Shallow Space
 307050	Shan Gui
-314340	Chess 2: The Sequel
 319970	The Detail
 322080	Disorder
 327260	Super Life of Pixel
@@ -40,10 +39,8 @@
 379980	Panzermadels: Tank Dating Simulator
 381640	Allods Online RU
 388960	Torn Tales
-389140	Horizon Chase Turbo
 409510	Genesis Online
 418340	RWBY: Grimm Eclipse
-421190	Larcenauts
 429480	Vision Runner
 433850	Z1 Battle Royale
 436320	Raw Data
@@ -58,7 +55,6 @@
 455300	Deuterium Wars
 455990	Smash Pixel Racing
 467660	Paranormal Activity: The Lost Soul
-471710	Rec Room
 486130	Best Buds
 488430	Galaxy in Turmoil
 491060	League of Evil
@@ -94,7 +90,6 @@
 673970	MuX
 677210	Gift To Humanity
 677620	Splitgate
-677650	Brass
 682290	Zeus' Battlegrounds
 687340	SpyHack
 692530	Community Garden
@@ -182,7 +177,6 @@
 1277530	BLACK STIGMA
 1282740	CNDL
 1283770	Grey Skies: A War of the Worlds Story
-1287920	Brass: Birmingham
 1310970	RussianPunk 2007
 1332460	足球梦之队
 1341330	Gatewalkers (Alpha)
@@ -196,7 +190,6 @@
 1464420	Tower
 1465200	Broken Ecchi Gallery
 1482620	Slappyball
-1493360	Clouzy!
 1504010	Negative: The Way of Shinobi
 1542140	Mage Noir - Infinity
 1590320	Bro Falls: Ultimate Showdown
@@ -236,7 +229,6 @@
 2478240	Bright Side: Riddles and Puzzles
 2483220	LivingDollsRebirth
 2487680	Burger Kombat
-2620870	Tracks of the Arcana
 2661260	Glitched Out
 2700090	Harmony in the Wild
 2723620	DunJumb
@@ -265,7 +257,6 @@
 3600820	In Gehenna Fantasy Heroine Edition
 3650490	Oikizo
 3700250	Master of Piece: Prologue
-3728810	Cop Rush
 3785420	A Tale of Fortunate Lust
 3790770	Panzer Kliker
 3833930	Silent Cleaning

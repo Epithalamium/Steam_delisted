@@ -2,17 +2,17 @@
 
 Automatically tracks apps listed on [steam-tracker.com/apps/at-risk](https://steam-tracker.com/apps/at-risk).
 
-Updated every 2 days via GitHub Actions. Last updated: **2026-06-01 12:08 UTC**
+Updated every 2 days via GitHub Actions. Last updated: **2026-06-03 11:22 UTC**
 
 **Filters applied:** Recommended · Released (default page view)
 
-**Total tracked:** 278 apps
+**Total tracked:** 269 apps
 
 ---
 
 ## Newly Added Since Last Check
 
-- [Chess 2: The Sequel](https://store.steampowered.com/app/314340/) (AppID: 314340)
+_(No new entries this run)_
 
 ---
 
@@ -44,7 +44,6 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-06-01 12:08 UTC**
 - [Dark Scavenger](https://store.steampowered.com/app/293880/) (AppID: 293880)
 - [Shallow Space](https://store.steampowered.com/app/305840/) (AppID: 305840)
 - [Shan Gui](https://store.steampowered.com/app/307050/) (AppID: 307050)
-- [Chess 2: The Sequel](https://store.steampowered.com/app/314340/) (AppID: 314340)
 - [The Detail](https://store.steampowered.com/app/319970/) (AppID: 319970)
 - [Disorder](https://store.steampowered.com/app/322080/) (AppID: 322080)
 - [Super Life of Pixel](https://store.steampowered.com/app/327260/) (AppID: 327260)
@@ -60,10 +59,8 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-06-01 12:08 UTC**
 - [Panzermadels: Tank Dating Simulator](https://store.steampowered.com/app/379980/) (AppID: 379980)
 - [Allods Online RU](https://store.steampowered.com/app/381640/) (AppID: 381640)
 - [Torn Tales](https://store.steampowered.com/app/388960/) (AppID: 388960)
-- [Horizon Chase Turbo](https://store.steampowered.com/app/389140/) (AppID: 389140)
 - [Genesis Online](https://store.steampowered.com/app/409510/) (AppID: 409510)
 - [RWBY: Grimm Eclipse](https://store.steampowered.com/app/418340/) (AppID: 418340)
-- [Larcenauts](https://store.steampowered.com/app/421190/) (AppID: 421190)
 - [Vision Runner](https://store.steampowered.com/app/429480/) (AppID: 429480)
 - [Z1 Battle Royale](https://store.steampowered.com/app/433850/) (AppID: 433850)
 - [Raw Data](https://store.steampowered.com/app/436320/) (AppID: 436320)
@@ -78,7 +75,6 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-06-01 12:08 UTC**
 - [Deuterium Wars](https://store.steampowered.com/app/455300/) (AppID: 455300)
 - [Smash Pixel Racing](https://store.steampowered.com/app/455990/) (AppID: 455990)
 - [Paranormal Activity: The Lost Soul](https://store.steampowered.com/app/467660/) (AppID: 467660)
-- [Rec Room](https://store.steampowered.com/app/471710/) (AppID: 471710)
 - [Best Buds](https://store.steampowered.com/app/486130/) (AppID: 486130)
 - [Galaxy in Turmoil](https://store.steampowered.com/app/488430/) (AppID: 488430)
 - [League of Evil](https://store.steampowered.com/app/491060/) (AppID: 491060)
@@ -114,7 +110,6 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-06-01 12:08 UTC**
 - [MuX](https://store.steampowered.com/app/673970/) (AppID: 673970)
 - [Gift To Humanity](https://store.steampowered.com/app/677210/) (AppID: 677210)
 - [Splitgate](https://store.steampowered.com/app/677620/) (AppID: 677620)
-- [Brass](https://store.steampowered.com/app/677650/) (AppID: 677650)
 - [Zeus' Battlegrounds](https://store.steampowered.com/app/682290/) (AppID: 682290)
 - [SpyHack](https://store.steampowered.com/app/687340/) (AppID: 687340)
 - [Community Garden](https://store.steampowered.com/app/692530/) (AppID: 692530)
@@ -202,7 +197,6 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-06-01 12:08 UTC**
 - [BLACK STIGMA](https://store.steampowered.com/app/1277530/) (AppID: 1277530)
 - [CNDL](https://store.steampowered.com/app/1282740/) (AppID: 1282740)
 - [Grey Skies: A War of the Worlds Story](https://store.steampowered.com/app/1283770/) (AppID: 1283770)
-- [Brass: Birmingham](https://store.steampowered.com/app/1287920/) (AppID: 1287920)
 - [RussianPunk 2007](https://store.steampowered.com/app/1310970/) (AppID: 1310970)
 - [足球梦之队](https://store.steampowered.com/app/1332460/) (AppID: 1332460)
 - [Gatewalkers (Alpha)](https://store.steampowered.com/app/1341330/) (AppID: 1341330)
@@ -216,7 +210,6 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-06-01 12:08 UTC**
 - [Tower](https://store.steampowered.com/app/1464420/) (AppID: 1464420)
 - [Broken Ecchi Gallery](https://store.steampowered.com/app/1465200/) (AppID: 1465200)
 - [Slappyball](https://store.steampowered.com/app/1482620/) (AppID: 1482620)
-- [Clouzy!](https://store.steampowered.com/app/1493360/) (AppID: 1493360)
 - [Negative: The Way of Shinobi](https://store.steampowered.com/app/1504010/) (AppID: 1504010)
 - [Mage Noir - Infinity](https://store.steampowered.com/app/1542140/) (AppID: 1542140)
 - [Bro Falls: Ultimate Showdown](https://store.steampowered.com/app/1590320/) (AppID: 1590320)
@@ -256,7 +249,6 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-06-01 12:08 UTC**
 - [Bright Side: Riddles and Puzzles](https://store.steampowered.com/app/2478240/) (AppID: 2478240)
 - [LivingDollsRebirth](https://store.steampowered.com/app/2483220/) (AppID: 2483220)
 - [Burger Kombat](https://store.steampowered.com/app/2487680/) (AppID: 2487680)
-- [Tracks of the Arcana](https://store.steampowered.com/app/2620870/) (AppID: 2620870)
 - [Glitched Out](https://store.steampowered.com/app/2661260/) (AppID: 2661260)
 - [Harmony in the Wild](https://store.steampowered.com/app/2700090/) (AppID: 2700090)
 - [DunJumb](https://store.steampowered.com/app/2723620/) (AppID: 2723620)
@@ -285,7 +277,6 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-06-01 12:08 UTC**
 - [In Gehenna Fantasy Heroine Edition](https://store.steampowered.com/app/3600820/) (AppID: 3600820)
 - [Oikizo](https://store.steampowered.com/app/3650490/) (AppID: 3650490)
 - [Master of Piece: Prologue](https://store.steampowered.com/app/3700250/) (AppID: 3700250)
-- [Cop Rush](https://store.steampowered.com/app/3728810/) (AppID: 3728810)
 - [A Tale of Fortunate Lust](https://store.steampowered.com/app/3785420/) (AppID: 3785420)
 - [Panzer Kliker](https://store.steampowered.com/app/3790770/) (AppID: 3790770)
 - [Silent Cleaning](https://store.steampowered.com/app/3833930/) (AppID: 3833930)
