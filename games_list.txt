@@ -11,7 +11,6 @@
 70420	Chantelise
 203290	America's Army: Proving Grounds
 210950	Rune Classic
-215830	Closers
 224940	Legacy of Kain: Soul Reaver 2 (2001)
 242880	Sir, You Are Being Hunted
 246980	InFlux
@@ -39,8 +38,10 @@
 379980	Panzermadels: Tank Dating Simulator
 381640	Allods Online RU
 388960	Torn Tales
+389140	Horizon Chase Turbo
 409510	Genesis Online
 418340	RWBY: Grimm Eclipse
+421190	Larcenauts
 429480	Vision Runner
 433850	Z1 Battle Royale
 436320	Raw Data
@@ -55,6 +56,7 @@
 455300	Deuterium Wars
 455990	Smash Pixel Racing
 467660	Paranormal Activity: The Lost Soul
+471710	Rec Room
 486130	Best Buds
 488430	Galaxy in Turmoil
 491060	League of Evil
@@ -67,6 +69,7 @@
 544920	Darwin Project
 548280	NeonBall
 554570	Witanlore: Dreamtime
+578650	The Outer Worlds
 583950	Artifact Classic
 586210	OVRdrop
 589500	Shovel Knight: Shovel of Hope
@@ -102,6 +105,7 @@
 720150	Shikhondo(食魂徒) - Soul Eater
 741140	Baldr Sky
 748980	Tico
+749130	SK8
 751440	VR Kanojo
 758150	McRogue
 773520	Refight: Burning Engine
@@ -126,7 +130,7 @@
 919240	Happy Block
 930470	Crimson Souls
 942270	Kunoichi Tsubaki
-950370	Tactics & Strategy Master 2 :Princess of Holy Light
+950370	Tactics &amp; Strategy Master 2 :Princess of Holy Light
 954280	3dSenVR
 966870	SinVR
 975910	HENTAI SHADOW
@@ -190,6 +194,7 @@
 1464420	Tower
 1465200	Broken Ecchi Gallery
 1482620	Slappyball
+1493360	Clouzy!
 1504010	Negative: The Way of Shinobi
 1542140	Mage Noir - Infinity
 1590320	Bro Falls: Ultimate Showdown
@@ -226,9 +231,9 @@
 2364540	Invaders
 2452220	Sevyal
 2468560	Tay Son Dynasty
-2478240	Bright Side: Riddles and Puzzles
 2483220	LivingDollsRebirth
 2487680	Burger Kombat
+2620870	Tracks of the Arcana
 2661260	Glitched Out
 2700090	Harmony in the Wild
 2723620	DunJumb
@@ -239,8 +244,7 @@
 2859870	Duel of games
 3066920	Nuke Bomberman
 3082770	BombMaze
-3165620	Bright Side: Quiz
-3185460	Fap&Click
+3185460	Fap&amp;Click
 3189010	The Mansion of The Macabre
 3213300	DUST II | The Infinite Zero Point
 3231900	Go Babies
@@ -257,6 +261,7 @@
 3600820	In Gehenna Fantasy Heroine Edition
 3650490	Oikizo
 3700250	Master of Piece: Prologue
+3728810	Cop Rush
 3785420	A Tale of Fortunate Lust
 3790770	Panzer Kliker
 3833930	Silent Cleaning

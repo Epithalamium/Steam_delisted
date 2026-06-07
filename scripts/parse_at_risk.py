@@ -1,3 +1,4 @@
+import re
 import sys
 import time
 from datetime import datetime, timezone
@@ -7,15 +8,6 @@ import requests
 from bs4 import BeautifulSoup
 
 URL = "https://steam-tracker.com/apps/at-risk"
-
-# Mirrors the default checked state of the client-side filters on the page:
-#   itemtype  0 = Recommended  (checked by default)
-#   itemtype  1 = Not recommended
-#   itemtype  2 = Informational
-# releasestate "released"   (checked by default)
-# releasestate "prerelease" (unchecked by default)
-ALLOWED_ITEMTYPES = {"0"}
-ALLOWED_RELEASESTATES = {"released"}
 
 ROOT = Path(__file__).parent.parent
 LIST_FILE = ROOT / "games_list.txt"
@@ -49,19 +41,21 @@ def parse_html(html: str) -> dict[str, str]:
     soup = BeautifulSoup(html, "html.parser")
     games: dict[str, str] = {}
 
-    for row in soup.find_all("tr", attrs={"data-appid": True}):
-        itemtype = row.get("data-itemtype", "")
-        releasestate = row.get("data-releasestate", "")
-        if itemtype not in ALLOWED_ITEMTYPES or releasestate not in ALLOWED_RELEASESTATES:
-            continue
-
-        appid = row["data-appid"]
+    for row in soup.find_all("tr"):
         tds = row.find_all("td", recursive=False)
         if len(tds) < 2:
             continue
-        link = tds[1].find("a")
-        if link:
-            games[appid] = link.get_text(strip=True)
+        # AppID is embedded in the first td's link href (e.g. steamdb.info/app/12345/)
+        appid_link = tds[0].find("a", href=True)
+        if not appid_link:
+            continue
+        m = re.search(r"/app/(\d+)/", appid_link["href"])
+        if not m:
+            continue
+        appid = m.group(1)
+        name_link = tds[1].find("a")
+        if name_link:
+            games[appid] = name_link.get_text(strip=True)
 
     return games
 
