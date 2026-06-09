@@ -1600,4 +1600,5 @@
 4316960	Spirit-Sealing Tome
 4375120	Jigokuraku: BATTLE IN HELL'S PARADISE
 4459850	NAMCO LEGENDARY Mountains
+4509000	Poisoned Path
 4682460	G-MODEアーカイブス+ パックマン

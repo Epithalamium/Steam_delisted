@@ -2,17 +2,17 @@
 
 Automatically tracks apps listed on [steam-tracker.com/apps/at-risk](https://steam-tracker.com/apps/at-risk).
 
-Updated every 2 days via GitHub Actions. Last updated: **2026-06-07 10:10 UTC**
+Updated every 2 days via GitHub Actions. Last updated: **2026-06-09 10:02 UTC**
 
 **Filters applied:** Recommended · Released (default page view)
 
-**Total tracked:** 1603 apps
+**Total tracked:** 1604 apps
 
 ---
 
 ## Newly Added Since Last Check
 
-_(No new entries this run)_
+- [Poisoned Path](https://store.steampowered.com/app/4509000/) (AppID: 4509000)
 
 ---
 
@@ -1620,4 +1620,5 @@ _(No new entries this run)_
 - [Spirit-Sealing Tome](https://store.steampowered.com/app/4316960/) (AppID: 4316960)
 - [Jigokuraku: BATTLE IN HELL'S PARADISE](https://store.steampowered.com/app/4375120/) (AppID: 4375120)
 - [NAMCO LEGENDARY Mountains](https://store.steampowered.com/app/4459850/) (AppID: 4459850)
+- [Poisoned Path](https://store.steampowered.com/app/4509000/) (AppID: 4509000)
 - [G-MODEアーカイブス+ パックマン](https://store.steampowered.com/app/4682460/) (AppID: 4682460)
