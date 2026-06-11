@@ -2,17 +2,17 @@
 
 Automatically tracks apps listed on [steam-tracker.com/apps/at-risk](https://steam-tracker.com/apps/at-risk).
 
-Updated every 2 days via GitHub Actions. Last updated: **2026-06-09 10:02 UTC**
+Updated every 2 days via GitHub Actions. Last updated: **2026-06-11 10:58 UTC**
 
 **Filters applied:** Recommended · Released (default page view)
 
-**Total tracked:** 1604 apps
+**Total tracked:** 1603 apps
 
 ---
 
 ## Newly Added Since Last Check
 
-- [Poisoned Path](https://store.steampowered.com/app/4509000/) (AppID: 4509000)
+_(No new entries this run)_
 
 ---
 
@@ -40,7 +40,7 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-06-09 10:02 UTC**
 - [Call of Cthulhu: Dark Corners of the Earth](https://store.steampowered.com/app/22340/) (AppID: 22340)
 - [DC Universe Online](https://store.steampowered.com/app/24200/) (AppID: 24200)
 - [Braid](https://store.steampowered.com/app/26800/) (AppID: 26800)
-- [Wallace & Gromit Ep 1: Fright of the Bumblebees](https://store.steampowered.com/app/31100/) (AppID: 31100)
+- [Wallace & Gromit’s Grand Adventures](https://store.steampowered.com/app/31100/) (AppID: 31100)
 - [Tales of Monkey Island: Chapter 1 - Launch of the Screaming Narwhal](https://store.steampowered.com/app/31170/) (AppID: 31170)
 - [Nancy Drew: Danger By Design](https://store.steampowered.com/app/31800/) (AppID: 31800)
 - [Nancy Drew: Last Train to Blue Moon Canyon](https://store.steampowered.com/app/31810/) (AppID: 31810)
@@ -742,7 +742,6 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-06-09 10:02 UTC**
 - [AO Tennis 2 Tools](https://store.steampowered.com/app/1089570/) (AppID: 1089570)
 - [Monster Energy Supercross - The Official Videogame 3](https://store.steampowered.com/app/1089830/) (AppID: 1089830)
 - [Blair Witch](https://store.steampowered.com/app/1092660/) (AppID: 1092660)
-- [Survive on Raft](https://store.steampowered.com/app/1094000/) (AppID: 1094000)
 - [The Orville - Interactive Fan Experience](https://store.steampowered.com/app/1096200/) (AppID: 1096200)
 - [Vampire: The Masquerade - Coteries of New York](https://store.steampowered.com/app/1096410/) (AppID: 1096410)
 - [Solasta: Crown of the Magister](https://store.steampowered.com/app/1096530/) (AppID: 1096530)
