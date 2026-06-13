@@ -2,17 +2,17 @@
 
 Automatically tracks apps listed on [steam-tracker.com/apps/at-risk](https://steam-tracker.com/apps/at-risk).
 
-Updated every 2 days via GitHub Actions. Last updated: **2026-06-11 10:58 UTC**
+Updated every 2 days via GitHub Actions. Last updated: **2026-06-13 09:33 UTC**
 
 **Filters applied:** Recommended · Released (default page view)
 
-**Total tracked:** 1603 apps
+**Total tracked:** 1604 apps
 
 ---
 
 ## Newly Added Since Last Check
 
-_(No new entries this run)_
+- [PICO PARK:Classic Edition](https://store.steampowered.com/app/461040/) (AppID: 461040)
 
 ---
 
@@ -295,6 +295,7 @@ _(No new entries this run)_
 - [DUCATI - 90th Anniversary](https://store.steampowered.com/app/456780/) (AppID: 456780)
 - [WRC 6](https://store.steampowered.com/app/458770/) (AppID: 458770)
 - [Steep](https://store.steampowered.com/app/460920/) (AppID: 460920)
+- [PICO PARK:Classic Edition](https://store.steampowered.com/app/461040/) (AppID: 461040)
 - [Don Bradman Cricket 17](https://store.steampowered.com/app/464850/) (AppID: 464850)
 - [Franchise Hockey Manager 3](https://store.steampowered.com/app/465660/) (AppID: 465660)
 - [Planescape: Torment: Enhanced Edition](https://store.steampowered.com/app/466300/) (AppID: 466300)
