@@ -20,7 +20,7 @@
 22340	Call of Cthulhu: Dark Corners of the Earth
 24200	DC Universe Online
 26800	Braid
-31100	Wallace & Gromit’s Grand Adventures
+31100	Wallace & Gromit Ep 1: Fright of the Bumblebees
 31170	Tales of Monkey Island: Chapter 1 - Launch of the Screaming Narwhal
 31800	Nancy Drew: Danger By Design
 31810	Nancy Drew: Last Train to Blue Moon Canyon
@@ -143,6 +143,7 @@
 292410	Street Racing Syndicate
 293880	Dark Scavenger
 300550	Shadowrun: Dragonfall - Director's Cut
+300820	Toy Story 3
 303830	Motorcycle Club
 304170	Kick-Ass 2
 304580	CITYCONOMY: Service for your City
@@ -435,6 +436,7 @@
 672310	Kingdoms of Marazia: Classic
 673880	Warhammer 40,000: Mechanicus
 673970	MuX
+674020	World War 3
 674160	Slasher VR
 675260	Batman: The Enemy Within - The Telltale Series
 676310	Deadly Zone
@@ -1018,8 +1020,6 @@
 1649860	Krut: The Mythic Wings
 1650010	RIDE 5
 1653790	Sisters of Silent Liberty
-1655410	Witchaven
-1655430	Witchaven II: Blood Vengeance
 1657880	3Cushion Masters
 1659600	Teenage Mutant Ninja Turtles: The Cowabunga Collection
 1660520	Pirates
@@ -1536,6 +1536,7 @@
 3509140	Fear Effect 2: Retro Helix
 3527760	RoboCop: Rogue City - Unfinished Business
 3533730	Warhammer 40,000: Boltgun - Words of Vengeance
+3537530	Don't shoot politics
 3543640	Mortal Cultivation Biography
 3556750	Warhammer 40,000: Dawn of War - Definitive Edition
 3569250	The Sequencer
@@ -1545,6 +1546,7 @@
 3600820	In Gehenna Fantasy Heroine Edition
 3633250	Junji Ito Maniac: An Infinite Gaol
 3649590	run for money Hunter vs. Runner! Which side will you win!?
+3649990	Putin Jigsaw
 3650170	Marsupilami 2 - Salsa Palombia
 3650490	Oikizo
 3655390	Alien: Rogue Incursion Evolved Edition

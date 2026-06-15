@@ -2,17 +2,20 @@
 
 Automatically tracks apps listed on [steam-tracker.com/apps/at-risk](https://steam-tracker.com/apps/at-risk).
 
-Updated every 2 days via GitHub Actions. Last updated: **2026-06-13 09:33 UTC**
+Updated every 2 days via GitHub Actions. Last updated: **2026-06-15 12:41 UTC**
 
 **Filters applied:** Recommended · Released (default page view)
 
-**Total tracked:** 1604 apps
+**Total tracked:** 1606 apps
 
 ---
 
 ## Newly Added Since Last Check
 
-- [PICO PARK:Classic Edition](https://store.steampowered.com/app/461040/) (AppID: 461040)
+- [Toy Story 3](https://store.steampowered.com/app/300820/) (AppID: 300820)
+- [World War 3](https://store.steampowered.com/app/674020/) (AppID: 674020)
+- [Don't shoot politics](https://store.steampowered.com/app/3537530/) (AppID: 3537530)
+- [Putin Jigsaw](https://store.steampowered.com/app/3649990/) (AppID: 3649990)
 
 ---
 
@@ -40,7 +43,7 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-06-13 09:33 UTC**
 - [Call of Cthulhu: Dark Corners of the Earth](https://store.steampowered.com/app/22340/) (AppID: 22340)
 - [DC Universe Online](https://store.steampowered.com/app/24200/) (AppID: 24200)
 - [Braid](https://store.steampowered.com/app/26800/) (AppID: 26800)
-- [Wallace & Gromit’s Grand Adventures](https://store.steampowered.com/app/31100/) (AppID: 31100)
+- [Wallace & Gromit Ep 1: Fright of the Bumblebees](https://store.steampowered.com/app/31100/) (AppID: 31100)
 - [Tales of Monkey Island: Chapter 1 - Launch of the Screaming Narwhal](https://store.steampowered.com/app/31170/) (AppID: 31170)
 - [Nancy Drew: Danger By Design](https://store.steampowered.com/app/31800/) (AppID: 31800)
 - [Nancy Drew: Last Train to Blue Moon Canyon](https://store.steampowered.com/app/31810/) (AppID: 31810)
@@ -163,6 +166,7 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-06-13 09:33 UTC**
 - [Street Racing Syndicate](https://store.steampowered.com/app/292410/) (AppID: 292410)
 - [Dark Scavenger](https://store.steampowered.com/app/293880/) (AppID: 293880)
 - [Shadowrun: Dragonfall - Director's Cut](https://store.steampowered.com/app/300550/) (AppID: 300550)
+- [Toy Story 3](https://store.steampowered.com/app/300820/) (AppID: 300820)
 - [Motorcycle Club](https://store.steampowered.com/app/303830/) (AppID: 303830)
 - [Kick-Ass 2](https://store.steampowered.com/app/304170/) (AppID: 304170)
 - [CITYCONOMY: Service for your City](https://store.steampowered.com/app/304580/) (AppID: 304580)
@@ -455,6 +459,7 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-06-13 09:33 UTC**
 - [Kingdoms of Marazia: Classic](https://store.steampowered.com/app/672310/) (AppID: 672310)
 - [Warhammer 40,000: Mechanicus](https://store.steampowered.com/app/673880/) (AppID: 673880)
 - [MuX](https://store.steampowered.com/app/673970/) (AppID: 673970)
+- [World War 3](https://store.steampowered.com/app/674020/) (AppID: 674020)
 - [Slasher VR](https://store.steampowered.com/app/674160/) (AppID: 674160)
 - [Batman: The Enemy Within - The Telltale Series](https://store.steampowered.com/app/675260/) (AppID: 675260)
 - [Deadly Zone](https://store.steampowered.com/app/676310/) (AppID: 676310)
@@ -1038,8 +1043,6 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-06-13 09:33 UTC**
 - [Krut: The Mythic Wings](https://store.steampowered.com/app/1649860/) (AppID: 1649860)
 - [RIDE 5](https://store.steampowered.com/app/1650010/) (AppID: 1650010)
 - [Sisters of Silent Liberty](https://store.steampowered.com/app/1653790/) (AppID: 1653790)
-- [Witchaven](https://store.steampowered.com/app/1655410/) (AppID: 1655410)
-- [Witchaven II: Blood Vengeance](https://store.steampowered.com/app/1655430/) (AppID: 1655430)
 - [3Cushion Masters](https://store.steampowered.com/app/1657880/) (AppID: 1657880)
 - [Teenage Mutant Ninja Turtles: The Cowabunga Collection](https://store.steampowered.com/app/1659600/) (AppID: 1659600)
 - [Pirates](https://store.steampowered.com/app/1660520/) (AppID: 1660520)
@@ -1556,6 +1559,7 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-06-13 09:33 UTC**
 - [Fear Effect 2: Retro Helix](https://store.steampowered.com/app/3509140/) (AppID: 3509140)
 - [RoboCop: Rogue City - Unfinished Business](https://store.steampowered.com/app/3527760/) (AppID: 3527760)
 - [Warhammer 40,000: Boltgun - Words of Vengeance](https://store.steampowered.com/app/3533730/) (AppID: 3533730)
+- [Don't shoot politics](https://store.steampowered.com/app/3537530/) (AppID: 3537530)
 - [Mortal Cultivation Biography](https://store.steampowered.com/app/3543640/) (AppID: 3543640)
 - [Warhammer 40,000: Dawn of War - Definitive Edition](https://store.steampowered.com/app/3556750/) (AppID: 3556750)
 - [The Sequencer](https://store.steampowered.com/app/3569250/) (AppID: 3569250)
@@ -1565,6 +1569,7 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-06-13 09:33 UTC**
 - [In Gehenna Fantasy Heroine Edition](https://store.steampowered.com/app/3600820/) (AppID: 3600820)
 - [Junji Ito Maniac: An Infinite Gaol](https://store.steampowered.com/app/3633250/) (AppID: 3633250)
 - [run for money Hunter vs. Runner! Which side will you win!?](https://store.steampowered.com/app/3649590/) (AppID: 3649590)
+- [Putin Jigsaw](https://store.steampowered.com/app/3649990/) (AppID: 3649990)
 - [Marsupilami 2 - Salsa Palombia](https://store.steampowered.com/app/3650170/) (AppID: 3650170)
 - [Oikizo](https://store.steampowered.com/app/3650490/) (AppID: 3650490)
 - [Alien: Rogue Incursion Evolved Edition](https://store.steampowered.com/app/3655390/) (AppID: 3655390)
