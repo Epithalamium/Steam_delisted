@@ -2,20 +2,21 @@
 
 Automatically tracks apps listed on [steam-tracker.com/apps/at-risk](https://steam-tracker.com/apps/at-risk).
 
-Updated every 2 days via GitHub Actions. Last updated: **2026-06-15 12:41 UTC**
+Updated every 2 days via GitHub Actions. Last updated: **2026-06-17 11:16 UTC**
 
 **Filters applied:** Recommended · Released (default page view)
 
-**Total tracked:** 1606 apps
+**Total tracked:** 1610 apps
 
 ---
 
 ## Newly Added Since Last Check
 
-- [Toy Story 3](https://store.steampowered.com/app/300820/) (AppID: 300820)
-- [World War 3](https://store.steampowered.com/app/674020/) (AppID: 674020)
-- [Don't shoot politics](https://store.steampowered.com/app/3537530/) (AppID: 3537530)
-- [Putin Jigsaw](https://store.steampowered.com/app/3649990/) (AppID: 3649990)
+- [Rayman Origins](https://store.steampowered.com/app/207490/) (AppID: 207490)
+- [Fight or Flight](https://store.steampowered.com/app/775620/) (AppID: 775620)
+- [Beauty Shooter](https://store.steampowered.com/app/1353560/) (AppID: 1353560)
+- [BarGirls](https://store.steampowered.com/app/3185490/) (AppID: 3185490)
+- [LunoBar](https://store.steampowered.com/app/4657870/) (AppID: 4657870)
 
 ---
 
@@ -71,6 +72,7 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-06-15 12:41 UTC**
 - [America's Army: Proving Grounds](https://store.steampowered.com/app/203290/) (AppID: 203290)
 - [The Dark Eye: Chains of Satinav](https://store.steampowered.com/app/203830/) (AppID: 203830)
 - [Dungeons & Dragons Online®](https://store.steampowered.com/app/206480/) (AppID: 206480)
+- [Rayman Origins](https://store.steampowered.com/app/207490/) (AppID: 207490)
 - [Game of Thrones](https://store.steampowered.com/app/208730/) (AppID: 208730)
 - [Nancy Drew: Tomb of the Lost Queen](https://store.steampowered.com/app/210230/) (AppID: 210230)
 - [Rune Classic](https://store.steampowered.com/app/210950/) (AppID: 210950)
@@ -299,7 +301,6 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-06-15 12:41 UTC**
 - [DUCATI - 90th Anniversary](https://store.steampowered.com/app/456780/) (AppID: 456780)
 - [WRC 6](https://store.steampowered.com/app/458770/) (AppID: 458770)
 - [Steep](https://store.steampowered.com/app/460920/) (AppID: 460920)
-- [PICO PARK:Classic Edition](https://store.steampowered.com/app/461040/) (AppID: 461040)
 - [Don Bradman Cricket 17](https://store.steampowered.com/app/464850/) (AppID: 464850)
 - [Franchise Hockey Manager 3](https://store.steampowered.com/app/465660/) (AppID: 465660)
 - [Planescape: Torment: Enhanced Edition](https://store.steampowered.com/app/466300/) (AppID: 466300)
@@ -529,6 +530,7 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-06-15 12:41 UTC**
 - [Refight: Burning Engine](https://store.steampowered.com/app/773520/) (AppID: 773520)
 - [Warhammer: Chaosbane](https://store.steampowered.com/app/774241/) (AppID: 774241)
 - [Filthy Frank Kart](https://store.steampowered.com/app/774661/) (AppID: 774661)
+- [Fight or Flight](https://store.steampowered.com/app/775620/) (AppID: 775620)
 - [MotoGP™18](https://store.steampowered.com/app/775900/) (AppID: 775900)
 - [True Puzzle](https://store.steampowered.com/app/780020/) (AppID: 780020)
 - [Gloomhaven](https://store.steampowered.com/app/780290/) (AppID: 780290)
@@ -911,6 +913,7 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-06-15 12:41 UTC**
 - [RiMS Racing](https://store.steampowered.com/app/1346010/) (AppID: 1346010)
 - [Jay and Silent Bob: Chronic Blunt Punch](https://store.steampowered.com/app/1346290/) (AppID: 1346290)
 - [Spice&Wolf VR2](https://store.steampowered.com/app/1348700/) (AppID: 1348700)
+- [Beauty Shooter](https://store.steampowered.com/app/1353560/) (AppID: 1353560)
 - [Who Wants To Be A Millionaire?](https://store.steampowered.com/app/1356240/) (AppID: 1356240)
 - [Battle Cry of Freedom](https://store.steampowered.com/app/1358710/) (AppID: 1358710)
 - [Warhammer 40,000: Darktide](https://store.steampowered.com/app/1361210/) (AppID: 1361210)
@@ -1258,7 +1261,7 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-06-15 12:41 UTC**
 - [Exorcist 2: Crow Magic](https://store.steampowered.com/app/2207590/) (AppID: 2207590)
 - [Jurassic Park: Survival](https://store.steampowered.com/app/2208810/) (AppID: 2208810)
 - [Moorhuhn Pirates - Crazy Chicken Pirates](https://store.steampowered.com/app/2209270/) (AppID: 2209270)
-- [COPA CITY](https://store.steampowered.com/app/2210520/) (AppID: 2210520)
+- [Copa City](https://store.steampowered.com/app/2210520/) (AppID: 2210520)
 - [DEATH NOTE Killer Within](https://store.steampowered.com/app/2213190/) (AppID: 2213190)
 - [Sven - Completely Screwed](https://store.steampowered.com/app/2213500/) (AppID: 2213500)
 - [Scott Pilgrim vs The World](https://store.steampowered.com/app/2215260/) (AppID: 2215260)
@@ -1505,6 +1508,7 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-06-15 12:41 UTC**
 - [Bright Side: Quiz](https://store.steampowered.com/app/3165620/) (AppID: 3165620)
 - [Warhammer 40,000: Space Marine - Master Crafted Edition](https://store.steampowered.com/app/3169520/) (AppID: 3169520)
 - [Fap&Click](https://store.steampowered.com/app/3185460/) (AppID: 3185460)
+- [BarGirls](https://store.steampowered.com/app/3185490/) (AppID: 3185490)
 - [The Mansion of The Macabre](https://store.steampowered.com/app/3189010/) (AppID: 3189010)
 - [The Elf on the Shelf®: Christmas Heroes](https://store.steampowered.com/app/3210120/) (AppID: 3210120)
 - [Bratz® Rhythm & Style](https://store.steampowered.com/app/3212580/) (AppID: 3212580)
@@ -1626,4 +1630,5 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-06-15 12:41 UTC**
 - [Jigokuraku: BATTLE IN HELL'S PARADISE](https://store.steampowered.com/app/4375120/) (AppID: 4375120)
 - [NAMCO LEGENDARY Mountains](https://store.steampowered.com/app/4459850/) (AppID: 4459850)
 - [Poisoned Path](https://store.steampowered.com/app/4509000/) (AppID: 4509000)
+- [LunoBar](https://store.steampowered.com/app/4657870/) (AppID: 4657870)
 - [G-MODEアーカイブス+ パックマン](https://store.steampowered.com/app/4682460/) (AppID: 4682460)

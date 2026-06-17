@@ -48,6 +48,7 @@
 203290	America's Army: Proving Grounds
 203830	The Dark Eye: Chains of Satinav
 206480	Dungeons & Dragons Online®
+207490	Rayman Origins
 208730	Game of Thrones
 210230	Nancy Drew: Tomb of the Lost Queen
 210950	Rune Classic
@@ -276,7 +277,6 @@
 456780	DUCATI - 90th Anniversary
 458770	WRC 6
 460920	Steep
-461040	PICO PARK:Classic Edition
 464850	Don Bradman Cricket 17
 465660	Franchise Hockey Manager 3
 466300	Planescape: Torment: Enhanced Edition
@@ -506,6 +506,7 @@
 773520	Refight: Burning Engine
 774241	Warhammer: Chaosbane
 774661	Filthy Frank Kart
+775620	Fight or Flight
 775900	MotoGP™18
 780020	True Puzzle
 780290	Gloomhaven
@@ -888,6 +889,7 @@
 1346010	RiMS Racing
 1346290	Jay and Silent Bob: Chronic Blunt Punch
 1348700	Spice&Wolf VR2
+1353560	Beauty Shooter
 1356240	Who Wants To Be A Millionaire?
 1358710	Battle Cry of Freedom
 1361210	Warhammer 40,000: Darktide
@@ -1235,7 +1237,7 @@
 2207590	Exorcist 2: Crow Magic
 2208810	Jurassic Park: Survival
 2209270	Moorhuhn Pirates - Crazy Chicken Pirates
-2210520	COPA CITY
+2210520	Copa City
 2213190	DEATH NOTE Killer Within
 2213500	Sven - Completely Screwed
 2215260	Scott Pilgrim vs The World
@@ -1482,6 +1484,7 @@
 3165620	Bright Side: Quiz
 3169520	Warhammer 40,000: Space Marine - Master Crafted Edition
 3185460	Fap&Click
+3185490	BarGirls
 3189010	The Mansion of The Macabre
 3210120	The Elf on the Shelf®: Christmas Heroes
 3212580	Bratz® Rhythm & Style
@@ -1603,4 +1606,5 @@
 4375120	Jigokuraku: BATTLE IN HELL'S PARADISE
 4459850	NAMCO LEGENDARY Mountains
 4509000	Poisoned Path
+4657870	LunoBar
 4682460	G-MODEアーカイブス+ パックマン
