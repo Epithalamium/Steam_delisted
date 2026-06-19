@@ -2,7 +2,7 @@
 
 Automatically tracks apps listed on [steam-tracker.com/apps/at-risk](https://steam-tracker.com/apps/at-risk).
 
-Updated every 2 days via GitHub Actions. Last updated: **2026-06-17 11:16 UTC**
+Updated every 2 days via GitHub Actions. Last updated: **2026-06-19 10:56 UTC**
 
 **Filters applied:** Recommended · Released (default page view)
 
@@ -12,11 +12,8 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-06-17 11:16 UTC**
 
 ## Newly Added Since Last Check
 
-- [Rayman Origins](https://store.steampowered.com/app/207490/) (AppID: 207490)
-- [Fight or Flight](https://store.steampowered.com/app/775620/) (AppID: 775620)
-- [Beauty Shooter](https://store.steampowered.com/app/1353560/) (AppID: 1353560)
-- [BarGirls](https://store.steampowered.com/app/3185490/) (AppID: 3185490)
-- [LunoBar](https://store.steampowered.com/app/4657870/) (AppID: 4657870)
+- [Dreaming Blue](https://store.steampowered.com/app/2940920/) (AppID: 2940920)
+- [Forgotten Records](https://store.steampowered.com/app/4214600/) (AppID: 4214600)
 
 ---
 
@@ -1004,7 +1001,6 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-06-17 11:16 UTC**
 - [Disney Speedstorm](https://store.steampowered.com/app/1537830/) (AppID: 1537830)
 - [Shoresy: Legends of the North](https://store.steampowered.com/app/1538010/) (AppID: 1538010)
 - [LEGO® Voyagers](https://store.steampowered.com/app/1538550/) (AppID: 1538550)
-- [Mage Noir - Infinity](https://store.steampowered.com/app/1542140/) (AppID: 1542140)
 - [SRX: The Game](https://store.steampowered.com/app/1542790/) (AppID: 1542790)
 - [Aliens: Fireteam Elite](https://store.steampowered.com/app/1549970/) (AppID: 1549970)
 - [Forza Horizon 5](https://store.steampowered.com/app/1551360/) (AppID: 1551360)
@@ -1467,6 +1463,7 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-06-17 11:16 UTC**
 - [The Lord of the Rings: Return to Moria™](https://store.steampowered.com/app/2933130/) (AppID: 2933130)
 - [Doraemon Dorayaki Shop Story](https://store.steampowered.com/app/2934180/) (AppID: 2934180)
 - [The Walking Dead: No Man's Land](https://store.steampowered.com/app/2936310/) (AppID: 2936310)
+- [Dreaming Blue](https://store.steampowered.com/app/2940920/) (AppID: 2940920)
 - [Jurassic World Evolution 3](https://store.steampowered.com/app/2958130/) (AppID: 2958130)
 - [The Thing: Remastered](https://store.steampowered.com/app/2958970/) (AppID: 2958970)
 - [Yapori Minigames](https://store.steampowered.com/app/2964440/) (AppID: 2964440)
@@ -1626,9 +1623,9 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-06-17 11:16 UTC**
 - [eBaseball™: PRO SPIRIT](https://store.steampowered.com/app/4128400/) (AppID: 4128400)
 - [MINOS: Home A-Labyrinth](https://store.steampowered.com/app/4162630/) (AppID: 4162630)
 - [The NewZealand Story: Untold Adventure](https://store.steampowered.com/app/4193730/) (AppID: 4193730)
+- [Forgotten Records](https://store.steampowered.com/app/4214600/) (AppID: 4214600)
 - [Spirit-Sealing Tome](https://store.steampowered.com/app/4316960/) (AppID: 4316960)
 - [Jigokuraku: BATTLE IN HELL'S PARADISE](https://store.steampowered.com/app/4375120/) (AppID: 4375120)
 - [NAMCO LEGENDARY Mountains](https://store.steampowered.com/app/4459850/) (AppID: 4459850)
 - [Poisoned Path](https://store.steampowered.com/app/4509000/) (AppID: 4509000)
-- [LunoBar](https://store.steampowered.com/app/4657870/) (AppID: 4657870)
 - [G-MODEアーカイブス+ パックマン](https://store.steampowered.com/app/4682460/) (AppID: 4682460)

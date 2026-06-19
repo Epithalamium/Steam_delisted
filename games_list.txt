@@ -980,7 +980,6 @@
 1537830	Disney Speedstorm
 1538010	Shoresy: Legends of the North
 1538550	LEGO® Voyagers
-1542140	Mage Noir - Infinity
 1542790	SRX: The Game
 1549970	Aliens: Fireteam Elite
 1551360	Forza Horizon 5
@@ -1443,6 +1442,7 @@
 2933130	The Lord of the Rings: Return to Moria™
 2934180	Doraemon Dorayaki Shop Story
 2936310	The Walking Dead: No Man's Land
+2940920	Dreaming Blue
 2958130	Jurassic World Evolution 3
 2958970	The Thing: Remastered
 2964440	Yapori Minigames
@@ -1602,9 +1602,9 @@
 4128400	eBaseball™: PRO SPIRIT
 4162630	MINOS: Home A-Labyrinth
 4193730	The NewZealand Story: Untold Adventure
+4214600	Forgotten Records
 4316960	Spirit-Sealing Tome
 4375120	Jigokuraku: BATTLE IN HELL'S PARADISE
 4459850	NAMCO LEGENDARY Mountains
 4509000	Poisoned Path
-4657870	LunoBar
 4682460	G-MODEアーカイブス+ パックマン
