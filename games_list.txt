@@ -20,7 +20,7 @@
 22340	Call of Cthulhu: Dark Corners of the Earth
 24200	DC Universe Online
 26800	Braid
-31100	Wallace & Gromit Ep 1: Fright of the Bumblebees
+31100	Wallace & Gromit’s Grand Adventures
 31170	Tales of Monkey Island: Chapter 1 - Launch of the Screaming Narwhal
 31800	Nancy Drew: Danger By Design
 31810	Nancy Drew: Last Train to Blue Moon Canyon
@@ -1583,6 +1583,7 @@
 3882430	Laid-Back Camp: Camping Cook-off!
 3903190	The Bygone Days of Her and the Flowers
 3915180	史小坑的黑暗料理
+3927680	Steel Defence
 3931060	MARVEL MaXimum Collection
 3936520	Tour de France 2026
 3936530	Pro Cycling Manager 26

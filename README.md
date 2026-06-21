@@ -2,18 +2,17 @@
 
 Automatically tracks apps listed on [steam-tracker.com/apps/at-risk](https://steam-tracker.com/apps/at-risk).
 
-Updated every 2 days via GitHub Actions. Last updated: **2026-06-19 10:56 UTC**
+Updated every 2 days via GitHub Actions. Last updated: **2026-06-21 10:04 UTC**
 
 **Filters applied:** Recommended · Released (default page view)
 
-**Total tracked:** 1610 apps
+**Total tracked:** 1611 apps
 
 ---
 
 ## Newly Added Since Last Check
 
-- [Dreaming Blue](https://store.steampowered.com/app/2940920/) (AppID: 2940920)
-- [Forgotten Records](https://store.steampowered.com/app/4214600/) (AppID: 4214600)
+- [Steel Defence](https://store.steampowered.com/app/3927680/) (AppID: 3927680)
 
 ---
 
@@ -41,7 +40,7 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-06-19 10:56 UTC**
 - [Call of Cthulhu: Dark Corners of the Earth](https://store.steampowered.com/app/22340/) (AppID: 22340)
 - [DC Universe Online](https://store.steampowered.com/app/24200/) (AppID: 24200)
 - [Braid](https://store.steampowered.com/app/26800/) (AppID: 26800)
-- [Wallace & Gromit Ep 1: Fright of the Bumblebees](https://store.steampowered.com/app/31100/) (AppID: 31100)
+- [Wallace & Gromit’s Grand Adventures](https://store.steampowered.com/app/31100/) (AppID: 31100)
 - [Tales of Monkey Island: Chapter 1 - Launch of the Screaming Narwhal](https://store.steampowered.com/app/31170/) (AppID: 31170)
 - [Nancy Drew: Danger By Design](https://store.steampowered.com/app/31800/) (AppID: 31800)
 - [Nancy Drew: Last Train to Blue Moon Canyon](https://store.steampowered.com/app/31810/) (AppID: 31810)
@@ -1604,6 +1603,7 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-06-19 10:56 UTC**
 - [Laid-Back Camp: Camping Cook-off!](https://store.steampowered.com/app/3882430/) (AppID: 3882430)
 - [The Bygone Days of Her and the Flowers](https://store.steampowered.com/app/3903190/) (AppID: 3903190)
 - [史小坑的黑暗料理](https://store.steampowered.com/app/3915180/) (AppID: 3915180)
+- [Steel Defence](https://store.steampowered.com/app/3927680/) (AppID: 3927680)
 - [MARVEL MaXimum Collection](https://store.steampowered.com/app/3931060/) (AppID: 3931060)
 - [Tour de France 2026](https://store.steampowered.com/app/3936520/) (AppID: 3936520)
 - [Pro Cycling Manager 26](https://store.steampowered.com/app/3936530/) (AppID: 3936530)
