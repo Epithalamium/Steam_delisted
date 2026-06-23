@@ -2,17 +2,17 @@
 
 Automatically tracks apps listed on [steam-tracker.com/apps/at-risk](https://steam-tracker.com/apps/at-risk).
 
-Updated every 2 days via GitHub Actions. Last updated: **2026-06-21 10:04 UTC**
+Updated every 2 days via GitHub Actions. Last updated: **2026-06-23 10:02 UTC**
 
 **Filters applied:** Recommended · Released (default page view)
 
-**Total tracked:** 1611 apps
+**Total tracked:** 1609 apps
 
 ---
 
 ## Newly Added Since Last Check
 
-- [Steel Defence](https://store.steampowered.com/app/3927680/) (AppID: 3927680)
+- [Gold Hunter](https://store.steampowered.com/app/1082450/) (AppID: 1082450)
 
 ---
 
@@ -40,7 +40,7 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-06-21 10:04 UTC**
 - [Call of Cthulhu: Dark Corners of the Earth](https://store.steampowered.com/app/22340/) (AppID: 22340)
 - [DC Universe Online](https://store.steampowered.com/app/24200/) (AppID: 24200)
 - [Braid](https://store.steampowered.com/app/26800/) (AppID: 26800)
-- [Wallace & Gromit’s Grand Adventures](https://store.steampowered.com/app/31100/) (AppID: 31100)
+- [Wallace & Gromit Ep 1: Fright of the Bumblebees](https://store.steampowered.com/app/31100/) (AppID: 31100)
 - [Tales of Monkey Island: Chapter 1 - Launch of the Screaming Narwhal](https://store.steampowered.com/app/31170/) (AppID: 31170)
 - [Nancy Drew: Danger By Design](https://store.steampowered.com/app/31800/) (AppID: 31800)
 - [Nancy Drew: Last Train to Blue Moon Canyon](https://store.steampowered.com/app/31810/) (AppID: 31810)
@@ -733,6 +733,7 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-06-21 10:04 UTC**
 - [Doctor Who: The Edge Of Time](https://store.steampowered.com/app/1075400/) (AppID: 1075400)
 - [fox soldier](https://store.steampowered.com/app/1076130/) (AppID: 1076130)
 - [TT Isle of Man: Ride on the Edge 2](https://store.steampowered.com/app/1082180/) (AppID: 1082180)
+- [Gold Hunter](https://store.steampowered.com/app/1082450/) (AppID: 1082450)
 - [The Walking Dead Onslaught](https://store.steampowered.com/app/1082680/) (AppID: 1082680)
 - [The Last Town](https://store.steampowered.com/app/1083000/) (AppID: 1083000)
 - [Garfield Kart - Furious Racing](https://store.steampowered.com/app/1085510/) (AppID: 1085510)
@@ -909,7 +910,6 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-06-21 10:04 UTC**
 - [RiMS Racing](https://store.steampowered.com/app/1346010/) (AppID: 1346010)
 - [Jay and Silent Bob: Chronic Blunt Punch](https://store.steampowered.com/app/1346290/) (AppID: 1346290)
 - [Spice&Wolf VR2](https://store.steampowered.com/app/1348700/) (AppID: 1348700)
-- [Beauty Shooter](https://store.steampowered.com/app/1353560/) (AppID: 1353560)
 - [Who Wants To Be A Millionaire?](https://store.steampowered.com/app/1356240/) (AppID: 1356240)
 - [Battle Cry of Freedom](https://store.steampowered.com/app/1358710/) (AppID: 1358710)
 - [Warhammer 40,000: Darktide](https://store.steampowered.com/app/1361210/) (AppID: 1361210)
@@ -936,7 +936,7 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-06-21 10:04 UTC**
 - [Grimace Run](https://store.steampowered.com/app/1412820/) (AppID: 1412820)
 - [Nickelodeon All-Star Brawl](https://store.steampowered.com/app/1414850/) (AppID: 1414850)
 - [PBA Pro Bowling 2021](https://store.steampowered.com/app/1415920/) (AppID: 1415920)
-- [Wolves Online](https://store.steampowered.com/app/1417340/) (AppID: 1417340)
+- [Werewolf Online](https://store.steampowered.com/app/1417340/) (AppID: 1417340)
 - [Wonder Boy: Asha in monster world](https://store.steampowered.com/app/1420080/) (AppID: 1420080)
 - [Fraymakers](https://store.steampowered.com/app/1420350/) (AppID: 1420350)
 - [Labyrinth City: Pierre the Maze Detective](https://store.steampowered.com/app/1421790/) (AppID: 1421790)
@@ -1194,7 +1194,6 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-06-21 10:04 UTC**
 - [X-Plane 12](https://store.steampowered.com/app/2014780/) (AppID: 2014780)
 - [Tales of the Shire: A The Lord of The Rings™ Game](https://store.steampowered.com/app/2016460/) (AppID: 2016460)
 - [Nickelodeon All-Star Brawl 2](https://store.steampowered.com/app/2017080/) (AppID: 2017080)
-- [Koatl the defender : The Lost Tunnels](https://store.steampowered.com/app/2025710/) (AppID: 2025710)
 - [HOT WHEELS UNLEASHED™ 2 - Turbocharged](https://store.steampowered.com/app/2051120/) (AppID: 2051120)
 - [Yakuza Undisputed](https://store.steampowered.com/app/2051820/) (AppID: 2051820)
 - [Gawr Gura: Quest for Bread](https://store.steampowered.com/app/2054520/) (AppID: 2054520)
@@ -1504,7 +1503,6 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-06-21 10:04 UTC**
 - [Bright Side: Quiz](https://store.steampowered.com/app/3165620/) (AppID: 3165620)
 - [Warhammer 40,000: Space Marine - Master Crafted Edition](https://store.steampowered.com/app/3169520/) (AppID: 3169520)
 - [Fap&Click](https://store.steampowered.com/app/3185460/) (AppID: 3185460)
-- [BarGirls](https://store.steampowered.com/app/3185490/) (AppID: 3185490)
 - [The Mansion of The Macabre](https://store.steampowered.com/app/3189010/) (AppID: 3189010)
 - [The Elf on the Shelf®: Christmas Heroes](https://store.steampowered.com/app/3210120/) (AppID: 3210120)
 - [Bratz® Rhythm & Style](https://store.steampowered.com/app/3212580/) (AppID: 3212580)

@@ -20,7 +20,7 @@
 22340	Call of Cthulhu: Dark Corners of the Earth
 24200	DC Universe Online
 26800	Braid
-31100	Wallace & Gromit’s Grand Adventures
+31100	Wallace & Gromit Ep 1: Fright of the Bumblebees
 31170	Tales of Monkey Island: Chapter 1 - Launch of the Screaming Narwhal
 31800	Nancy Drew: Danger By Design
 31810	Nancy Drew: Last Train to Blue Moon Canyon
@@ -713,6 +713,7 @@
 1075400	Doctor Who: The Edge Of Time
 1076130	fox soldier
 1082180	TT Isle of Man: Ride on the Edge 2
+1082450	Gold Hunter
 1082680	The Walking Dead Onslaught
 1083000	The Last Town
 1085510	Garfield Kart - Furious Racing
@@ -889,7 +890,6 @@
 1346010	RiMS Racing
 1346290	Jay and Silent Bob: Chronic Blunt Punch
 1348700	Spice&Wolf VR2
-1353560	Beauty Shooter
 1356240	Who Wants To Be A Millionaire?
 1358710	Battle Cry of Freedom
 1361210	Warhammer 40,000: Darktide
@@ -916,7 +916,7 @@
 1412820	Grimace Run
 1414850	Nickelodeon All-Star Brawl
 1415920	PBA Pro Bowling 2021
-1417340	Wolves Online
+1417340	Werewolf Online
 1420080	Wonder Boy: Asha in monster world
 1420350	Fraymakers
 1421790	Labyrinth City: Pierre the Maze Detective
@@ -1174,7 +1174,6 @@
 2014780	X-Plane 12
 2016460	Tales of the Shire: A The Lord of The Rings™ Game
 2017080	Nickelodeon All-Star Brawl 2
-2025710	Koatl the defender : The Lost Tunnels
 2051120	HOT WHEELS UNLEASHED™ 2 - Turbocharged
 2051820	Yakuza Undisputed
 2054520	Gawr Gura: Quest for Bread
@@ -1484,7 +1483,6 @@
 3165620	Bright Side: Quiz
 3169520	Warhammer 40,000: Space Marine - Master Crafted Edition
 3185460	Fap&Click
-3185490	BarGirls
 3189010	The Mansion of The Macabre
 3210120	The Elf on the Shelf®: Christmas Heroes
 3212580	Bratz® Rhythm & Style
