@@ -20,7 +20,7 @@
 22340	Call of Cthulhu: Dark Corners of the Earth
 24200	DC Universe Online
 26800	Braid
-31100	Wallace & Gromit Ep 1: Fright of the Bumblebees
+31100	Wallace & Gromit’s Grand Adventures
 31170	Tales of Monkey Island: Chapter 1 - Launch of the Screaming Narwhal
 31800	Nancy Drew: Danger By Design
 31810	Nancy Drew: Last Train to Blue Moon Canyon
@@ -59,7 +59,6 @@
 214490	Alien: Isolation
 214510	LEGO® The Lord of the Rings™
 215630	Demonicon
-215830	Closers
 216260	Don Bradman Cricket 14
 216890	Blood Bowl: Chaos Edition
 217750	Age of Conan: Unchained
@@ -826,6 +825,7 @@
 1249800	Xuan-Yuan Sword VII
 1249970	Test Drive Unlimited Solar Crown
 1250650	AI＊Shoujo/AI＊少女
+1250770	前進吧！高捷少女Initiating Station PLUS
 1251960	Deathtrap Dungeon: The Golden Room
 1253190	Warhammer 40,000: Dakka Squadron - Flyboyz Edition
 1253870	ANIME STANDING
@@ -1139,6 +1139,7 @@
 1926220	Ludo XXL
 1926590	Nancy Drew®: Mystery of the Seven Keys
 1930580	Devil's 5 Days Mischief Game
+1934930	Conquest Emperor
 1935960	Drifter's Tales
 1937470	Franchise Hockey Manager 9
 1940410	Starri
@@ -1581,7 +1582,6 @@
 3882430	Laid-Back Camp: Camping Cook-off!
 3903190	The Bygone Days of Her and the Flowers
 3915180	史小坑的黑暗料理
-3927680	Steel Defence
 3931060	MARVEL MaXimum Collection
 3936520	Tour de France 2026
 3936530	Pro Cycling Manager 26
@@ -1602,6 +1602,7 @@
 4162630	MINOS: Home A-Labyrinth
 4193730	The NewZealand Story: Untold Adventure
 4214600	Forgotten Records
+4237390	Goyslop
 4316960	Spirit-Sealing Tome
 4375120	Jigokuraku: BATTLE IN HELL'S PARADISE
 4459850	NAMCO LEGENDARY Mountains

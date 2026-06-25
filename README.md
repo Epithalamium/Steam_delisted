@@ -2,17 +2,19 @@
 
 Automatically tracks apps listed on [steam-tracker.com/apps/at-risk](https://steam-tracker.com/apps/at-risk).
 
-Updated every 2 days via GitHub Actions. Last updated: **2026-06-23 10:02 UTC**
+Updated every 2 days via GitHub Actions. Last updated: **2026-06-25 09:42 UTC**
 
 **Filters applied:** Recommended · Released (default page view)
 
-**Total tracked:** 1609 apps
+**Total tracked:** 1610 apps
 
 ---
 
 ## Newly Added Since Last Check
 
-- [Gold Hunter](https://store.steampowered.com/app/1082450/) (AppID: 1082450)
+- [前進吧！高捷少女Initiating Station PLUS](https://store.steampowered.com/app/1250770/) (AppID: 1250770)
+- [Conquest Emperor](https://store.steampowered.com/app/1934930/) (AppID: 1934930)
+- [Goyslop](https://store.steampowered.com/app/4237390/) (AppID: 4237390)
 
 ---
 
@@ -40,7 +42,7 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-06-23 10:02 UTC**
 - [Call of Cthulhu: Dark Corners of the Earth](https://store.steampowered.com/app/22340/) (AppID: 22340)
 - [DC Universe Online](https://store.steampowered.com/app/24200/) (AppID: 24200)
 - [Braid](https://store.steampowered.com/app/26800/) (AppID: 26800)
-- [Wallace & Gromit Ep 1: Fright of the Bumblebees](https://store.steampowered.com/app/31100/) (AppID: 31100)
+- [Wallace & Gromit’s Grand Adventures](https://store.steampowered.com/app/31100/) (AppID: 31100)
 - [Tales of Monkey Island: Chapter 1 - Launch of the Screaming Narwhal](https://store.steampowered.com/app/31170/) (AppID: 31170)
 - [Nancy Drew: Danger By Design](https://store.steampowered.com/app/31800/) (AppID: 31800)
 - [Nancy Drew: Last Train to Blue Moon Canyon](https://store.steampowered.com/app/31810/) (AppID: 31810)
@@ -79,7 +81,6 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-06-23 10:02 UTC**
 - [Alien: Isolation](https://store.steampowered.com/app/214490/) (AppID: 214490)
 - [LEGO® The Lord of the Rings™](https://store.steampowered.com/app/214510/) (AppID: 214510)
 - [Demonicon](https://store.steampowered.com/app/215630/) (AppID: 215630)
-- [Closers](https://store.steampowered.com/app/215830/) (AppID: 215830)
 - [Don Bradman Cricket 14](https://store.steampowered.com/app/216260/) (AppID: 216260)
 - [Blood Bowl: Chaos Edition](https://store.steampowered.com/app/216890/) (AppID: 216890)
 - [Age of Conan: Unchained](https://store.steampowered.com/app/217750/) (AppID: 217750)
@@ -846,6 +847,7 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-06-23 10:02 UTC**
 - [Xuan-Yuan Sword VII](https://store.steampowered.com/app/1249800/) (AppID: 1249800)
 - [Test Drive Unlimited Solar Crown](https://store.steampowered.com/app/1249970/) (AppID: 1249970)
 - [AI＊Shoujo/AI＊少女](https://store.steampowered.com/app/1250650/) (AppID: 1250650)
+- [前進吧！高捷少女Initiating Station PLUS](https://store.steampowered.com/app/1250770/) (AppID: 1250770)
 - [Deathtrap Dungeon: The Golden Room](https://store.steampowered.com/app/1251960/) (AppID: 1251960)
 - [Warhammer 40,000: Dakka Squadron - Flyboyz Edition](https://store.steampowered.com/app/1253190/) (AppID: 1253190)
 - [ANIME STANDING](https://store.steampowered.com/app/1253870/) (AppID: 1253870)
@@ -1159,6 +1161,7 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-06-23 10:02 UTC**
 - [Ludo XXL](https://store.steampowered.com/app/1926220/) (AppID: 1926220)
 - [Nancy Drew®: Mystery of the Seven Keys](https://store.steampowered.com/app/1926590/) (AppID: 1926590)
 - [Devil's 5 Days Mischief Game](https://store.steampowered.com/app/1930580/) (AppID: 1930580)
+- [Conquest Emperor](https://store.steampowered.com/app/1934930/) (AppID: 1934930)
 - [Drifter's Tales](https://store.steampowered.com/app/1935960/) (AppID: 1935960)
 - [Franchise Hockey Manager 9](https://store.steampowered.com/app/1937470/) (AppID: 1937470)
 - [Starri](https://store.steampowered.com/app/1940410/) (AppID: 1940410)
@@ -1601,7 +1604,6 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-06-23 10:02 UTC**
 - [Laid-Back Camp: Camping Cook-off!](https://store.steampowered.com/app/3882430/) (AppID: 3882430)
 - [The Bygone Days of Her and the Flowers](https://store.steampowered.com/app/3903190/) (AppID: 3903190)
 - [史小坑的黑暗料理](https://store.steampowered.com/app/3915180/) (AppID: 3915180)
-- [Steel Defence](https://store.steampowered.com/app/3927680/) (AppID: 3927680)
 - [MARVEL MaXimum Collection](https://store.steampowered.com/app/3931060/) (AppID: 3931060)
 - [Tour de France 2026](https://store.steampowered.com/app/3936520/) (AppID: 3936520)
 - [Pro Cycling Manager 26](https://store.steampowered.com/app/3936530/) (AppID: 3936530)
@@ -1622,6 +1624,7 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-06-23 10:02 UTC**
 - [MINOS: Home A-Labyrinth](https://store.steampowered.com/app/4162630/) (AppID: 4162630)
 - [The NewZealand Story: Untold Adventure](https://store.steampowered.com/app/4193730/) (AppID: 4193730)
 - [Forgotten Records](https://store.steampowered.com/app/4214600/) (AppID: 4214600)
+- [Goyslop](https://store.steampowered.com/app/4237390/) (AppID: 4237390)
 - [Spirit-Sealing Tome](https://store.steampowered.com/app/4316960/) (AppID: 4316960)
 - [Jigokuraku: BATTLE IN HELL'S PARADISE](https://store.steampowered.com/app/4375120/) (AppID: 4375120)
 - [NAMCO LEGENDARY Mountains](https://store.steampowered.com/app/4459850/) (AppID: 4459850)
