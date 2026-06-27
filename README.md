@@ -2,19 +2,17 @@
 
 Automatically tracks apps listed on [steam-tracker.com/apps/at-risk](https://steam-tracker.com/apps/at-risk).
 
-Updated every 2 days via GitHub Actions. Last updated: **2026-06-25 09:42 UTC**
+Updated every 2 days via GitHub Actions. Last updated: **2026-06-27 08:49 UTC**
 
 **Filters applied:** Recommended · Released (default page view)
 
-**Total tracked:** 1610 apps
+**Total tracked:** 1609 apps
 
 ---
 
 ## Newly Added Since Last Check
 
-- [前進吧！高捷少女Initiating Station PLUS](https://store.steampowered.com/app/1250770/) (AppID: 1250770)
-- [Conquest Emperor](https://store.steampowered.com/app/1934930/) (AppID: 1934930)
-- [Goyslop](https://store.steampowered.com/app/4237390/) (AppID: 4237390)
+- [Steel Defence](https://store.steampowered.com/app/3927680/) (AppID: 3927680)
 
 ---
 
@@ -1274,7 +1272,7 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-06-25 09:42 UTC**
 - [Gigantosaurus: Dino Sports](https://store.steampowered.com/app/2238260/) (AppID: 2238260)
 - [Celebrity Kombat](https://store.steampowered.com/app/2240390/) (AppID: 2240390)
 - [Capoo Pals](https://store.steampowered.com/app/2253470/) (AppID: 2253470)
-- [TIEBREAK+: Official game of the ATP and WTA](https://store.steampowered.com/app/2264340/) (AppID: 2264340)
+- [TIEBREAK – GRAND SLAM EDITION](https://store.steampowered.com/app/2264340/) (AppID: 2264340)
 - [Megan Thee Stallion AmazeVR Concert](https://store.steampowered.com/app/2269330/) (AppID: 2269330)
 - [BlazBlue Entropy Effect](https://store.steampowered.com/app/2273430/) (AppID: 2273430)
 - [Holiday Party: Mascot Brawl](https://store.steampowered.com/app/2282650/) (AppID: 2282650)
@@ -1490,7 +1488,6 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-06-25 09:42 UTC**
 - [VR traffic safety with Polly](https://store.steampowered.com/app/3076850/) (AppID: 3076850)
 - [MotoGP™25](https://store.steampowered.com/app/3077390/) (AppID: 3077390)
 - [Goosebumps: Terror in Little Creek](https://store.steampowered.com/app/3080510/) (AppID: 3080510)
-- [J8 Hero](https://store.steampowered.com/app/3081810/) (AppID: 3081810)
 - [BombMaze](https://store.steampowered.com/app/3082770/) (AppID: 3082770)
 - [The Little UNI](https://store.steampowered.com/app/3096560/) (AppID: 3096560)
 - [Planetary Conflict: 2301](https://store.steampowered.com/app/3101600/) (AppID: 3101600)
@@ -1604,6 +1601,7 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-06-25 09:42 UTC**
 - [Laid-Back Camp: Camping Cook-off!](https://store.steampowered.com/app/3882430/) (AppID: 3882430)
 - [The Bygone Days of Her and the Flowers](https://store.steampowered.com/app/3903190/) (AppID: 3903190)
 - [史小坑的黑暗料理](https://store.steampowered.com/app/3915180/) (AppID: 3915180)
+- [Steel Defence](https://store.steampowered.com/app/3927680/) (AppID: 3927680)
 - [MARVEL MaXimum Collection](https://store.steampowered.com/app/3931060/) (AppID: 3931060)
 - [Tour de France 2026](https://store.steampowered.com/app/3936520/) (AppID: 3936520)
 - [Pro Cycling Manager 26](https://store.steampowered.com/app/3936530/) (AppID: 3936530)
@@ -1624,7 +1622,6 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-06-25 09:42 UTC**
 - [MINOS: Home A-Labyrinth](https://store.steampowered.com/app/4162630/) (AppID: 4162630)
 - [The NewZealand Story: Untold Adventure](https://store.steampowered.com/app/4193730/) (AppID: 4193730)
 - [Forgotten Records](https://store.steampowered.com/app/4214600/) (AppID: 4214600)
-- [Goyslop](https://store.steampowered.com/app/4237390/) (AppID: 4237390)
 - [Spirit-Sealing Tome](https://store.steampowered.com/app/4316960/) (AppID: 4316960)
 - [Jigokuraku: BATTLE IN HELL'S PARADISE](https://store.steampowered.com/app/4375120/) (AppID: 4375120)
 - [NAMCO LEGENDARY Mountains](https://store.steampowered.com/app/4459850/) (AppID: 4459850)

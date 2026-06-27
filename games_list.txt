@@ -1252,7 +1252,7 @@
 2238260	Gigantosaurus: Dino Sports
 2240390	Celebrity Kombat
 2253470	Capoo Pals
-2264340	TIEBREAK+: Official game of the ATP and WTA
+2264340	TIEBREAK – GRAND SLAM EDITION
 2269330	Megan Thee Stallion AmazeVR Concert
 2273430	BlazBlue Entropy Effect
 2282650	Holiday Party: Mascot Brawl
@@ -1468,7 +1468,6 @@
 3076850	VR traffic safety with Polly
 3077390	MotoGP™25
 3080510	Goosebumps: Terror in Little Creek
-3081810	J8 Hero
 3082770	BombMaze
 3096560	The Little UNI
 3101600	Planetary Conflict: 2301
@@ -1582,6 +1581,7 @@
 3882430	Laid-Back Camp: Camping Cook-off!
 3903190	The Bygone Days of Her and the Flowers
 3915180	史小坑的黑暗料理
+3927680	Steel Defence
 3931060	MARVEL MaXimum Collection
 3936520	Tour de France 2026
 3936530	Pro Cycling Manager 26
@@ -1602,7 +1602,6 @@
 4162630	MINOS: Home A-Labyrinth
 4193730	The NewZealand Story: Untold Adventure
 4214600	Forgotten Records
-4237390	Goyslop
 4316960	Spirit-Sealing Tome
 4375120	Jigokuraku: BATTLE IN HELL'S PARADISE
 4459850	NAMCO LEGENDARY Mountains
