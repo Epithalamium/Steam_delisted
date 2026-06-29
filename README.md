@@ -2,7 +2,7 @@
 
 Automatically tracks apps listed on [steam-tracker.com/apps/at-risk](https://steam-tracker.com/apps/at-risk).
 
-Updated every 2 days via GitHub Actions. Last updated: **2026-06-27 08:49 UTC**
+Updated every 2 days via GitHub Actions. Last updated: **2026-06-29 11:23 UTC**
 
 **Filters applied:** Recommended · Released (default page view)
 
@@ -12,7 +12,7 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-06-27 08:49 UTC**
 
 ## Newly Added Since Last Check
 
-- [Steel Defence](https://store.steampowered.com/app/3927680/) (AppID: 3927680)
+_(No new entries this run)_
 
 ---
 
@@ -40,7 +40,7 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-06-27 08:49 UTC**
 - [Call of Cthulhu: Dark Corners of the Earth](https://store.steampowered.com/app/22340/) (AppID: 22340)
 - [DC Universe Online](https://store.steampowered.com/app/24200/) (AppID: 24200)
 - [Braid](https://store.steampowered.com/app/26800/) (AppID: 26800)
-- [Wallace & Gromit’s Grand Adventures](https://store.steampowered.com/app/31100/) (AppID: 31100)
+- [Wallace & Gromit Ep 1: Fright of the Bumblebees](https://store.steampowered.com/app/31100/) (AppID: 31100)
 - [Tales of Monkey Island: Chapter 1 - Launch of the Screaming Narwhal](https://store.steampowered.com/app/31170/) (AppID: 31170)
 - [Nancy Drew: Danger By Design](https://store.steampowered.com/app/31800/) (AppID: 31800)
 - [Nancy Drew: Last Train to Blue Moon Canyon](https://store.steampowered.com/app/31810/) (AppID: 31810)
