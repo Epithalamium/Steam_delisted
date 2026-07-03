@@ -20,7 +20,7 @@
 22340	Call of Cthulhu: Dark Corners of the Earth
 24200	DC Universe Online
 26800	Braid
-31100	Wallace & Gromit Ep 1: Fright of the Bumblebees
+31100	Wallace & Gromit’s Grand Adventures
 31170	Tales of Monkey Island: Chapter 1 - Launch of the Screaming Narwhal
 31800	Nancy Drew: Danger By Design
 31810	Nancy Drew: Last Train to Blue Moon Canyon
@@ -905,7 +905,6 @@
 1374700	BIG-Bobby-Car – The Big Race
 1374850	Eldrador Creatures
 1374990	PAW Patrol Mighty Pups  Save Adventure Bay
-1377010	Sanctuary Island
 1377890	Professor Rubik’s Brain Fitness
 1383960	Nickelodeon Kart Racers 2: Grand Prix
 1386870	Wraith: The Oblivion - Afterlife
@@ -1334,7 +1333,6 @@
 2469900	Pew Pew Rocket!
 2475300	Carmen Sandiego
 2477010	Ticket to Ride®
-2478240	Bright Side: Riddles and Puzzles
 2478330	Barbie Project Friendship™
 2479650	SpongeBob SquarePants: Titans of the Tide
 2483190	Forza Horizon 6
@@ -1480,7 +1478,6 @@
 3127280	Marvel Contest of Champions
 3130400	Terrifier The ARTcade Game
 3150480	Agatha Christie - Death on the Nile
-3165620	Bright Side: Quiz
 3169520	Warhammer 40,000: Space Marine - Master Crafted Edition
 3185460	Fap&Click
 3189010	The Mansion of The Macabre
@@ -1605,5 +1602,4 @@
 4316960	Spirit-Sealing Tome
 4375120	Jigokuraku: BATTLE IN HELL'S PARADISE
 4459850	NAMCO LEGENDARY Mountains
-4509000	Poisoned Path
 4682460	G-MODEアーカイブス+ パックマン

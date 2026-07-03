@@ -2,11 +2,11 @@
 
 Automatically tracks apps listed on [steam-tracker.com/apps/at-risk](https://steam-tracker.com/apps/at-risk).
 
-Updated every 2 days via GitHub Actions. Last updated: **2026-06-29 11:23 UTC**
+Updated every 2 days via GitHub Actions. Last updated: **2026-07-03 09:34 UTC**
 
 **Filters applied:** Recommended · Released (default page view)
 
-**Total tracked:** 1609 apps
+**Total tracked:** 1605 apps
 
 ---
 
@@ -40,7 +40,7 @@ _(No new entries this run)_
 - [Call of Cthulhu: Dark Corners of the Earth](https://store.steampowered.com/app/22340/) (AppID: 22340)
 - [DC Universe Online](https://store.steampowered.com/app/24200/) (AppID: 24200)
 - [Braid](https://store.steampowered.com/app/26800/) (AppID: 26800)
-- [Wallace & Gromit Ep 1: Fright of the Bumblebees](https://store.steampowered.com/app/31100/) (AppID: 31100)
+- [Wallace & Gromit’s Grand Adventures](https://store.steampowered.com/app/31100/) (AppID: 31100)
 - [Tales of Monkey Island: Chapter 1 - Launch of the Screaming Narwhal](https://store.steampowered.com/app/31170/) (AppID: 31170)
 - [Nancy Drew: Danger By Design](https://store.steampowered.com/app/31800/) (AppID: 31800)
 - [Nancy Drew: Last Train to Blue Moon Canyon](https://store.steampowered.com/app/31810/) (AppID: 31810)
@@ -925,7 +925,6 @@ _(No new entries this run)_
 - [BIG-Bobby-Car – The Big Race](https://store.steampowered.com/app/1374700/) (AppID: 1374700)
 - [Eldrador Creatures](https://store.steampowered.com/app/1374850/) (AppID: 1374850)
 - [PAW Patrol Mighty Pups  Save Adventure Bay](https://store.steampowered.com/app/1374990/) (AppID: 1374990)
-- [Sanctuary Island](https://store.steampowered.com/app/1377010/) (AppID: 1377010)
 - [Professor Rubik’s Brain Fitness](https://store.steampowered.com/app/1377890/) (AppID: 1377890)
 - [Nickelodeon Kart Racers 2: Grand Prix](https://store.steampowered.com/app/1383960/) (AppID: 1383960)
 - [Wraith: The Oblivion - Afterlife](https://store.steampowered.com/app/1386870/) (AppID: 1386870)
@@ -1354,7 +1353,6 @@ _(No new entries this run)_
 - [Pew Pew Rocket!](https://store.steampowered.com/app/2469900/) (AppID: 2469900)
 - [Carmen Sandiego](https://store.steampowered.com/app/2475300/) (AppID: 2475300)
 - [Ticket to Ride®](https://store.steampowered.com/app/2477010/) (AppID: 2477010)
-- [Bright Side: Riddles and Puzzles](https://store.steampowered.com/app/2478240/) (AppID: 2478240)
 - [Barbie Project Friendship™](https://store.steampowered.com/app/2478330/) (AppID: 2478330)
 - [SpongeBob SquarePants: Titans of the Tide](https://store.steampowered.com/app/2479650/) (AppID: 2479650)
 - [Forza Horizon 6](https://store.steampowered.com/app/2483190/) (AppID: 2483190)
@@ -1500,7 +1498,6 @@ _(No new entries this run)_
 - [Marvel Contest of Champions](https://store.steampowered.com/app/3127280/) (AppID: 3127280)
 - [Terrifier The ARTcade Game](https://store.steampowered.com/app/3130400/) (AppID: 3130400)
 - [Agatha Christie - Death on the Nile](https://store.steampowered.com/app/3150480/) (AppID: 3150480)
-- [Bright Side: Quiz](https://store.steampowered.com/app/3165620/) (AppID: 3165620)
 - [Warhammer 40,000: Space Marine - Master Crafted Edition](https://store.steampowered.com/app/3169520/) (AppID: 3169520)
 - [Fap&Click](https://store.steampowered.com/app/3185460/) (AppID: 3185460)
 - [The Mansion of The Macabre](https://store.steampowered.com/app/3189010/) (AppID: 3189010)
@@ -1625,5 +1622,4 @@ _(No new entries this run)_
 - [Spirit-Sealing Tome](https://store.steampowered.com/app/4316960/) (AppID: 4316960)
 - [Jigokuraku: BATTLE IN HELL'S PARADISE](https://store.steampowered.com/app/4375120/) (AppID: 4375120)
 - [NAMCO LEGENDARY Mountains](https://store.steampowered.com/app/4459850/) (AppID: 4459850)
-- [Poisoned Path](https://store.steampowered.com/app/4509000/) (AppID: 4509000)
 - [G-MODEアーカイブス+ パックマン](https://store.steampowered.com/app/4682460/) (AppID: 4682460)
