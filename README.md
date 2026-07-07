@@ -2,17 +2,23 @@
 
 Automatically tracks apps listed on [steam-tracker.com/apps/at-risk](https://steam-tracker.com/apps/at-risk).
 
-Updated every 2 days via GitHub Actions. Last updated: **2026-07-05 09:21 UTC**
+Updated every 2 days via GitHub Actions. Last updated: **2026-07-07 09:59 UTC**
 
 **Filters applied:** Recommended · Released (default page view)
 
-**Total tracked:** 1605 apps
+**Total tracked:** 1612 apps
 
 ---
 
 ## Newly Added Since Last Check
 
-_(No new entries this run)_
+- [Tower!3D Pro](https://store.steampowered.com/app/588190/) (AppID: 588190)
+- [New Planets](https://store.steampowered.com/app/1214990/) (AppID: 1214990)
+- [The Lonely Helmet](https://store.steampowered.com/app/1730310/) (AppID: 1730310)
+- [Simultaneous Control](https://store.steampowered.com/app/1918110/) (AppID: 1918110)
+- [Elementris](https://store.steampowered.com/app/3319030/) (AppID: 3319030)
+- [Kick and Hide](https://store.steampowered.com/app/3698510/) (AppID: 3698510)
+- [Fenrir Banquet](https://store.steampowered.com/app/3835530/) (AppID: 3835530)
 
 ---
 
@@ -40,7 +46,7 @@ _(No new entries this run)_
 - [Call of Cthulhu: Dark Corners of the Earth](https://store.steampowered.com/app/22340/) (AppID: 22340)
 - [DC Universe Online](https://store.steampowered.com/app/24200/) (AppID: 24200)
 - [Braid](https://store.steampowered.com/app/26800/) (AppID: 26800)
-- [Wallace & Gromit Ep 1: Fright of the Bumblebees](https://store.steampowered.com/app/31100/) (AppID: 31100)
+- [Wallace & Gromit’s Grand Adventures](https://store.steampowered.com/app/31100/) (AppID: 31100)
 - [Tales of Monkey Island: Chapter 1 - Launch of the Screaming Narwhal](https://store.steampowered.com/app/31170/) (AppID: 31170)
 - [Nancy Drew: Danger By Design](https://store.steampowered.com/app/31800/) (AppID: 31800)
 - [Nancy Drew: Last Train to Blue Moon Canyon](https://store.steampowered.com/app/31810/) (AppID: 31810)
@@ -389,6 +395,7 @@ _(No new entries this run)_
 - [Artifact Classic](https://store.steampowered.com/app/583950/) (AppID: 583950)
 - [Casey Powell Lacrosse 18](https://store.steampowered.com/app/584150/) (AppID: 584150)
 - [OVRdrop](https://store.steampowered.com/app/586210/) (AppID: 586210)
+- [Tower!3D Pro](https://store.steampowered.com/app/588190/) (AppID: 588190)
 - [Shovel Knight: Shovel of Hope](https://store.steampowered.com/app/589500/) (AppID: 589500)
 - [Animation Throwdown: The Quest for Cards](https://store.steampowered.com/app/591960/) (AppID: 591960)
 - [Total War: WARHAMMER II](https://store.steampowered.com/app/594570/) (AppID: 594570)
@@ -827,6 +834,7 @@ _(No new entries this run)_
 - [MX vs ATV Legends](https://store.steampowered.com/app/1205970/) (AppID: 1205970)
 - [Project RTD: Random Tower Defense PvP](https://store.steampowered.com/app/1207850/) (AppID: 1207850)
 - [SOUTH PARK: SNOW DAY!](https://store.steampowered.com/app/1214650/) (AppID: 1214650)
+- [New Planets](https://store.steampowered.com/app/1214990/) (AppID: 1214990)
 - [Necromunda: Hired Gun](https://store.steampowered.com/app/1222370/) (AppID: 1222370)
 - [Need for Speed™ Heat](https://store.steampowered.com/app/1222680/) (AppID: 1222680)
 - [Tennis World Tour 2](https://store.steampowered.com/app/1223910/) (AppID: 1223910)
@@ -1071,6 +1079,7 @@ _(No new entries this run)_
 - [Everdell](https://store.steampowered.com/app/1722840/) (AppID: 1722840)
 - [Munchkin Digital](https://store.steampowered.com/app/1722860/) (AppID: 1722860)
 - [The Fox in the Forest](https://store.steampowered.com/app/1729050/) (AppID: 1729050)
+- [The Lonely Helmet](https://store.steampowered.com/app/1730310/) (AppID: 1730310)
 - [LEGO® Brawls](https://store.steampowered.com/app/1731460/) (AppID: 1731460)
 - [Turbo Kid](https://store.steampowered.com/app/1733250/) (AppID: 1733250)
 - [Warhammer 40,000: Battle Sister](https://store.steampowered.com/app/1733890/) (AppID: 1733890)
@@ -1149,6 +1158,7 @@ _(No new entries this run)_
 - [Smurfs Kart](https://store.steampowered.com/app/1911220/) (AppID: 1911220)
 - [AEW: Fight Forever](https://store.steampowered.com/app/1913210/) (AppID: 1913210)
 - [Elevator Action™ -Returns- S-Tribute](https://store.steampowered.com/app/1913680/) (AppID: 1913680)
+- [Simultaneous Control](https://store.steampowered.com/app/1918110/) (AppID: 1918110)
 - [Escape Game - FORT BOYARD 2022](https://store.steampowered.com/app/1921180/) (AppID: 1921180)
 - [CRAYON SHINCHAN The Storm Called! FLAMING KASUKABE RUNNER!!](https://store.steampowered.com/app/1921740/) (AppID: 1921740)
 - [The Dream Team](https://store.steampowered.com/app/1922070/) (AppID: 1922070)
@@ -1521,6 +1531,7 @@ _(No new entries this run)_
 - [PAW Patrol™ Rescue Wheels™: Championship](https://store.steampowered.com/app/3291010/) (AppID: 3291010)
 - [FANTATALE](https://store.steampowered.com/app/3301040/) (AppID: 3301040)
 - [Galactic Vanguard](https://store.steampowered.com/app/3308800/) (AppID: 3308800)
+- [Elementris](https://store.steampowered.com/app/3319030/) (AppID: 3319030)
 - [The Berenstain Bears In the Dark](https://store.steampowered.com/app/3319650/) (AppID: 3319650)
 - [The Berenstain Bears Get in a Fight](https://store.steampowered.com/app/3319660/) (AppID: 3319660)
 - [Ludo XXL 2](https://store.steampowered.com/app/3323580/) (AppID: 3323580)
@@ -1573,6 +1584,7 @@ _(No new entries this run)_
 - [Warhammer Survivors](https://store.steampowered.com/app/3669620/) (AppID: 3669620)
 - [The Seven Deadly Sins: Origin](https://store.steampowered.com/app/3679080/) (AppID: 3679080)
 - [Yatzi 2](https://store.steampowered.com/app/3686980/) (AppID: 3686980)
+- [Kick and Hide](https://store.steampowered.com/app/3698510/) (AppID: 3698510)
 - [Master of Piece: Prologue](https://store.steampowered.com/app/3700250/) (AppID: 3700250)
 - [GÖREV](https://store.steampowered.com/app/3710360/) (AppID: 3710360)
 - [Warhammer 40,000: Dark Heresy](https://store.steampowered.com/app/3710600/) (AppID: 3710600)
@@ -1591,6 +1603,7 @@ _(No new entries this run)_
 - [Rugrats: Retro Rewind Collection](https://store.steampowered.com/app/3817710/) (AppID: 3817710)
 - [BEYBLADE X EVOBATTLE](https://store.steampowered.com/app/3818010/) (AppID: 3818010)
 - [Silent Cleaning](https://store.steampowered.com/app/3833930/) (AppID: 3833930)
+- [Fenrir Banquet](https://store.steampowered.com/app/3835530/) (AppID: 3835530)
 - [The Temple of Elemental Evil](https://store.steampowered.com/app/3843520/) (AppID: 3843520)
 - [Forgotten Realms: Demon Stone](https://store.steampowered.com/app/3843530/) (AppID: 3843530)
 - [Dungeons & Dragons: Dragonshard](https://store.steampowered.com/app/3843540/) (AppID: 3843540)

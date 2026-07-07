@@ -20,7 +20,7 @@
 22340	Call of Cthulhu: Dark Corners of the Earth
 24200	DC Universe Online
 26800	Braid
-31100	Wallace & Gromit Ep 1: Fright of the Bumblebees
+31100	Wallace & Gromit’s Grand Adventures
 31170	Tales of Monkey Island: Chapter 1 - Launch of the Screaming Narwhal
 31800	Nancy Drew: Danger By Design
 31810	Nancy Drew: Last Train to Blue Moon Canyon
@@ -369,6 +369,7 @@
 583950	Artifact Classic
 584150	Casey Powell Lacrosse 18
 586210	OVRdrop
+588190	Tower!3D Pro
 589500	Shovel Knight: Shovel of Hope
 591960	Animation Throwdown: The Quest for Cards
 594570	Total War: WARHAMMER II
@@ -807,6 +808,7 @@
 1205970	MX vs ATV Legends
 1207850	Project RTD: Random Tower Defense PvP
 1214650	SOUTH PARK: SNOW DAY!
+1214990	New Planets
 1222370	Necromunda: Hired Gun
 1222680	Need for Speed™ Heat
 1223910	Tennis World Tour 2
@@ -1051,6 +1053,7 @@
 1722840	Everdell
 1722860	Munchkin Digital
 1729050	The Fox in the Forest
+1730310	The Lonely Helmet
 1731460	LEGO® Brawls
 1733250	Turbo Kid
 1733890	Warhammer 40,000: Battle Sister
@@ -1129,6 +1132,7 @@
 1911220	Smurfs Kart
 1913210	AEW: Fight Forever
 1913680	Elevator Action™ -Returns- S-Tribute
+1918110	Simultaneous Control
 1921180	Escape Game - FORT BOYARD 2022
 1921740	CRAYON SHINCHAN The Storm Called! FLAMING KASUKABE RUNNER!!
 1922070	The Dream Team
@@ -1501,6 +1505,7 @@
 3291010	PAW Patrol™ Rescue Wheels™: Championship
 3301040	FANTATALE
 3308800	Galactic Vanguard
+3319030	Elementris
 3319650	The Berenstain Bears In the Dark
 3319660	The Berenstain Bears Get in a Fight
 3323580	Ludo XXL 2
@@ -1553,6 +1558,7 @@
 3669620	Warhammer Survivors
 3679080	The Seven Deadly Sins: Origin
 3686980	Yatzi 2
+3698510	Kick and Hide
 3700250	Master of Piece: Prologue
 3710360	GÖREV
 3710600	Warhammer 40,000: Dark Heresy
@@ -1571,6 +1577,7 @@
 3817710	Rugrats: Retro Rewind Collection
 3818010	BEYBLADE X EVOBATTLE
 3833930	Silent Cleaning
+3835530	Fenrir Banquet
 3843520	The Temple of Elemental Evil
 3843530	Forgotten Realms: Demon Stone
 3843540	Dungeons & Dragons: Dragonshard
