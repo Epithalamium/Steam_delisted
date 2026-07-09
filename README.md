@@ -2,23 +2,18 @@
 
 Automatically tracks apps listed on [steam-tracker.com/apps/at-risk](https://steam-tracker.com/apps/at-risk).
 
-Updated every 2 days via GitHub Actions. Last updated: **2026-07-07 09:59 UTC**
+Updated every 2 days via GitHub Actions. Last updated: **2026-07-09 09:56 UTC**
 
 **Filters applied:** Recommended · Released (default page view)
 
-**Total tracked:** 1612 apps
+**Total tracked:** 1609 apps
 
 ---
 
 ## Newly Added Since Last Check
 
-- [Tower!3D Pro](https://store.steampowered.com/app/588190/) (AppID: 588190)
-- [New Planets](https://store.steampowered.com/app/1214990/) (AppID: 1214990)
-- [The Lonely Helmet](https://store.steampowered.com/app/1730310/) (AppID: 1730310)
-- [Simultaneous Control](https://store.steampowered.com/app/1918110/) (AppID: 1918110)
-- [Elementris](https://store.steampowered.com/app/3319030/) (AppID: 3319030)
-- [Kick and Hide](https://store.steampowered.com/app/3698510/) (AppID: 3698510)
-- [Fenrir Banquet](https://store.steampowered.com/app/3835530/) (AppID: 3835530)
+- [FINAL FANTASY VII EVER CRISIS](https://store.steampowered.com/app/2484110/) (AppID: 2484110)
+- [Phantasos Now](https://store.steampowered.com/app/3874210/) (AppID: 3874210)
 
 ---
 
@@ -395,7 +390,6 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-07-07 09:59 UTC**
 - [Artifact Classic](https://store.steampowered.com/app/583950/) (AppID: 583950)
 - [Casey Powell Lacrosse 18](https://store.steampowered.com/app/584150/) (AppID: 584150)
 - [OVRdrop](https://store.steampowered.com/app/586210/) (AppID: 586210)
-- [Tower!3D Pro](https://store.steampowered.com/app/588190/) (AppID: 588190)
 - [Shovel Knight: Shovel of Hope](https://store.steampowered.com/app/589500/) (AppID: 589500)
 - [Animation Throwdown: The Quest for Cards](https://store.steampowered.com/app/591960/) (AppID: 591960)
 - [Total War: WARHAMMER II](https://store.steampowered.com/app/594570/) (AppID: 594570)
@@ -834,7 +828,6 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-07-07 09:59 UTC**
 - [MX vs ATV Legends](https://store.steampowered.com/app/1205970/) (AppID: 1205970)
 - [Project RTD: Random Tower Defense PvP](https://store.steampowered.com/app/1207850/) (AppID: 1207850)
 - [SOUTH PARK: SNOW DAY!](https://store.steampowered.com/app/1214650/) (AppID: 1214650)
-- [New Planets](https://store.steampowered.com/app/1214990/) (AppID: 1214990)
 - [Necromunda: Hired Gun](https://store.steampowered.com/app/1222370/) (AppID: 1222370)
 - [Need for Speed™ Heat](https://store.steampowered.com/app/1222680/) (AppID: 1222680)
 - [Tennis World Tour 2](https://store.steampowered.com/app/1223910/) (AppID: 1223910)
@@ -1158,7 +1151,6 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-07-07 09:59 UTC**
 - [Smurfs Kart](https://store.steampowered.com/app/1911220/) (AppID: 1911220)
 - [AEW: Fight Forever](https://store.steampowered.com/app/1913210/) (AppID: 1913210)
 - [Elevator Action™ -Returns- S-Tribute](https://store.steampowered.com/app/1913680/) (AppID: 1913680)
-- [Simultaneous Control](https://store.steampowered.com/app/1918110/) (AppID: 1918110)
 - [Escape Game - FORT BOYARD 2022](https://store.steampowered.com/app/1921180/) (AppID: 1921180)
 - [CRAYON SHINCHAN The Storm Called! FLAMING KASUKABE RUNNER!!](https://store.steampowered.com/app/1921740/) (AppID: 1921740)
 - [The Dream Team](https://store.steampowered.com/app/1922070/) (AppID: 1922070)
@@ -1367,6 +1359,7 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-07-07 09:59 UTC**
 - [SpongeBob SquarePants: Titans of the Tide](https://store.steampowered.com/app/2479650/) (AppID: 2479650)
 - [Forza Horizon 6](https://store.steampowered.com/app/2483190/) (AppID: 2483190)
 - [LivingDollsRebirth](https://store.steampowered.com/app/2483220/) (AppID: 2483220)
+- [FINAL FANTASY VII EVER CRISIS](https://store.steampowered.com/app/2484110/) (AppID: 2484110)
 - [Alex Jones: NWO Wars](https://store.steampowered.com/app/2487350/) (AppID: 2487350)
 - [Burger Kombat](https://store.steampowered.com/app/2487680/) (AppID: 2487680)
 - [F1® 24](https://store.steampowered.com/app/2488620/) (AppID: 2488620)
@@ -1531,7 +1524,6 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-07-07 09:59 UTC**
 - [PAW Patrol™ Rescue Wheels™: Championship](https://store.steampowered.com/app/3291010/) (AppID: 3291010)
 - [FANTATALE](https://store.steampowered.com/app/3301040/) (AppID: 3301040)
 - [Galactic Vanguard](https://store.steampowered.com/app/3308800/) (AppID: 3308800)
-- [Elementris](https://store.steampowered.com/app/3319030/) (AppID: 3319030)
 - [The Berenstain Bears In the Dark](https://store.steampowered.com/app/3319650/) (AppID: 3319650)
 - [The Berenstain Bears Get in a Fight](https://store.steampowered.com/app/3319660/) (AppID: 3319660)
 - [Ludo XXL 2](https://store.steampowered.com/app/3323580/) (AppID: 3323580)
@@ -1565,7 +1557,6 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-07-07 09:59 UTC**
 - [Fear Effect 2: Retro Helix](https://store.steampowered.com/app/3509140/) (AppID: 3509140)
 - [RoboCop: Rogue City - Unfinished Business](https://store.steampowered.com/app/3527760/) (AppID: 3527760)
 - [Warhammer 40,000: Boltgun - Words of Vengeance](https://store.steampowered.com/app/3533730/) (AppID: 3533730)
-- [Don't shoot politics](https://store.steampowered.com/app/3537530/) (AppID: 3537530)
 - [Mortal Cultivation Biography](https://store.steampowered.com/app/3543640/) (AppID: 3543640)
 - [Warhammer 40,000: Dawn of War - Definitive Edition](https://store.steampowered.com/app/3556750/) (AppID: 3556750)
 - [The Sequencer](https://store.steampowered.com/app/3569250/) (AppID: 3569250)
@@ -1608,6 +1599,7 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-07-07 09:59 UTC**
 - [Forgotten Realms: Demon Stone](https://store.steampowered.com/app/3843530/) (AppID: 3843530)
 - [Dungeons & Dragons: Dragonshard](https://store.steampowered.com/app/3843540/) (AppID: 3843540)
 - [NASCAR 25](https://store.steampowered.com/app/3873970/) (AppID: 3873970)
+- [Phantasos Now](https://store.steampowered.com/app/3874210/) (AppID: 3874210)
 - [Laid-Back Camp: Camping Cook-off!](https://store.steampowered.com/app/3882430/) (AppID: 3882430)
 - [The Bygone Days of Her and the Flowers](https://store.steampowered.com/app/3903190/) (AppID: 3903190)
 - [史小坑的黑暗料理](https://store.steampowered.com/app/3915180/) (AppID: 3915180)

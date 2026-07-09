@@ -369,7 +369,6 @@
 583950	Artifact Classic
 584150	Casey Powell Lacrosse 18
 586210	OVRdrop
-588190	Tower!3D Pro
 589500	Shovel Knight: Shovel of Hope
 591960	Animation Throwdown: The Quest for Cards
 594570	Total War: WARHAMMER II
@@ -808,7 +807,6 @@
 1205970	MX vs ATV Legends
 1207850	Project RTD: Random Tower Defense PvP
 1214650	SOUTH PARK: SNOW DAY!
-1214990	New Planets
 1222370	Necromunda: Hired Gun
 1222680	Need for Speed™ Heat
 1223910	Tennis World Tour 2
@@ -1132,7 +1130,6 @@
 1911220	Smurfs Kart
 1913210	AEW: Fight Forever
 1913680	Elevator Action™ -Returns- S-Tribute
-1918110	Simultaneous Control
 1921180	Escape Game - FORT BOYARD 2022
 1921740	CRAYON SHINCHAN The Storm Called! FLAMING KASUKABE RUNNER!!
 1922070	The Dream Team
@@ -1341,6 +1338,7 @@
 2479650	SpongeBob SquarePants: Titans of the Tide
 2483190	Forza Horizon 6
 2483220	LivingDollsRebirth
+2484110	FINAL FANTASY VII EVER CRISIS
 2487350	Alex Jones: NWO Wars
 2487680	Burger Kombat
 2488620	F1® 24
@@ -1505,7 +1503,6 @@
 3291010	PAW Patrol™ Rescue Wheels™: Championship
 3301040	FANTATALE
 3308800	Galactic Vanguard
-3319030	Elementris
 3319650	The Berenstain Bears In the Dark
 3319660	The Berenstain Bears Get in a Fight
 3323580	Ludo XXL 2
@@ -1539,7 +1536,6 @@
 3509140	Fear Effect 2: Retro Helix
 3527760	RoboCop: Rogue City - Unfinished Business
 3533730	Warhammer 40,000: Boltgun - Words of Vengeance
-3537530	Don't shoot politics
 3543640	Mortal Cultivation Biography
 3556750	Warhammer 40,000: Dawn of War - Definitive Edition
 3569250	The Sequencer
@@ -1582,6 +1578,7 @@
 3843530	Forgotten Realms: Demon Stone
 3843540	Dungeons & Dragons: Dragonshard
 3873970	NASCAR 25
+3874210	Phantasos Now
 3882430	Laid-Back Camp: Camping Cook-off!
 3903190	The Bygone Days of Her and the Flowers
 3915180	史小坑的黑暗料理
