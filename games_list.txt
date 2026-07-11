@@ -20,7 +20,7 @@
 22340	Call of Cthulhu: Dark Corners of the Earth
 24200	DC Universe Online
 26800	Braid
-31100	Wallace & Gromit’s Grand Adventures
+31100	Wallace & Gromit Ep 1: Fright of the Bumblebees
 31170	Tales of Monkey Island: Chapter 1 - Launch of the Screaming Narwhal
 31800	Nancy Drew: Danger By Design
 31810	Nancy Drew: Last Train to Blue Moon Canyon
@@ -1338,7 +1338,6 @@
 2479650	SpongeBob SquarePants: Titans of the Tide
 2483190	Forza Horizon 6
 2483220	LivingDollsRebirth
-2484110	FINAL FANTASY VII EVER CRISIS
 2487350	Alex Jones: NWO Wars
 2487680	Burger Kombat
 2488620	F1® 24
@@ -1545,7 +1544,6 @@
 3600820	In Gehenna Fantasy Heroine Edition
 3633250	Junji Ito Maniac: An Infinite Gaol
 3649590	run for money Hunter vs. Runner! Which side will you win!?
-3649990	Putin Jigsaw
 3650170	Marsupilami 2 - Salsa Palombia
 3650490	Oikizo
 3655390	Alien: Rogue Incursion Evolved Edition

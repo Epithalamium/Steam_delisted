@@ -2,18 +2,17 @@
 
 Automatically tracks apps listed on [steam-tracker.com/apps/at-risk](https://steam-tracker.com/apps/at-risk).
 
-Updated every 2 days via GitHub Actions. Last updated: **2026-07-09 09:56 UTC**
+Updated every 2 days via GitHub Actions. Last updated: **2026-07-11 08:13 UTC**
 
 **Filters applied:** Recommended · Released (default page view)
 
-**Total tracked:** 1609 apps
+**Total tracked:** 1607 apps
 
 ---
 
 ## Newly Added Since Last Check
 
-- [FINAL FANTASY VII EVER CRISIS](https://store.steampowered.com/app/2484110/) (AppID: 2484110)
-- [Phantasos Now](https://store.steampowered.com/app/3874210/) (AppID: 3874210)
+_(No new entries this run)_
 
 ---
 
@@ -41,7 +40,7 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-07-09 09:56 UTC**
 - [Call of Cthulhu: Dark Corners of the Earth](https://store.steampowered.com/app/22340/) (AppID: 22340)
 - [DC Universe Online](https://store.steampowered.com/app/24200/) (AppID: 24200)
 - [Braid](https://store.steampowered.com/app/26800/) (AppID: 26800)
-- [Wallace & Gromit’s Grand Adventures](https://store.steampowered.com/app/31100/) (AppID: 31100)
+- [Wallace & Gromit Ep 1: Fright of the Bumblebees](https://store.steampowered.com/app/31100/) (AppID: 31100)
 - [Tales of Monkey Island: Chapter 1 - Launch of the Screaming Narwhal](https://store.steampowered.com/app/31170/) (AppID: 31170)
 - [Nancy Drew: Danger By Design](https://store.steampowered.com/app/31800/) (AppID: 31800)
 - [Nancy Drew: Last Train to Blue Moon Canyon](https://store.steampowered.com/app/31810/) (AppID: 31810)
@@ -1359,7 +1358,6 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-07-09 09:56 UTC**
 - [SpongeBob SquarePants: Titans of the Tide](https://store.steampowered.com/app/2479650/) (AppID: 2479650)
 - [Forza Horizon 6](https://store.steampowered.com/app/2483190/) (AppID: 2483190)
 - [LivingDollsRebirth](https://store.steampowered.com/app/2483220/) (AppID: 2483220)
-- [FINAL FANTASY VII EVER CRISIS](https://store.steampowered.com/app/2484110/) (AppID: 2484110)
 - [Alex Jones: NWO Wars](https://store.steampowered.com/app/2487350/) (AppID: 2487350)
 - [Burger Kombat](https://store.steampowered.com/app/2487680/) (AppID: 2487680)
 - [F1® 24](https://store.steampowered.com/app/2488620/) (AppID: 2488620)
@@ -1566,7 +1564,6 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-07-09 09:56 UTC**
 - [In Gehenna Fantasy Heroine Edition](https://store.steampowered.com/app/3600820/) (AppID: 3600820)
 - [Junji Ito Maniac: An Infinite Gaol](https://store.steampowered.com/app/3633250/) (AppID: 3633250)
 - [run for money Hunter vs. Runner! Which side will you win!?](https://store.steampowered.com/app/3649590/) (AppID: 3649590)
-- [Putin Jigsaw](https://store.steampowered.com/app/3649990/) (AppID: 3649990)
 - [Marsupilami 2 - Salsa Palombia](https://store.steampowered.com/app/3650170/) (AppID: 3650170)
 - [Oikizo](https://store.steampowered.com/app/3650490/) (AppID: 3650490)
 - [Alien: Rogue Incursion Evolved Edition](https://store.steampowered.com/app/3655390/) (AppID: 3655390)
