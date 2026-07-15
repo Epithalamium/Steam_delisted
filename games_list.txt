@@ -101,6 +101,7 @@
 250320	The Wolf Among Us
 251210	Hive
 252350	Double Dragon Neon
+253710	theHunter Classic
 253840	Shantae: Half-Genie Hero
 255260	Pro Cycling Manager 2014
 255370	KickBeat Steam Edition
@@ -257,7 +258,6 @@
 440900	Conan Exiles Enhanced
 441350	Assault Suit Leynos
 442500	Age of Gladiators
-442810	UFO Online: Invasion
 444930	Zaccaria Pinball
 445040	Sorcery! Part 3
 445070	Tatsu
@@ -415,6 +415,7 @@
 646910	The Crew 2
 647830	LEGO® MARVEL Super Heroes 2
 648350	Jurassic World Evolution
+648750	Tokaido
 649640	Ashes Cricket
 649810	Windstorm: Start of a Great Friendship
 650350	Machine World 2
@@ -1274,7 +1275,6 @@
 2324210	TRANSFORMERS: Galactic Trials
 2330430	Looney Tunes: Wacky World of Sports
 2337630	AFL 23
-2337860	Nubs!
 2340870	Rugby 25
 2344020	Silver Box Classics
 2349140	KonoSuba: God's Blessing on this Wonderful World! Love For These Clothes Of Desire!
@@ -1389,6 +1389,7 @@
 2667020	Moorhuhn Invasion - Crazy Chicken Invasion
 2676410	Miraculous Paris Under Siege
 2677660	Indiana Jones and the Great Circle
+2693470	Journey To The Wand
 2697000	The Legend of Khiimori
 2698450	Taskmaster VR
 2698940	The Crew Motorfest
@@ -1417,6 +1418,7 @@
 2811580	文若九洲记：艳欲之乡
 2816870	Mighty Morphin Power Rangers: Rita's Rewind
 2817640	Wer weiß denn sowas? - Das 3. Spiel
+2821390	HOT WHEELS™ Infinite Rush
 2829790	Windstorm: Start of a Great Friendship - Remastered
 2838950	Game of Thrones: War For Westeros
 2840770	Avatar: Frontiers of Pandora
@@ -1431,6 +1433,7 @@
 2878600	Harry Potter: Quidditch Champions
 2878980	NBA 2K25
 2889830	Fortress Challenge : Fort Boyard
+2894820	Velvet Bite: Softly, with Teeth
 2918150	ONE PIECE Bounty Rush
 2926680	Tiny
 2926900	MAVRIX by Matt Jones
@@ -1444,6 +1447,7 @@
 2940920	Dreaming Blue
 2958130	Jurassic World Evolution 3
 2958970	The Thing: Remastered
+2964030	Random Core Defense
 2964440	Yapori Minigames
 2967990	Train Sim World® 5
 2977360	Cartographers
@@ -1490,6 +1494,7 @@
 3229100	Teenage Mutant Ninja Turtles: Tactical Takedown
 3230400	EA SPORTS™ Madden NFL 26
 3231900	Go Babies
+3236080	老虎机少女 Slot Girls
 3239650	Garfield Kart 2 - All You Can Drift
 3248320	CDB6: A Maldição dos Zumbis
 3251300	Jonah Lomu Rugby Challenge 4
@@ -1528,6 +1533,7 @@
 3468650	Cricket 26 - The Official Game of the Ashes
 3469230	Baki Hanma: Blood Arena
 3472040	NBA 2K26
+3493430	Set a Watch: Digital Edition
 3504570	Fear Effect
 3504580	Fighting Force Collection
 3504600	Ren & Stimpy Happy, Happy, Joy, Joy, Collection
@@ -1539,6 +1545,7 @@
 3556750	Warhammer 40,000: Dawn of War - Definitive Edition
 3569250	The Sequencer
 3572830	西游降魔
+3588460	Evel Knievel
 3589910	Voivod: The Nuclear Warrior
 3592510	SpongeBob: Krusty Cook-Off
 3600820	In Gehenna Fantasy Heroine Edition
@@ -1576,7 +1583,6 @@
 3843530	Forgotten Realms: Demon Stone
 3843540	Dungeons & Dragons: Dragonshard
 3873970	NASCAR 25
-3874210	Phantasos Now
 3882430	Laid-Back Camp: Camping Cook-off!
 3903190	The Bygone Days of Her and the Flowers
 3915180	史小坑的黑暗料理
@@ -1584,6 +1590,7 @@
 3931060	MARVEL MaXimum Collection
 3936520	Tour de France 2026
 3936530	Pro Cycling Manager 26
+3936610	Monopoly: Star Wars™ Heroes vs. Villains
 3940610	EA SPORTS™ Madden NFL 27
 3954580	Star Trek: Infection
 3977380	JAWS: Retro Edition
@@ -1598,6 +1605,7 @@
 4056610	Arthur's Reading Games
 4107260	末日战姬：命运交锋
 4128400	eBaseball™: PRO SPIRIT
+4162600	Nuclecard
 4162630	MINOS: Home A-Labyrinth
 4193730	The NewZealand Story: Untold Adventure
 4214600	Forgotten Records

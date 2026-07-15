@@ -2,17 +2,27 @@
 
 Automatically tracks apps listed on [steam-tracker.com/apps/at-risk](https://steam-tracker.com/apps/at-risk).
 
-Updated every 2 days via GitHub Actions. Last updated: **2026-07-13 09:46 UTC**
+Updated every 2 days via GitHub Actions. Last updated: **2026-07-15 08:34 UTC**
 
 **Filters applied:** Recommended · Released (default page view)
 
-**Total tracked:** 1607 apps
+**Total tracked:** 1615 apps
 
 ---
 
 ## Newly Added Since Last Check
 
-_(No new entries this run)_
+- [theHunter Classic](https://store.steampowered.com/app/253710/) (AppID: 253710)
+- [Tokaido](https://store.steampowered.com/app/648750/) (AppID: 648750)
+- [Journey To The Wand](https://store.steampowered.com/app/2693470/) (AppID: 2693470)
+- [HOT WHEELS™ Infinite Rush](https://store.steampowered.com/app/2821390/) (AppID: 2821390)
+- [Velvet Bite: Softly, with Teeth](https://store.steampowered.com/app/2894820/) (AppID: 2894820)
+- [Random Core Defense](https://store.steampowered.com/app/2964030/) (AppID: 2964030)
+- [老虎机少女 Slot Girls](https://store.steampowered.com/app/3236080/) (AppID: 3236080)
+- [Set a Watch: Digital Edition](https://store.steampowered.com/app/3493430/) (AppID: 3493430)
+- [Evel Knievel](https://store.steampowered.com/app/3588460/) (AppID: 3588460)
+- [Monopoly: Star Wars™ Heroes vs. Villains](https://store.steampowered.com/app/3936610/) (AppID: 3936610)
+- [Nuclecard](https://store.steampowered.com/app/4162600/) (AppID: 4162600)
 
 ---
 
@@ -121,6 +131,7 @@ _(No new entries this run)_
 - [The Wolf Among Us](https://store.steampowered.com/app/250320/) (AppID: 250320)
 - [Hive](https://store.steampowered.com/app/251210/) (AppID: 251210)
 - [Double Dragon Neon](https://store.steampowered.com/app/252350/) (AppID: 252350)
+- [theHunter Classic](https://store.steampowered.com/app/253710/) (AppID: 253710)
 - [Shantae: Half-Genie Hero](https://store.steampowered.com/app/253840/) (AppID: 253840)
 - [Pro Cycling Manager 2014](https://store.steampowered.com/app/255260/) (AppID: 255260)
 - [KickBeat Steam Edition](https://store.steampowered.com/app/255370/) (AppID: 255370)
@@ -277,7 +288,6 @@ _(No new entries this run)_
 - [Conan Exiles Enhanced](https://store.steampowered.com/app/440900/) (AppID: 440900)
 - [Assault Suit Leynos](https://store.steampowered.com/app/441350/) (AppID: 441350)
 - [Age of Gladiators](https://store.steampowered.com/app/442500/) (AppID: 442500)
-- [UFO Online: Invasion](https://store.steampowered.com/app/442810/) (AppID: 442810)
 - [Zaccaria Pinball](https://store.steampowered.com/app/444930/) (AppID: 444930)
 - [Sorcery! Part 3](https://store.steampowered.com/app/445040/) (AppID: 445040)
 - [Tatsu](https://store.steampowered.com/app/445070/) (AppID: 445070)
@@ -435,6 +445,7 @@ _(No new entries this run)_
 - [The Crew 2](https://store.steampowered.com/app/646910/) (AppID: 646910)
 - [LEGO® MARVEL Super Heroes 2](https://store.steampowered.com/app/647830/) (AppID: 647830)
 - [Jurassic World Evolution](https://store.steampowered.com/app/648350/) (AppID: 648350)
+- [Tokaido](https://store.steampowered.com/app/648750/) (AppID: 648750)
 - [Ashes Cricket](https://store.steampowered.com/app/649640/) (AppID: 649640)
 - [Windstorm: Start of a Great Friendship](https://store.steampowered.com/app/649810/) (AppID: 649810)
 - [Machine World 2](https://store.steampowered.com/app/650350/) (AppID: 650350)
@@ -1294,7 +1305,6 @@ _(No new entries this run)_
 - [TRANSFORMERS: Galactic Trials](https://store.steampowered.com/app/2324210/) (AppID: 2324210)
 - [Looney Tunes: Wacky World of Sports](https://store.steampowered.com/app/2330430/) (AppID: 2330430)
 - [AFL 23](https://store.steampowered.com/app/2337630/) (AppID: 2337630)
-- [Nubs!](https://store.steampowered.com/app/2337860/) (AppID: 2337860)
 - [Rugby 25](https://store.steampowered.com/app/2340870/) (AppID: 2340870)
 - [Silver Box Classics](https://store.steampowered.com/app/2344020/) (AppID: 2344020)
 - [KonoSuba: God's Blessing on this Wonderful World! Love For These Clothes Of Desire!](https://store.steampowered.com/app/2349140/) (AppID: 2349140)
@@ -1409,6 +1419,7 @@ _(No new entries this run)_
 - [Moorhuhn Invasion - Crazy Chicken Invasion](https://store.steampowered.com/app/2667020/) (AppID: 2667020)
 - [Miraculous Paris Under Siege](https://store.steampowered.com/app/2676410/) (AppID: 2676410)
 - [Indiana Jones and the Great Circle](https://store.steampowered.com/app/2677660/) (AppID: 2677660)
+- [Journey To The Wand](https://store.steampowered.com/app/2693470/) (AppID: 2693470)
 - [The Legend of Khiimori](https://store.steampowered.com/app/2697000/) (AppID: 2697000)
 - [Taskmaster VR](https://store.steampowered.com/app/2698450/) (AppID: 2698450)
 - [The Crew Motorfest](https://store.steampowered.com/app/2698940/) (AppID: 2698940)
@@ -1437,6 +1448,7 @@ _(No new entries this run)_
 - [文若九洲记：艳欲之乡](https://store.steampowered.com/app/2811580/) (AppID: 2811580)
 - [Mighty Morphin Power Rangers: Rita's Rewind](https://store.steampowered.com/app/2816870/) (AppID: 2816870)
 - [Wer weiß denn sowas? - Das 3. Spiel](https://store.steampowered.com/app/2817640/) (AppID: 2817640)
+- [HOT WHEELS™ Infinite Rush](https://store.steampowered.com/app/2821390/) (AppID: 2821390)
 - [Windstorm: Start of a Great Friendship - Remastered](https://store.steampowered.com/app/2829790/) (AppID: 2829790)
 - [Game of Thrones: War For Westeros](https://store.steampowered.com/app/2838950/) (AppID: 2838950)
 - [Avatar: Frontiers of Pandora](https://store.steampowered.com/app/2840770/) (AppID: 2840770)
@@ -1451,6 +1463,7 @@ _(No new entries this run)_
 - [Harry Potter: Quidditch Champions](https://store.steampowered.com/app/2878600/) (AppID: 2878600)
 - [NBA 2K25](https://store.steampowered.com/app/2878980/) (AppID: 2878980)
 - [Fortress Challenge : Fort Boyard](https://store.steampowered.com/app/2889830/) (AppID: 2889830)
+- [Velvet Bite: Softly, with Teeth](https://store.steampowered.com/app/2894820/) (AppID: 2894820)
 - [ONE PIECE Bounty Rush](https://store.steampowered.com/app/2918150/) (AppID: 2918150)
 - [Tiny](https://store.steampowered.com/app/2926680/) (AppID: 2926680)
 - [MAVRIX by Matt Jones](https://store.steampowered.com/app/2926900/) (AppID: 2926900)
@@ -1464,6 +1477,7 @@ _(No new entries this run)_
 - [Dreaming Blue](https://store.steampowered.com/app/2940920/) (AppID: 2940920)
 - [Jurassic World Evolution 3](https://store.steampowered.com/app/2958130/) (AppID: 2958130)
 - [The Thing: Remastered](https://store.steampowered.com/app/2958970/) (AppID: 2958970)
+- [Random Core Defense](https://store.steampowered.com/app/2964030/) (AppID: 2964030)
 - [Yapori Minigames](https://store.steampowered.com/app/2964440/) (AppID: 2964440)
 - [Train Sim World® 5](https://store.steampowered.com/app/2967990/) (AppID: 2967990)
 - [Cartographers](https://store.steampowered.com/app/2977360/) (AppID: 2977360)
@@ -1510,6 +1524,7 @@ _(No new entries this run)_
 - [Teenage Mutant Ninja Turtles: Tactical Takedown](https://store.steampowered.com/app/3229100/) (AppID: 3229100)
 - [EA SPORTS™ Madden NFL 26](https://store.steampowered.com/app/3230400/) (AppID: 3230400)
 - [Go Babies](https://store.steampowered.com/app/3231900/) (AppID: 3231900)
+- [老虎机少女 Slot Girls](https://store.steampowered.com/app/3236080/) (AppID: 3236080)
 - [Garfield Kart 2 - All You Can Drift](https://store.steampowered.com/app/3239650/) (AppID: 3239650)
 - [CDB6: A Maldição dos Zumbis](https://store.steampowered.com/app/3248320/) (AppID: 3248320)
 - [Jonah Lomu Rugby Challenge 4](https://store.steampowered.com/app/3251300/) (AppID: 3251300)
@@ -1548,6 +1563,7 @@ _(No new entries this run)_
 - [Cricket 26 - The Official Game of the Ashes](https://store.steampowered.com/app/3468650/) (AppID: 3468650)
 - [Baki Hanma: Blood Arena](https://store.steampowered.com/app/3469230/) (AppID: 3469230)
 - [NBA 2K26](https://store.steampowered.com/app/3472040/) (AppID: 3472040)
+- [Set a Watch: Digital Edition](https://store.steampowered.com/app/3493430/) (AppID: 3493430)
 - [Fear Effect](https://store.steampowered.com/app/3504570/) (AppID: 3504570)
 - [Fighting Force Collection](https://store.steampowered.com/app/3504580/) (AppID: 3504580)
 - [Ren & Stimpy Happy, Happy, Joy, Joy, Collection](https://store.steampowered.com/app/3504600/) (AppID: 3504600)
@@ -1559,6 +1575,7 @@ _(No new entries this run)_
 - [Warhammer 40,000: Dawn of War - Definitive Edition](https://store.steampowered.com/app/3556750/) (AppID: 3556750)
 - [The Sequencer](https://store.steampowered.com/app/3569250/) (AppID: 3569250)
 - [西游降魔](https://store.steampowered.com/app/3572830/) (AppID: 3572830)
+- [Evel Knievel](https://store.steampowered.com/app/3588460/) (AppID: 3588460)
 - [Voivod: The Nuclear Warrior](https://store.steampowered.com/app/3589910/) (AppID: 3589910)
 - [SpongeBob: Krusty Cook-Off](https://store.steampowered.com/app/3592510/) (AppID: 3592510)
 - [In Gehenna Fantasy Heroine Edition](https://store.steampowered.com/app/3600820/) (AppID: 3600820)
@@ -1596,7 +1613,6 @@ _(No new entries this run)_
 - [Forgotten Realms: Demon Stone](https://store.steampowered.com/app/3843530/) (AppID: 3843530)
 - [Dungeons & Dragons: Dragonshard](https://store.steampowered.com/app/3843540/) (AppID: 3843540)
 - [NASCAR 25](https://store.steampowered.com/app/3873970/) (AppID: 3873970)
-- [Phantasos Now](https://store.steampowered.com/app/3874210/) (AppID: 3874210)
 - [Laid-Back Camp: Camping Cook-off!](https://store.steampowered.com/app/3882430/) (AppID: 3882430)
 - [The Bygone Days of Her and the Flowers](https://store.steampowered.com/app/3903190/) (AppID: 3903190)
 - [史小坑的黑暗料理](https://store.steampowered.com/app/3915180/) (AppID: 3915180)
@@ -1604,6 +1620,7 @@ _(No new entries this run)_
 - [MARVEL MaXimum Collection](https://store.steampowered.com/app/3931060/) (AppID: 3931060)
 - [Tour de France 2026](https://store.steampowered.com/app/3936520/) (AppID: 3936520)
 - [Pro Cycling Manager 26](https://store.steampowered.com/app/3936530/) (AppID: 3936530)
+- [Monopoly: Star Wars™ Heroes vs. Villains](https://store.steampowered.com/app/3936610/) (AppID: 3936610)
 - [EA SPORTS™ Madden NFL 27](https://store.steampowered.com/app/3940610/) (AppID: 3940610)
 - [Star Trek: Infection](https://store.steampowered.com/app/3954580/) (AppID: 3954580)
 - [JAWS: Retro Edition](https://store.steampowered.com/app/3977380/) (AppID: 3977380)
@@ -1618,6 +1635,7 @@ _(No new entries this run)_
 - [Arthur's Reading Games](https://store.steampowered.com/app/4056610/) (AppID: 4056610)
 - [末日战姬：命运交锋](https://store.steampowered.com/app/4107260/) (AppID: 4107260)
 - [eBaseball™: PRO SPIRIT](https://store.steampowered.com/app/4128400/) (AppID: 4128400)
+- [Nuclecard](https://store.steampowered.com/app/4162600/) (AppID: 4162600)
 - [MINOS: Home A-Labyrinth](https://store.steampowered.com/app/4162630/) (AppID: 4162630)
 - [The NewZealand Story: Untold Adventure](https://store.steampowered.com/app/4193730/) (AppID: 4193730)
 - [Forgotten Records](https://store.steampowered.com/app/4214600/) (AppID: 4214600)
