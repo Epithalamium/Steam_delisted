@@ -1389,7 +1389,6 @@
 2667020	Moorhuhn Invasion - Crazy Chicken Invasion
 2676410	Miraculous Paris Under Siege
 2677660	Indiana Jones and the Great Circle
-2693470	Journey To The Wand
 2697000	The Legend of Khiimori
 2698450	Taskmaster VR
 2698940	The Crew Motorfest
@@ -1494,7 +1493,6 @@
 3229100	Teenage Mutant Ninja Turtles: Tactical Takedown
 3230400	EA SPORTS™ Madden NFL 26
 3231900	Go Babies
-3236080	老虎机少女 Slot Girls
 3239650	Garfield Kart 2 - All You Can Drift
 3248320	CDB6: A Maldição dos Zumbis
 3251300	Jonah Lomu Rugby Challenge 4
@@ -1519,6 +1517,7 @@
 3360010	Tsukuyomi: The Divine Hunter
 3362660	World War Z VR
 3376690	THE HOUSE OF THE DEAD 2: Remake
+3385250	ラビィとパネルでしりとり
 3392700	Geopogo Cities
 3393070	KAIJU NO. 8 THE GAME
 3399830	The Last of them
@@ -1586,6 +1585,7 @@
 3882430	Laid-Back Camp: Camping Cook-off!
 3903190	The Bygone Days of Her and the Flowers
 3915180	史小坑的黑暗料理
+3924080	Spori
 3927680	Steel Defence
 3931060	MARVEL MaXimum Collection
 3936520	Tour de France 2026
@@ -1605,7 +1605,7 @@
 4056610	Arthur's Reading Games
 4107260	末日战姬：命运交锋
 4128400	eBaseball™: PRO SPIRIT
-4162600	Nuclecard
+4162160	新盗墓笔记ol
 4162630	MINOS: Home A-Labyrinth
 4193730	The NewZealand Story: Untold Adventure
 4214600	Forgotten Records
