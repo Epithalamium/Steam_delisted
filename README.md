@@ -2,19 +2,17 @@
 
 Automatically tracks apps listed on [steam-tracker.com/apps/at-risk](https://steam-tracker.com/apps/at-risk).
 
-Updated every 2 days via GitHub Actions. Last updated: **2026-07-17 08:26 UTC**
+Updated every 2 days via GitHub Actions. Last updated: **2026-07-19 08:31 UTC**
 
 **Filters applied:** Recommended · Released (default page view)
 
-**Total tracked:** 1615 apps
+**Total tracked:** 1612 apps
 
 ---
 
 ## Newly Added Since Last Check
 
-- [ラビィとパネルでしりとり](https://store.steampowered.com/app/3385250/) (AppID: 3385250)
-- [Spori](https://store.steampowered.com/app/3924080/) (AppID: 3924080)
-- [新盗墓笔记ol](https://store.steampowered.com/app/4162160/) (AppID: 4162160)
+_(No new entries this run)_
 
 ---
 
@@ -108,7 +106,6 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-07-17 08:26 UTC**
 - [Space Ace](https://store.steampowered.com/app/240340/) (AppID: 240340)
 - [Dragon's Lair 2: Time Warp](https://store.steampowered.com/app/240360/) (AppID: 240360)
 - [MotoGP™13](https://store.steampowered.com/app/240600/) (AppID: 240600)
-- [Assassin's Creed IV Black Flag](https://store.steampowered.com/app/242050/) (AppID: 242050)
 - [Sir, You Are Being Hunted](https://store.steampowered.com/app/242880/) (AppID: 242880)
 - [Memoria](https://store.steampowered.com/app/243200/) (AppID: 243200)
 - [Assetto Corsa](https://store.steampowered.com/app/244210/) (AppID: 244210)
@@ -444,7 +441,6 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-07-17 08:26 UTC**
 - [Psychic Isolation](https://store.steampowered.com/app/650820/) (AppID: 650820)
 - [DC Wonder: Unlimited](https://store.steampowered.com/app/652160/) (AppID: 652160)
 - [Flash Point: Fire Rescue](https://store.steampowered.com/app/654220/) (AppID: 654220)
-- [Eight-Minute Empire](https://store.steampowered.com/app/656590/) (AppID: 656590)
 - [Block Robot Mini Survival Game](https://store.steampowered.com/app/656730/) (AppID: 656730)
 - [Bullyparade - DER Spiel](https://store.steampowered.com/app/656780/) (AppID: 656780)
 - [Sakura Sakura](https://store.steampowered.com/app/658140/) (AppID: 658140)
@@ -552,7 +548,6 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-07-17 08:26 UTC**
 - [missed messages.](https://store.steampowered.com/app/812810/) (AppID: 812810)
 - [Ben 10 VR](https://store.steampowered.com/app/813350/) (AppID: 813350)
 - [ONE PIECE ODYSSEY](https://store.steampowered.com/app/814000/) (AppID: 814000)
-- [Sanguo Warriors VR 三国虎将传VR](https://store.steampowered.com/app/814900/) (AppID: 814900)
 - [Space Hulk: Deathwing - Enhanced Edition](https://store.steampowered.com/app/816090/) (AppID: 816090)
 - [LEGO® The Incredibles](https://store.steampowered.com/app/818320/) (AppID: 818320)
 - [INFINITY CHALLENGE](https://store.steampowered.com/app/819660/) (AppID: 819660)

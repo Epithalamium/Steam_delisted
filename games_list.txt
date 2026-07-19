@@ -86,7 +86,6 @@
 240340	Space Ace
 240360	Dragon's Lair 2: Time Warp
 240600	MotoGP™13
-242050	Assassin's Creed IV Black Flag
 242880	Sir, You Are Being Hunted
 243200	Memoria
 244210	Assetto Corsa
@@ -422,7 +421,6 @@
 650820	Psychic Isolation
 652160	DC Wonder: Unlimited
 654220	Flash Point: Fire Rescue
-656590	Eight-Minute Empire
 656730	Block Robot Mini Survival Game
 656780	Bullyparade - DER Spiel
 658140	Sakura Sakura
@@ -530,7 +528,6 @@
 812810	missed messages.
 813350	Ben 10 VR
 814000	ONE PIECE ODYSSEY
-814900	Sanguo Warriors VR 三国虎将传VR
 816090	Space Hulk: Deathwing - Enhanced Edition
 818320	LEGO® The Incredibles
 819660	INFINITY CHALLENGE
