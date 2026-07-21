@@ -226,6 +226,7 @@
 388960	Torn Tales
 389470	Call of Cthulhu: Shadow of the Comet
 390520	PewDiePie: Legend of the Brofist
+397310	Looterkings
 399810	Call of Cthulhu
 400800	MXGP2 - The Official Motocross Videogame
 401890	ARSLAN: THE WARRIORS OF LEGEND
@@ -353,6 +354,7 @@
 564010	Stern Pinball Arcade
 564050	Bud Spencer & Terence Hill - Slaps And Beans
 566440	Necromunda: Underhive Wars
+567010	Game Royale 2 - The Secret of Jannis Island
 568240	Kung Fu Ping Pong
 570540	Amazon Odyssey
 571530	Superdimension Neptune VS Sega Hard Girls
@@ -989,6 +991,7 @@
 1571460	Zorro The Chronicles
 1573720	Agatha Christie - Hercule Poirot: The First Cases
 1576350	Blair Witch VR
+1577150	Tafl Champions: Ancient Chess
 1586700	Marsupilami: Hoobadventure
 1589290	Kitsu's Destiny
 1590320	Bro Falls: Ultimate Showdown
@@ -1274,6 +1277,7 @@
 2337630	AFL 23
 2340870	Rugby 25
 2344020	Silver Box Classics
+2344800	Milky Animals
 2349140	KonoSuba: God's Blessing on this Wonderful World! Love For These Clothes Of Desire!
 2350280	Monster Jam™ Showdown
 2350520	DragonStrike
@@ -1443,9 +1447,9 @@
 2940920	Dreaming Blue
 2958130	Jurassic World Evolution 3
 2958970	The Thing: Remastered
-2964030	Random Core Defense
 2964440	Yapori Minigames
 2967990	Train Sim World® 5
+2972870	Red Ruins: VR vs. PC
 2977360	Cartographers
 2983910	Power Grid
 2993980	MasterChef: Learn to Cook!
@@ -1555,7 +1559,6 @@
 3669620	Warhammer Survivors
 3679080	The Seven Deadly Sins: Origin
 3686980	Yatzi 2
-3698510	Kick and Hide
 3700250	Master of Piece: Prologue
 3710360	GÖREV
 3710600	Warhammer 40,000: Dark Heresy
@@ -1582,7 +1585,6 @@
 3882430	Laid-Back Camp: Camping Cook-off!
 3903190	The Bygone Days of Her and the Flowers
 3915180	史小坑的黑暗料理
-3924080	Spori
 3927680	Steel Defence
 3931060	MARVEL MaXimum Collection
 3936520	Tour de France 2026
@@ -1609,4 +1611,6 @@
 4316960	Spirit-Sealing Tome
 4375120	Jigokuraku: BATTLE IN HELL'S PARADISE
 4459850	NAMCO LEGENDARY Mountains
+4482960	驱入虚空
 4682460	G-MODEアーカイブス+ パックマン
+4789260	Never Ending Hero RPG

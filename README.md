@@ -2,17 +2,23 @@
 
 Automatically tracks apps listed on [steam-tracker.com/apps/at-risk](https://steam-tracker.com/apps/at-risk).
 
-Updated every 2 days via GitHub Actions. Last updated: **2026-07-19 08:31 UTC**
+Updated every 2 days via GitHub Actions. Last updated: **2026-07-21 08:43 UTC**
 
 **Filters applied:** Recommended · Released (default page view)
 
-**Total tracked:** 1612 apps
+**Total tracked:** 1616 apps
 
 ---
 
 ## Newly Added Since Last Check
 
-_(No new entries this run)_
+- [Looterkings](https://store.steampowered.com/app/397310/) (AppID: 397310)
+- [Game Royale 2 - The Secret of Jannis Island](https://store.steampowered.com/app/567010/) (AppID: 567010)
+- [Tafl Champions: Ancient Chess](https://store.steampowered.com/app/1577150/) (AppID: 1577150)
+- [Milky Animals](https://store.steampowered.com/app/2344800/) (AppID: 2344800)
+- [Red Ruins: VR vs. PC](https://store.steampowered.com/app/2972870/) (AppID: 2972870)
+- [驱入虚空](https://store.steampowered.com/app/4482960/) (AppID: 4482960)
+- [Never Ending Hero RPG](https://store.steampowered.com/app/4789260/) (AppID: 4789260)
 
 ---
 
@@ -246,6 +252,7 @@ _(No new entries this run)_
 - [Torn Tales](https://store.steampowered.com/app/388960/) (AppID: 388960)
 - [Call of Cthulhu: Shadow of the Comet](https://store.steampowered.com/app/389470/) (AppID: 389470)
 - [PewDiePie: Legend of the Brofist](https://store.steampowered.com/app/390520/) (AppID: 390520)
+- [Looterkings](https://store.steampowered.com/app/397310/) (AppID: 397310)
 - [Call of Cthulhu](https://store.steampowered.com/app/399810/) (AppID: 399810)
 - [MXGP2 - The Official Motocross Videogame](https://store.steampowered.com/app/400800/) (AppID: 400800)
 - [ARSLAN: THE WARRIORS OF LEGEND](https://store.steampowered.com/app/401890/) (AppID: 401890)
@@ -373,6 +380,7 @@ _(No new entries this run)_
 - [Stern Pinball Arcade](https://store.steampowered.com/app/564010/) (AppID: 564010)
 - [Bud Spencer & Terence Hill - Slaps And Beans](https://store.steampowered.com/app/564050/) (AppID: 564050)
 - [Necromunda: Underhive Wars](https://store.steampowered.com/app/566440/) (AppID: 566440)
+- [Game Royale 2 - The Secret of Jannis Island](https://store.steampowered.com/app/567010/) (AppID: 567010)
 - [Kung Fu Ping Pong](https://store.steampowered.com/app/568240/) (AppID: 568240)
 - [Amazon Odyssey](https://store.steampowered.com/app/570540/) (AppID: 570540)
 - [Superdimension Neptune VS Sega Hard Girls](https://store.steampowered.com/app/571530/) (AppID: 571530)
@@ -1009,6 +1017,7 @@ _(No new entries this run)_
 - [Zorro The Chronicles](https://store.steampowered.com/app/1571460/) (AppID: 1571460)
 - [Agatha Christie - Hercule Poirot: The First Cases](https://store.steampowered.com/app/1573720/) (AppID: 1573720)
 - [Blair Witch VR](https://store.steampowered.com/app/1576350/) (AppID: 1576350)
+- [Tafl Champions: Ancient Chess](https://store.steampowered.com/app/1577150/) (AppID: 1577150)
 - [Marsupilami: Hoobadventure](https://store.steampowered.com/app/1586700/) (AppID: 1586700)
 - [Kitsu's Destiny](https://store.steampowered.com/app/1589290/) (AppID: 1589290)
 - [Bro Falls: Ultimate Showdown](https://store.steampowered.com/app/1590320/) (AppID: 1590320)
@@ -1294,6 +1303,7 @@ _(No new entries this run)_
 - [AFL 23](https://store.steampowered.com/app/2337630/) (AppID: 2337630)
 - [Rugby 25](https://store.steampowered.com/app/2340870/) (AppID: 2340870)
 - [Silver Box Classics](https://store.steampowered.com/app/2344020/) (AppID: 2344020)
+- [Milky Animals](https://store.steampowered.com/app/2344800/) (AppID: 2344800)
 - [KonoSuba: God's Blessing on this Wonderful World! Love For These Clothes Of Desire!](https://store.steampowered.com/app/2349140/) (AppID: 2349140)
 - [Monster Jam™ Showdown](https://store.steampowered.com/app/2350280/) (AppID: 2350280)
 - [DragonStrike](https://store.steampowered.com/app/2350520/) (AppID: 2350520)
@@ -1463,9 +1473,9 @@ _(No new entries this run)_
 - [Dreaming Blue](https://store.steampowered.com/app/2940920/) (AppID: 2940920)
 - [Jurassic World Evolution 3](https://store.steampowered.com/app/2958130/) (AppID: 2958130)
 - [The Thing: Remastered](https://store.steampowered.com/app/2958970/) (AppID: 2958970)
-- [Random Core Defense](https://store.steampowered.com/app/2964030/) (AppID: 2964030)
 - [Yapori Minigames](https://store.steampowered.com/app/2964440/) (AppID: 2964440)
 - [Train Sim World® 5](https://store.steampowered.com/app/2967990/) (AppID: 2967990)
+- [Red Ruins: VR vs. PC](https://store.steampowered.com/app/2972870/) (AppID: 2972870)
 - [Cartographers](https://store.steampowered.com/app/2977360/) (AppID: 2977360)
 - [Power Grid](https://store.steampowered.com/app/2983910/) (AppID: 2983910)
 - [MasterChef: Learn to Cook!](https://store.steampowered.com/app/2993980/) (AppID: 2993980)
@@ -1575,7 +1585,6 @@ _(No new entries this run)_
 - [Warhammer Survivors](https://store.steampowered.com/app/3669620/) (AppID: 3669620)
 - [The Seven Deadly Sins: Origin](https://store.steampowered.com/app/3679080/) (AppID: 3679080)
 - [Yatzi 2](https://store.steampowered.com/app/3686980/) (AppID: 3686980)
-- [Kick and Hide](https://store.steampowered.com/app/3698510/) (AppID: 3698510)
 - [Master of Piece: Prologue](https://store.steampowered.com/app/3700250/) (AppID: 3700250)
 - [GÖREV](https://store.steampowered.com/app/3710360/) (AppID: 3710360)
 - [Warhammer 40,000: Dark Heresy](https://store.steampowered.com/app/3710600/) (AppID: 3710600)
@@ -1602,7 +1611,6 @@ _(No new entries this run)_
 - [Laid-Back Camp: Camping Cook-off!](https://store.steampowered.com/app/3882430/) (AppID: 3882430)
 - [The Bygone Days of Her and the Flowers](https://store.steampowered.com/app/3903190/) (AppID: 3903190)
 - [史小坑的黑暗料理](https://store.steampowered.com/app/3915180/) (AppID: 3915180)
-- [Spori](https://store.steampowered.com/app/3924080/) (AppID: 3924080)
 - [Steel Defence](https://store.steampowered.com/app/3927680/) (AppID: 3927680)
 - [MARVEL MaXimum Collection](https://store.steampowered.com/app/3931060/) (AppID: 3931060)
 - [Tour de France 2026](https://store.steampowered.com/app/3936520/) (AppID: 3936520)
@@ -1629,4 +1637,6 @@ _(No new entries this run)_
 - [Spirit-Sealing Tome](https://store.steampowered.com/app/4316960/) (AppID: 4316960)
 - [Jigokuraku: BATTLE IN HELL'S PARADISE](https://store.steampowered.com/app/4375120/) (AppID: 4375120)
 - [NAMCO LEGENDARY Mountains](https://store.steampowered.com/app/4459850/) (AppID: 4459850)
+- [驱入虚空](https://store.steampowered.com/app/4482960/) (AppID: 4482960)
 - [G-MODEアーカイブス+ パックマン](https://store.steampowered.com/app/4682460/) (AppID: 4682460)
+- [Never Ending Hero RPG](https://store.steampowered.com/app/4789260/) (AppID: 4789260)
