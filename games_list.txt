@@ -779,7 +779,6 @@
 1165610	Titeuf: Mega Party
 1167350	Skyous
 1170760	XIII - Classic
-1171040	Eonica Chess Battle
 1171130	Scraper: Gauntlet
 1172380	STAR WARS Jedi: Fallen Order™
 1172710	Dune: Awakening
@@ -1097,6 +1096,7 @@
 1839950	Terminator: Dark Fate - Defiance
 1843310	FUNKO FUSION
 1844380	Warhammer Age of Sigmar: Realms of Ruin
+1845040	Panzers on the Steppe
 1846380	Need for Speed™ Unbound
 1849250	EA SPORTS™ WRC
 1850050	Alien: Rogue Incursion VR
@@ -1107,6 +1107,7 @@
 1867270	MeteoHeroes
 1867510	WrestleQuest
 1867580	Final Space - The Rescue
+1868730	Gettysburg: Fields of Valor
 1877020	Jujutsu Kaisen Cursed Clash
 1880710	Tuition Academia
 1882240	Forgotten Realms: The Archives - Collection One
@@ -1277,7 +1278,6 @@
 2337630	AFL 23
 2340870	Rugby 25
 2344020	Silver Box Classics
-2344800	Milky Animals
 2349140	KonoSuba: God's Blessing on this Wonderful World! Love For These Clothes Of Desire!
 2350280	Monster Jam™ Showdown
 2350520	DragonStrike
@@ -1412,6 +1412,7 @@
 2774110	Tavern Girl
 2776900	The Eminence in Shadow: Master of Garden
 2777970	Stranger Things VR
+2780080	Screen TRPG
 2793950	Totally Spies! - Cyber Mission
 2800630	The Smurfs - Village Party
 2807870	Darkness Ritual: Impasse
@@ -1449,7 +1450,6 @@
 2958970	The Thing: Remastered
 2964440	Yapori Minigames
 2967990	Train Sim World® 5
-2972870	Red Ruins: VR vs. PC
 2977360	Cartographers
 2983910	Power Grid
 2993980	MasterChef: Learn to Cook!
@@ -1484,6 +1484,7 @@
 3130400	Terrifier The ARTcade Game
 3150480	Agatha Christie - Death on the Nile
 3169520	Warhammer 40,000: Space Marine - Master Crafted Edition
+3181160	Late Emergency
 3185460	Fap&Click
 3189010	The Mansion of The Macabre
 3210120	The Elf on the Shelf®: Christmas Heroes
@@ -1494,6 +1495,7 @@
 3229100	Teenage Mutant Ninja Turtles: Tactical Takedown
 3230400	EA SPORTS™ Madden NFL 26
 3231900	Go Babies
+3233870	Dami and Secret Library
 3239650	Garfield Kart 2 - All You Can Drift
 3248320	CDB6: A Maldição dos Zumbis
 3251300	Jonah Lomu Rugby Challenge 4
@@ -1515,7 +1517,6 @@
 3344960	夏目友人帳 ～葉月の記～
 3352750	Kings of Emperor Bonaparte
 3356340	The Original Moorhuhn Hunt
-3360010	Tsukuyomi: The Divine Hunter
 3362660	World War Z VR
 3376690	THE HOUSE OF THE DEAD 2: Remake
 3385250	ラビィとパネルでしりとり
@@ -1547,6 +1548,7 @@
 3572830	西游降魔
 3588460	Evel Knievel
 3589910	Voivod: The Nuclear Warrior
+3592070	雀夢麻雀(Mahjong Dream)
 3592510	SpongeBob: Krusty Cook-Off
 3600820	In Gehenna Fantasy Heroine Edition
 3633250	Junji Ito Maniac: An Infinite Gaol
@@ -1602,15 +1604,16 @@
 4056590	Arthur's Math Games
 4056600	Arthur's Preschool
 4056610	Arthur's Reading Games
+4107120	Pax Autocratica: Prologue
 4107260	末日战姬：命运交锋
 4128400	eBaseball™: PRO SPIRIT
 4162160	新盗墓笔记ol
 4162630	MINOS: Home A-Labyrinth
 4193730	The NewZealand Story: Untold Adventure
 4214600	Forgotten Records
+4282500	hololive Dreams
 4316960	Spirit-Sealing Tome
 4375120	Jigokuraku: BATTLE IN HELL'S PARADISE
 4459850	NAMCO LEGENDARY Mountains
 4482960	驱入虚空
 4682460	G-MODEアーカイブス+ パックマン
-4789260	Never Ending Hero RPG
