@@ -20,7 +20,7 @@
 22340	Call of Cthulhu: Dark Corners of the Earth
 24200	DC Universe Online
 26800	Braid
-31100	Wallace & Gromit’s Grand Adventures
+31100	Wallace & Gromit Ep 1: Fright of the Bumblebees
 31170	Tales of Monkey Island: Chapter 1 - Launch of the Screaming Narwhal
 31800	Nancy Drew: Danger By Design
 31810	Nancy Drew: Last Train to Blue Moon Canyon
@@ -1495,7 +1495,6 @@
 3229100	Teenage Mutant Ninja Turtles: Tactical Takedown
 3230400	EA SPORTS™ Madden NFL 26
 3231900	Go Babies
-3233870	Dami and Secret Library
 3239650	Garfield Kart 2 - All You Can Drift
 3248320	CDB6: A Maldição dos Zumbis
 3251300	Jonah Lomu Rugby Challenge 4
@@ -1548,7 +1547,6 @@
 3572830	西游降魔
 3588460	Evel Knievel
 3589910	Voivod: The Nuclear Warrior
-3592070	雀夢麻雀(Mahjong Dream)
 3592510	SpongeBob: Krusty Cook-Off
 3600820	In Gehenna Fantasy Heroine Edition
 3633250	Junji Ito Maniac: An Infinite Gaol

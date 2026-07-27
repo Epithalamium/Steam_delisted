@@ -2,24 +2,17 @@
 
 Automatically tracks apps listed on [steam-tracker.com/apps/at-risk](https://steam-tracker.com/apps/at-risk).
 
-Updated every 2 days via GitHub Actions. Last updated: **2026-07-25 08:22 UTC**
+Updated every 2 days via GitHub Actions. Last updated: **2026-07-27 10:07 UTC**
 
 **Filters applied:** Recommended · Released (default page view)
 
-**Total tracked:** 1619 apps
+**Total tracked:** 1617 apps
 
 ---
 
 ## Newly Added Since Last Check
 
-- [Panzers on the Steppe](https://store.steampowered.com/app/1845040/) (AppID: 1845040)
-- [Gettysburg: Fields of Valor](https://store.steampowered.com/app/1868730/) (AppID: 1868730)
-- [Screen TRPG](https://store.steampowered.com/app/2780080/) (AppID: 2780080)
-- [Late Emergency](https://store.steampowered.com/app/3181160/) (AppID: 3181160)
-- [Dami and Secret Library](https://store.steampowered.com/app/3233870/) (AppID: 3233870)
-- [雀夢麻雀(Mahjong Dream)](https://store.steampowered.com/app/3592070/) (AppID: 3592070)
-- [Pax Autocratica: Prologue](https://store.steampowered.com/app/4107120/) (AppID: 4107120)
-- [hololive Dreams](https://store.steampowered.com/app/4282500/) (AppID: 4282500)
+_(No new entries this run)_
 
 ---
 
@@ -47,7 +40,7 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-07-25 08:22 UTC**
 - [Call of Cthulhu: Dark Corners of the Earth](https://store.steampowered.com/app/22340/) (AppID: 22340)
 - [DC Universe Online](https://store.steampowered.com/app/24200/) (AppID: 24200)
 - [Braid](https://store.steampowered.com/app/26800/) (AppID: 26800)
-- [Wallace & Gromit’s Grand Adventures](https://store.steampowered.com/app/31100/) (AppID: 31100)
+- [Wallace & Gromit Ep 1: Fright of the Bumblebees](https://store.steampowered.com/app/31100/) (AppID: 31100)
 - [Tales of Monkey Island: Chapter 1 - Launch of the Screaming Narwhal](https://store.steampowered.com/app/31170/) (AppID: 31170)
 - [Nancy Drew: Danger By Design](https://store.steampowered.com/app/31800/) (AppID: 31800)
 - [Nancy Drew: Last Train to Blue Moon Canyon](https://store.steampowered.com/app/31810/) (AppID: 31810)
@@ -1522,7 +1515,6 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-07-25 08:22 UTC**
 - [Teenage Mutant Ninja Turtles: Tactical Takedown](https://store.steampowered.com/app/3229100/) (AppID: 3229100)
 - [EA SPORTS™ Madden NFL 26](https://store.steampowered.com/app/3230400/) (AppID: 3230400)
 - [Go Babies](https://store.steampowered.com/app/3231900/) (AppID: 3231900)
-- [Dami and Secret Library](https://store.steampowered.com/app/3233870/) (AppID: 3233870)
 - [Garfield Kart 2 - All You Can Drift](https://store.steampowered.com/app/3239650/) (AppID: 3239650)
 - [CDB6: A Maldição dos Zumbis](https://store.steampowered.com/app/3248320/) (AppID: 3248320)
 - [Jonah Lomu Rugby Challenge 4](https://store.steampowered.com/app/3251300/) (AppID: 3251300)
@@ -1575,7 +1567,6 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-07-25 08:22 UTC**
 - [西游降魔](https://store.steampowered.com/app/3572830/) (AppID: 3572830)
 - [Evel Knievel](https://store.steampowered.com/app/3588460/) (AppID: 3588460)
 - [Voivod: The Nuclear Warrior](https://store.steampowered.com/app/3589910/) (AppID: 3589910)
-- [雀夢麻雀(Mahjong Dream)](https://store.steampowered.com/app/3592070/) (AppID: 3592070)
 - [SpongeBob: Krusty Cook-Off](https://store.steampowered.com/app/3592510/) (AppID: 3592510)
 - [In Gehenna Fantasy Heroine Edition](https://store.steampowered.com/app/3600820/) (AppID: 3600820)
 - [Junji Ito Maniac: An Infinite Gaol](https://store.steampowered.com/app/3633250/) (AppID: 3633250)
