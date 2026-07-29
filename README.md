@@ -2,7 +2,7 @@
 
 Automatically tracks apps listed on [steam-tracker.com/apps/at-risk](https://steam-tracker.com/apps/at-risk).
 
-Updated every 2 days via GitHub Actions. Last updated: **2026-07-27 10:07 UTC**
+Updated every 2 days via GitHub Actions. Last updated: **2026-07-29 09:06 UTC**
 
 **Filters applied:** Recommended · Released (default page view)
 
@@ -12,7 +12,9 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-07-27 10:07 UTC**
 
 ## Newly Added Since Last Check
 
-_(No new entries this run)_
+- [下一站江湖Ⅰ](https://store.steampowered.com/app/1448260/) (AppID: 1448260)
+- [Arena of Trophies](https://store.steampowered.com/app/2922790/) (AppID: 2922790)
+- [Crony Corp](https://store.steampowered.com/app/3195450/) (AppID: 3195450)
 
 ---
 
@@ -830,7 +832,6 @@ _(No new entries this run)_
 - [Need for Speed™ Heat](https://store.steampowered.com/app/1222680/) (AppID: 1222680)
 - [Tennis World Tour 2](https://store.steampowered.com/app/1223910/) (AppID: 1223910)
 - [Mazovian Adventure](https://store.steampowered.com/app/1227390/) (AppID: 1227390)
-- [Patched world](https://store.steampowered.com/app/1228630/) (AppID: 1228630)
 - [Porsche Hall of Legends VR](https://store.steampowered.com/app/1231900/) (AppID: 1231900)
 - [FAIRY TAIL](https://store.steampowered.com/app/1233260/) (AppID: 1233260)
 - [Warhammer Age of Sigmar: Storm Ground](https://store.steampowered.com/app/1233590/) (AppID: 1233590)
@@ -950,6 +951,7 @@ _(No new entries this run)_
 - [Psycho](https://store.steampowered.com/app/1440290/) (AppID: 1440290)
 - [Doctor Who: The Edge of Reality](https://store.steampowered.com/app/1444920/) (AppID: 1444920)
 - [MotoGP™21](https://store.steampowered.com/app/1447000/) (AppID: 1447000)
+- [下一站江湖Ⅰ](https://store.steampowered.com/app/1448260/) (AppID: 1448260)
 - [Ghostbusters: The Video Game Remastered](https://store.steampowered.com/app/1449280/) (AppID: 1449280)
 - [Alfred Hitchcock - Vertigo](https://store.steampowered.com/app/1449320/) (AppID: 1449320)
 - [Bassmaster® Fishing](https://store.steampowered.com/app/1449500/) (AppID: 1449500)
@@ -1279,7 +1281,6 @@ _(No new entries this run)_
 - [BlazBlue Entropy Effect](https://store.steampowered.com/app/2273430/) (AppID: 2273430)
 - [Holiday Party: Mascot Brawl](https://store.steampowered.com/app/2282650/) (AppID: 2282650)
 - [NINJA KIDZ: TIME MASTERS](https://store.steampowered.com/app/2287000/) (AppID: 2287000)
-- [F1® Manager 2023](https://store.steampowered.com/app/2287220/) (AppID: 2287220)
 - [Maumau and the Labyrinth](https://store.steampowered.com/app/2288080/) (AppID: 2288080)
 - [ACE COMBAT 8: WINGS OF THEVE](https://store.steampowered.com/app/2288340/) (AppID: 2288340)
 - [Faster Racer Boom Boom](https://store.steampowered.com/app/2293780/) (AppID: 2293780)
@@ -1456,6 +1457,7 @@ _(No new entries this run)_
 - [Fortress Challenge : Fort Boyard](https://store.steampowered.com/app/2889830/) (AppID: 2889830)
 - [Velvet Bite: Softly, with Teeth](https://store.steampowered.com/app/2894820/) (AppID: 2894820)
 - [ONE PIECE Bounty Rush](https://store.steampowered.com/app/2918150/) (AppID: 2918150)
+- [Arena of Trophies](https://store.steampowered.com/app/2922790/) (AppID: 2922790)
 - [Tiny](https://store.steampowered.com/app/2926680/) (AppID: 2926680)
 - [MAVRIX by Matt Jones](https://store.steampowered.com/app/2926900/) (AppID: 2926900)
 - [Crime Simulator: Playgrounds](https://store.steampowered.com/app/2928280/) (AppID: 2928280)
@@ -1507,6 +1509,7 @@ _(No new entries this run)_
 - [Late Emergency](https://store.steampowered.com/app/3181160/) (AppID: 3181160)
 - [Fap&Click](https://store.steampowered.com/app/3185460/) (AppID: 3185460)
 - [The Mansion of The Macabre](https://store.steampowered.com/app/3189010/) (AppID: 3189010)
+- [Crony Corp](https://store.steampowered.com/app/3195450/) (AppID: 3195450)
 - [The Elf on the Shelf®: Christmas Heroes](https://store.steampowered.com/app/3210120/) (AppID: 3210120)
 - [Bratz® Rhythm & Style](https://store.steampowered.com/app/3212580/) (AppID: 3212580)
 - [DUST II | The Infinite Zero Point](https://store.steampowered.com/app/3213300/) (AppID: 3213300)
@@ -1546,7 +1549,6 @@ _(No new entries this run)_
 - [Chicken Run: Eggstraction](https://store.steampowered.com/app/3419690/) (AppID: 3419690)
 - [BRIO World - Railway](https://store.steampowered.com/app/3428880/) (AppID: 3428880)
 - [Jianghu Diary](https://store.steampowered.com/app/3432510/) (AppID: 3432510)
-- [Ancible Online](https://store.steampowered.com/app/3442160/) (AppID: 3442160)
 - [Aliens: Fireteam Elite 2](https://store.steampowered.com/app/3448650/) (AppID: 3448650)
 - [The Solitude Project](https://store.steampowered.com/app/3452280/) (AppID: 3452280)
 - [AFL 26](https://store.steampowered.com/app/3468640/) (AppID: 3468640)

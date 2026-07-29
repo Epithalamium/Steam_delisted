@@ -810,7 +810,6 @@
 1222680	Need for Speed™ Heat
 1223910	Tennis World Tour 2
 1227390	Mazovian Adventure
-1228630	Patched world
 1231900	Porsche Hall of Legends VR
 1233260	FAIRY TAIL
 1233590	Warhammer Age of Sigmar: Storm Ground
@@ -930,6 +929,7 @@
 1440290	Psycho
 1444920	Doctor Who: The Edge of Reality
 1447000	MotoGP™21
+1448260	下一站江湖Ⅰ
 1449280	Ghostbusters: The Video Game Remastered
 1449320	Alfred Hitchcock - Vertigo
 1449500	Bassmaster® Fishing
@@ -1259,7 +1259,6 @@
 2273430	BlazBlue Entropy Effect
 2282650	Holiday Party: Mascot Brawl
 2287000	NINJA KIDZ: TIME MASTERS
-2287220	F1® Manager 2023
 2288080	Maumau and the Labyrinth
 2288340	ACE COMBAT 8: WINGS OF THEVE
 2293780	Faster Racer Boom Boom
@@ -1436,6 +1435,7 @@
 2889830	Fortress Challenge : Fort Boyard
 2894820	Velvet Bite: Softly, with Teeth
 2918150	ONE PIECE Bounty Rush
+2922790	Arena of Trophies
 2926680	Tiny
 2926900	MAVRIX by Matt Jones
 2928280	Crime Simulator: Playgrounds
@@ -1487,6 +1487,7 @@
 3181160	Late Emergency
 3185460	Fap&Click
 3189010	The Mansion of The Macabre
+3195450	Crony Corp
 3210120	The Elf on the Shelf®: Christmas Heroes
 3212580	Bratz® Rhythm & Style
 3213300	DUST II | The Infinite Zero Point
@@ -1526,7 +1527,6 @@
 3419690	Chicken Run: Eggstraction
 3428880	BRIO World - Railway
 3432510	Jianghu Diary
-3442160	Ancible Online
 3448650	Aliens: Fireteam Elite 2
 3452280	The Solitude Project
 3468640	AFL 26
