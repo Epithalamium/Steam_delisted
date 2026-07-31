@@ -544,6 +544,7 @@
 840210	Arkham Horror: Mother's Embrace
 840720	Sword Art Online: Lost Song
 843920	Hungry Piggy vs Chicken
+844870	KurtzPel
 846660	Cicadas - The IQA Edition
 846730	Rugby 20
 847510	Roller
@@ -1152,6 +1153,7 @@
 1953520	WRC Generations - The FIA WRC Official Game
 1955800	TRANSFORMERS: EARTHSPARK - Expedition
 1955980	Arsilon
+1961460	Project Playtime
 1962150	My Life: Riding Stables 3
 1962650	Horrid Henry's Krazy Karts
 1965680	HopDodge

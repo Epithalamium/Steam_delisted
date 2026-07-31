@@ -2,19 +2,18 @@
 
 Automatically tracks apps listed on [steam-tracker.com/apps/at-risk](https://steam-tracker.com/apps/at-risk).
 
-Updated every 2 days via GitHub Actions. Last updated: **2026-07-29 09:06 UTC**
+Updated every 2 days via GitHub Actions. Last updated: **2026-07-31 09:15 UTC**
 
 **Filters applied:** Recommended · Released (default page view)
 
-**Total tracked:** 1617 apps
+**Total tracked:** 1619 apps
 
 ---
 
 ## Newly Added Since Last Check
 
-- [下一站江湖Ⅰ](https://store.steampowered.com/app/1448260/) (AppID: 1448260)
-- [Arena of Trophies](https://store.steampowered.com/app/2922790/) (AppID: 2922790)
-- [Crony Corp](https://store.steampowered.com/app/3195450/) (AppID: 3195450)
+- [KurtzPel](https://store.steampowered.com/app/844870/) (AppID: 844870)
+- [Project Playtime](https://store.steampowered.com/app/1961460/) (AppID: 1961460)
 
 ---
 
@@ -566,6 +565,7 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-07-29 09:06 UTC**
 - [Arkham Horror: Mother's Embrace](https://store.steampowered.com/app/840210/) (AppID: 840210)
 - [Sword Art Online: Lost Song](https://store.steampowered.com/app/840720/) (AppID: 840720)
 - [Hungry Piggy vs Chicken](https://store.steampowered.com/app/843920/) (AppID: 843920)
+- [KurtzPel](https://store.steampowered.com/app/844870/) (AppID: 844870)
 - [Cicadas - The IQA Edition](https://store.steampowered.com/app/846660/) (AppID: 846660)
 - [Rugby 20](https://store.steampowered.com/app/846730/) (AppID: 846730)
 - [Roller](https://store.steampowered.com/app/847510/) (AppID: 847510)
@@ -1174,6 +1174,7 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-07-29 09:06 UTC**
 - [WRC Generations - The FIA WRC Official Game](https://store.steampowered.com/app/1953520/) (AppID: 1953520)
 - [TRANSFORMERS: EARTHSPARK - Expedition](https://store.steampowered.com/app/1955800/) (AppID: 1955800)
 - [Arsilon](https://store.steampowered.com/app/1955980/) (AppID: 1955980)
+- [Project Playtime](https://store.steampowered.com/app/1961460/) (AppID: 1961460)
 - [My Life: Riding Stables 3](https://store.steampowered.com/app/1962150/) (AppID: 1962150)
 - [Horrid Henry's Krazy Karts](https://store.steampowered.com/app/1962650/) (AppID: 1962650)
 - [HopDodge](https://store.steampowered.com/app/1965680/) (AppID: 1965680)
