@@ -354,7 +354,6 @@
 564010	Stern Pinball Arcade
 564050	Bud Spencer & Terence Hill - Slaps And Beans
 566440	Necromunda: Underhive Wars
-567010	Game Royale 2 - The Secret of Jannis Island
 568240	Kung Fu Ping Pong
 570540	Amazon Odyssey
 571530	Superdimension Neptune VS Sega Hard Girls
@@ -1052,7 +1051,6 @@
 1722840	Everdell
 1722860	Munchkin Digital
 1729050	The Fox in the Forest
-1730310	The Lonely Helmet
 1731460	LEGO® Brawls
 1733250	Turbo Kid
 1733890	Warhammer 40,000: Battle Sister
@@ -1447,7 +1445,6 @@
 2933130	The Lord of the Rings: Return to Moria™
 2934180	Doraemon Dorayaki Shop Story
 2936310	The Walking Dead: No Man's Land
-2940920	Dreaming Blue
 2958130	Jurassic World Evolution 3
 2958970	The Thing: Remastered
 2964440	Yapori Minigames
@@ -1489,7 +1486,6 @@
 3181160	Late Emergency
 3185460	Fap&Click
 3189010	The Mansion of The Macabre
-3195450	Crony Corp
 3210120	The Elf on the Shelf®: Christmas Heroes
 3212580	Bratz® Rhythm & Style
 3213300	DUST II | The Infinite Zero Point
@@ -1524,7 +1520,6 @@
 3385250	ラビィとパネルでしりとり
 3392700	Geopogo Cities
 3393070	KAIJU NO. 8 THE GAME
-3399830	The Last of them
 3401920	Upin & Ipin Universe
 3419690	Chicken Run: Eggstraction
 3428880	BRIO World - Railway
@@ -1604,16 +1599,12 @@
 4056590	Arthur's Math Games
 4056600	Arthur's Preschool
 4056610	Arthur's Reading Games
-4107120	Pax Autocratica: Prologue
-4107260	末日战姬：命运交锋
 4128400	eBaseball™: PRO SPIRIT
 4162160	新盗墓笔记ol
 4162630	MINOS: Home A-Labyrinth
 4193730	The NewZealand Story: Untold Adventure
-4214600	Forgotten Records
 4282500	hololive Dreams
 4316960	Spirit-Sealing Tome
 4375120	Jigokuraku: BATTLE IN HELL'S PARADISE
 4459850	NAMCO LEGENDARY Mountains
-4482960	驱入虚空
 4682460	G-MODEアーカイブス+ パックマン
