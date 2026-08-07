@@ -181,6 +181,7 @@
 335070	VRC PRO
 336220	ORBITOR
 338260	Usagi Yojimbo: Way of the Ronin
+340220	Shadows of War
 340810	Deepworld
 342200	MechWarrior Online
 342540	Terminal Hacker - Into the Deep
@@ -226,7 +227,6 @@
 388960	Torn Tales
 389470	Call of Cthulhu: Shadow of the Comet
 390520	PewDiePie: Legend of the Brofist
-397310	Looterkings
 399810	Call of Cthulhu
 400800	MXGP2 - The Official Motocross Videogame
 401890	ARSLAN: THE WARRIORS OF LEGEND
@@ -903,6 +903,7 @@
 1374700	BIG-Bobby-Car – The Big Race
 1374850	Eldrador Creatures
 1374990	PAW Patrol Mighty Pups  Save Adventure Bay
+1376370	Hentai Jigsaw Emma
 1377890	Professor Rubik’s Brain Fitness
 1383960	Nickelodeon Kart Racers 2: Grand Prix
 1386870	Wraith: The Oblivion - Afterlife
@@ -994,6 +995,7 @@
 1586700	Marsupilami: Hoobadventure
 1589290	Kitsu's Destiny
 1590320	Bro Falls: Ultimate Showdown
+1591680	Open Mod
 1594400	GAI Stops Auto: Right Version
 1595050	PBA Pro Bowling 2023
 1596940	Ryan's Rescue Squad
@@ -1560,6 +1562,7 @@
 3710360	GÖREV
 3710600	Warhammer 40,000: Dark Heresy
 3717070	WWE 2K26
+3723610	Together in Forgotten Lands: Chapter One
 3727390	The Expanse: Osiris Reborn
 3735230	Samurai Academy: Paws of Fury
 3743790	Thomas & Friends™: Wonders of Sodor
@@ -1579,6 +1582,7 @@
 3843530	Forgotten Realms: Demon Stone
 3843540	Dungeons & Dragons: Dragonshard
 3873970	NASCAR 25
+3879300	GAIONIN WAR don't combine
 3882430	Laid-Back Camp: Camping Cook-off!
 3903190	The Bygone Days of Her and the Flowers
 3915180	史小坑的黑暗料理

@@ -2,17 +2,21 @@
 
 Automatically tracks apps listed on [steam-tracker.com/apps/at-risk](https://steam-tracker.com/apps/at-risk).
 
-Updated every 2 days via GitHub Actions. Last updated: **2026-08-05 08:51 UTC**
+Updated every 2 days via GitHub Actions. Last updated: **2026-08-07 07:39 UTC**
 
 **Filters applied:** Recommended · Released (default page view)
 
-**Total tracked:** 1610 apps
+**Total tracked:** 1614 apps
 
 ---
 
 ## Newly Added Since Last Check
 
-_(No new entries this run)_
+- [Shadows of War](https://store.steampowered.com/app/340220/) (AppID: 340220)
+- [Hentai Jigsaw Emma](https://store.steampowered.com/app/1376370/) (AppID: 1376370)
+- [Open Mod](https://store.steampowered.com/app/1591680/) (AppID: 1591680)
+- [Together in Forgotten Lands: Chapter One](https://store.steampowered.com/app/3723610/) (AppID: 3723610)
+- [GAIONIN WAR don't combine](https://store.steampowered.com/app/3879300/) (AppID: 3879300)
 
 ---
 
@@ -201,6 +205,7 @@ _(No new entries this run)_
 - [VRC PRO](https://store.steampowered.com/app/335070/) (AppID: 335070)
 - [ORBITOR](https://store.steampowered.com/app/336220/) (AppID: 336220)
 - [Usagi Yojimbo: Way of the Ronin](https://store.steampowered.com/app/338260/) (AppID: 338260)
+- [Shadows of War](https://store.steampowered.com/app/340220/) (AppID: 340220)
 - [Deepworld](https://store.steampowered.com/app/340810/) (AppID: 340810)
 - [MechWarrior Online](https://store.steampowered.com/app/342200/) (AppID: 342200)
 - [Terminal Hacker - Into the Deep](https://store.steampowered.com/app/342540/) (AppID: 342540)
@@ -246,7 +251,6 @@ _(No new entries this run)_
 - [Torn Tales](https://store.steampowered.com/app/388960/) (AppID: 388960)
 - [Call of Cthulhu: Shadow of the Comet](https://store.steampowered.com/app/389470/) (AppID: 389470)
 - [PewDiePie: Legend of the Brofist](https://store.steampowered.com/app/390520/) (AppID: 390520)
-- [Looterkings](https://store.steampowered.com/app/397310/) (AppID: 397310)
 - [Call of Cthulhu](https://store.steampowered.com/app/399810/) (AppID: 399810)
 - [MXGP2 - The Official Motocross Videogame](https://store.steampowered.com/app/400800/) (AppID: 400800)
 - [ARSLAN: THE WARRIORS OF LEGEND](https://store.steampowered.com/app/401890/) (AppID: 401890)
@@ -923,6 +927,7 @@ _(No new entries this run)_
 - [BIG-Bobby-Car – The Big Race](https://store.steampowered.com/app/1374700/) (AppID: 1374700)
 - [Eldrador Creatures](https://store.steampowered.com/app/1374850/) (AppID: 1374850)
 - [PAW Patrol Mighty Pups  Save Adventure Bay](https://store.steampowered.com/app/1374990/) (AppID: 1374990)
+- [Hentai Jigsaw Emma](https://store.steampowered.com/app/1376370/) (AppID: 1376370)
 - [Professor Rubik’s Brain Fitness](https://store.steampowered.com/app/1377890/) (AppID: 1377890)
 - [Nickelodeon Kart Racers 2: Grand Prix](https://store.steampowered.com/app/1383960/) (AppID: 1383960)
 - [Wraith: The Oblivion - Afterlife](https://store.steampowered.com/app/1386870/) (AppID: 1386870)
@@ -1014,6 +1019,7 @@ _(No new entries this run)_
 - [Marsupilami: Hoobadventure](https://store.steampowered.com/app/1586700/) (AppID: 1586700)
 - [Kitsu's Destiny](https://store.steampowered.com/app/1589290/) (AppID: 1589290)
 - [Bro Falls: Ultimate Showdown](https://store.steampowered.com/app/1590320/) (AppID: 1590320)
+- [Open Mod](https://store.steampowered.com/app/1591680/) (AppID: 1591680)
 - [GAI Stops Auto: Right Version](https://store.steampowered.com/app/1594400/) (AppID: 1594400)
 - [PBA Pro Bowling 2023](https://store.steampowered.com/app/1595050/) (AppID: 1595050)
 - [Ryan's Rescue Squad](https://store.steampowered.com/app/1596940/) (AppID: 1596940)
@@ -1580,6 +1586,7 @@ _(No new entries this run)_
 - [GÖREV](https://store.steampowered.com/app/3710360/) (AppID: 3710360)
 - [Warhammer 40,000: Dark Heresy](https://store.steampowered.com/app/3710600/) (AppID: 3710600)
 - [WWE 2K26](https://store.steampowered.com/app/3717070/) (AppID: 3717070)
+- [Together in Forgotten Lands: Chapter One](https://store.steampowered.com/app/3723610/) (AppID: 3723610)
 - [The Expanse: Osiris Reborn](https://store.steampowered.com/app/3727390/) (AppID: 3727390)
 - [Samurai Academy: Paws of Fury](https://store.steampowered.com/app/3735230/) (AppID: 3735230)
 - [Thomas & Friends™: Wonders of Sodor](https://store.steampowered.com/app/3743790/) (AppID: 3743790)
@@ -1599,6 +1606,7 @@ _(No new entries this run)_
 - [Forgotten Realms: Demon Stone](https://store.steampowered.com/app/3843530/) (AppID: 3843530)
 - [Dungeons & Dragons: Dragonshard](https://store.steampowered.com/app/3843540/) (AppID: 3843540)
 - [NASCAR 25](https://store.steampowered.com/app/3873970/) (AppID: 3873970)
+- [GAIONIN WAR don't combine](https://store.steampowered.com/app/3879300/) (AppID: 3879300)
 - [Laid-Back Camp: Camping Cook-off!](https://store.steampowered.com/app/3882430/) (AppID: 3882430)
 - [The Bygone Days of Her and the Flowers](https://store.steampowered.com/app/3903190/) (AppID: 3903190)
 - [史小坑的黑暗料理](https://store.steampowered.com/app/3915180/) (AppID: 3915180)
