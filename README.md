@@ -2,21 +2,18 @@
 
 Automatically tracks apps listed on [steam-tracker.com/apps/at-risk](https://steam-tracker.com/apps/at-risk).
 
-Updated every 2 days via GitHub Actions. Last updated: **2026-08-07 07:39 UTC**
+Updated every 2 days via GitHub Actions. Last updated: **2026-08-09 07:14 UTC**
 
 **Filters applied:** Recommended · Released (default page view)
 
-**Total tracked:** 1614 apps
+**Total tracked:** 1616 apps
 
 ---
 
 ## Newly Added Since Last Check
 
-- [Shadows of War](https://store.steampowered.com/app/340220/) (AppID: 340220)
-- [Hentai Jigsaw Emma](https://store.steampowered.com/app/1376370/) (AppID: 1376370)
-- [Open Mod](https://store.steampowered.com/app/1591680/) (AppID: 1591680)
-- [Together in Forgotten Lands: Chapter One](https://store.steampowered.com/app/3723610/) (AppID: 3723610)
-- [GAIONIN WAR don't combine](https://store.steampowered.com/app/3879300/) (AppID: 3879300)
+- [Railbreak](https://store.steampowered.com/app/2587170/) (AppID: 2587170)
+- [InTheDisorderlyCourtyard](https://store.steampowered.com/app/2971660/) (AppID: 2971660)
 
 ---
 
@@ -1394,6 +1391,7 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-08-07 07:39 UTC**
 - [Monster Energy Supercross 25 - The Official Video Game](https://store.steampowered.com/app/2581370/) (AppID: 2581370)
 - [MotoGP™24](https://store.steampowered.com/app/2581700/) (AppID: 2581700)
 - [NINJA KAMUI: SHINOBI ORIGINS](https://store.steampowered.com/app/2586560/) (AppID: 2586560)
+- [Railbreak](https://store.steampowered.com/app/2587170/) (AppID: 2587170)
 - [Pirates of the Caribbean: Tides of War](https://store.steampowered.com/app/2591710/) (AppID: 2591710)
 - [Micro Machines: Mini Challenge Mayhem](https://store.steampowered.com/app/2596330/) (AppID: 2596330)
 - [The Smurfs – Dreams](https://store.steampowered.com/app/2602020/) (AppID: 2602020)
@@ -1475,6 +1473,7 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-08-07 07:39 UTC**
 - [The Thing: Remastered](https://store.steampowered.com/app/2958970/) (AppID: 2958970)
 - [Yapori Minigames](https://store.steampowered.com/app/2964440/) (AppID: 2964440)
 - [Train Sim World® 5](https://store.steampowered.com/app/2967990/) (AppID: 2967990)
+- [InTheDisorderlyCourtyard](https://store.steampowered.com/app/2971660/) (AppID: 2971660)
 - [Cartographers](https://store.steampowered.com/app/2977360/) (AppID: 2977360)
 - [Power Grid](https://store.steampowered.com/app/2983910/) (AppID: 2983910)
 - [MasterChef: Learn to Cook!](https://store.steampowered.com/app/2993980/) (AppID: 2993980)
