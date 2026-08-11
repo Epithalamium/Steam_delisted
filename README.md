@@ -2,18 +2,18 @@
 
 Automatically tracks apps listed on [steam-tracker.com/apps/at-risk](https://steam-tracker.com/apps/at-risk).
 
-Updated every 2 days via GitHub Actions. Last updated: **2026-08-09 07:14 UTC**
+Updated every 2 days via GitHub Actions. Last updated: **2026-08-11 07:34 UTC**
 
 **Filters applied:** Recommended · Released (default page view)
 
-**Total tracked:** 1616 apps
+**Total tracked:** 1614 apps
 
 ---
 
 ## Newly Added Since Last Check
 
-- [Railbreak](https://store.steampowered.com/app/2587170/) (AppID: 2587170)
-- [InTheDisorderlyCourtyard](https://store.steampowered.com/app/2971660/) (AppID: 2971660)
+- [HENTAI Sliding Puzzle](https://store.steampowered.com/app/1128670/) (AppID: 1128670)
+- [Survivor](https://store.steampowered.com/app/1673320/) (AppID: 1673320)
 
 ---
 
@@ -733,7 +733,6 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-08-09 07:14 UTC**
 - [Doctor Who: The Edge Of Time](https://store.steampowered.com/app/1075400/) (AppID: 1075400)
 - [fox soldier](https://store.steampowered.com/app/1076130/) (AppID: 1076130)
 - [TT Isle of Man: Ride on the Edge 2](https://store.steampowered.com/app/1082180/) (AppID: 1082180)
-- [Gold Hunter](https://store.steampowered.com/app/1082450/) (AppID: 1082450)
 - [The Walking Dead Onslaught](https://store.steampowered.com/app/1082680/) (AppID: 1082680)
 - [The Last Town](https://store.steampowered.com/app/1083000/) (AppID: 1083000)
 - [Garfield Kart - Furious Racing](https://store.steampowered.com/app/1085510/) (AppID: 1085510)
@@ -773,6 +772,7 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-08-09 07:14 UTC**
 - [I Love You, Colonel Sanders! A Finger Lickin’ Good Dating Simulator](https://store.steampowered.com/app/1121910/) (AppID: 1121910)
 - [IS<Infinite Stratos> Versus Colors](https://store.steampowered.com/app/1124710/) (AppID: 1124710)
 - [PBA Pro Bowling](https://store.steampowered.com/app/1126990/) (AppID: 1126990)
+- [HENTAI Sliding Puzzle](https://store.steampowered.com/app/1128670/) (AppID: 1128670)
 - [RISK: Global Domination](https://store.steampowered.com/app/1128810/) (AppID: 1128810)
 - [Westworld Awakening](https://store.steampowered.com/app/1133320/) (AppID: 1133320)
 - [Hunting Simulator 2](https://store.steampowered.com/app/1135910/) (AppID: 1135910)
@@ -924,7 +924,6 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-08-09 07:14 UTC**
 - [BIG-Bobby-Car – The Big Race](https://store.steampowered.com/app/1374700/) (AppID: 1374700)
 - [Eldrador Creatures](https://store.steampowered.com/app/1374850/) (AppID: 1374850)
 - [PAW Patrol Mighty Pups  Save Adventure Bay](https://store.steampowered.com/app/1374990/) (AppID: 1374990)
-- [Hentai Jigsaw Emma](https://store.steampowered.com/app/1376370/) (AppID: 1376370)
 - [Professor Rubik’s Brain Fitness](https://store.steampowered.com/app/1377890/) (AppID: 1377890)
 - [Nickelodeon Kart Racers 2: Grand Prix](https://store.steampowered.com/app/1383960/) (AppID: 1383960)
 - [Wraith: The Oblivion - Afterlife](https://store.steampowered.com/app/1386870/) (AppID: 1386870)
@@ -1049,6 +1048,7 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-08-09 07:14 UTC**
 - [eFootball™](https://store.steampowered.com/app/1665460/) (AppID: 1665460)
 - [Pinchcliffe Grand Prix](https://store.steampowered.com/app/1668080/) (AppID: 1668080)
 - [Jerma & Otto: The Curse of the Late Streamer](https://store.steampowered.com/app/1669490/) (AppID: 1669490)
+- [Survivor](https://store.steampowered.com/app/1673320/) (AppID: 1673320)
 - [Gefragt Gejagt - Das Spiel](https://store.steampowered.com/app/1677870/) (AppID: 1677870)
 - [Blade Runner: Enhanced Edition](https://store.steampowered.com/app/1678420/) (AppID: 1678420)
 - [RoboCop: Rogue City](https://store.steampowered.com/app/1681430/) (AppID: 1681430)
@@ -1473,7 +1473,6 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-08-09 07:14 UTC**
 - [The Thing: Remastered](https://store.steampowered.com/app/2958970/) (AppID: 2958970)
 - [Yapori Minigames](https://store.steampowered.com/app/2964440/) (AppID: 2964440)
 - [Train Sim World® 5](https://store.steampowered.com/app/2967990/) (AppID: 2967990)
-- [InTheDisorderlyCourtyard](https://store.steampowered.com/app/2971660/) (AppID: 2971660)
 - [Cartographers](https://store.steampowered.com/app/2977360/) (AppID: 2977360)
 - [Power Grid](https://store.steampowered.com/app/2983910/) (AppID: 2983910)
 - [MasterChef: Learn to Cook!](https://store.steampowered.com/app/2993980/) (AppID: 2993980)
@@ -1585,7 +1584,6 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-08-09 07:14 UTC**
 - [GÖREV](https://store.steampowered.com/app/3710360/) (AppID: 3710360)
 - [Warhammer 40,000: Dark Heresy](https://store.steampowered.com/app/3710600/) (AppID: 3710600)
 - [WWE 2K26](https://store.steampowered.com/app/3717070/) (AppID: 3717070)
-- [Together in Forgotten Lands: Chapter One](https://store.steampowered.com/app/3723610/) (AppID: 3723610)
 - [The Expanse: Osiris Reborn](https://store.steampowered.com/app/3727390/) (AppID: 3727390)
 - [Samurai Academy: Paws of Fury](https://store.steampowered.com/app/3735230/) (AppID: 3735230)
 - [Thomas & Friends™: Wonders of Sodor](https://store.steampowered.com/app/3743790/) (AppID: 3743790)

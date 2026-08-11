@@ -712,7 +712,6 @@
 1075400	Doctor Who: The Edge Of Time
 1076130	fox soldier
 1082180	TT Isle of Man: Ride on the Edge 2
-1082450	Gold Hunter
 1082680	The Walking Dead Onslaught
 1083000	The Last Town
 1085510	Garfield Kart - Furious Racing
@@ -752,6 +751,7 @@
 1121910	I Love You, Colonel Sanders! A Finger Lickin’ Good Dating Simulator
 1124710	IS<Infinite Stratos> Versus Colors
 1126990	PBA Pro Bowling
+1128670	HENTAI Sliding Puzzle
 1128810	RISK: Global Domination
 1133320	Westworld Awakening
 1135910	Hunting Simulator 2
@@ -903,7 +903,6 @@
 1374700	BIG-Bobby-Car – The Big Race
 1374850	Eldrador Creatures
 1374990	PAW Patrol Mighty Pups  Save Adventure Bay
-1376370	Hentai Jigsaw Emma
 1377890	Professor Rubik’s Brain Fitness
 1383960	Nickelodeon Kart Racers 2: Grand Prix
 1386870	Wraith: The Oblivion - Afterlife
@@ -1028,6 +1027,7 @@
 1665460	eFootball™
 1668080	Pinchcliffe Grand Prix
 1669490	Jerma & Otto: The Curse of the Late Streamer
+1673320	Survivor
 1677870	Gefragt Gejagt - Das Spiel
 1678420	Blade Runner: Enhanced Edition
 1681430	RoboCop: Rogue City
@@ -1452,7 +1452,6 @@
 2958970	The Thing: Remastered
 2964440	Yapori Minigames
 2967990	Train Sim World® 5
-2971660	InTheDisorderlyCourtyard
 2977360	Cartographers
 2983910	Power Grid
 2993980	MasterChef: Learn to Cook!
@@ -1564,7 +1563,6 @@
 3710360	GÖREV
 3710600	Warhammer 40,000: Dark Heresy
 3717070	WWE 2K26
-3723610	Together in Forgotten Lands: Chapter One
 3727390	The Expanse: Osiris Reborn
 3735230	Samurai Academy: Paws of Fury
 3743790	Thomas & Friends™: Wonders of Sodor
