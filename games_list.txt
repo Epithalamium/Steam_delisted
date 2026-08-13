@@ -62,7 +62,7 @@
 216260	Don Bradman Cricket 14
 216890	Blood Bowl: Chaos Edition
 217750	Age of Conan: Unchained
-220260	Farming Simulator 2013
+220260	Farming Simulator 2013: Titanium Edition
 220420	Nancy Drew: The Deadly Device
 224900	Iron Sky Invasion
 224940	Legacy of Kain: Soul Reaver 2 (2001)
@@ -751,7 +751,6 @@
 1121910	I Love You, Colonel Sanders! A Finger Lickin’ Good Dating Simulator
 1124710	IS<Infinite Stratos> Versus Colors
 1126990	PBA Pro Bowling
-1128670	HENTAI Sliding Puzzle
 1128810	RISK: Global Domination
 1133320	Westworld Awakening
 1135910	Hunting Simulator 2
@@ -1102,6 +1101,7 @@
 1849250	EA SPORTS™ WRC
 1850050	Alien: Rogue Incursion VR
 1852650	Operation Wolf Returns: First Mission
+1855690	Bessarabian Nightmares
 1858630	SWORD ART ONLINE Fractured Daydream
 1860150	Operation8 Project
 1867260	Way Down
@@ -1437,6 +1437,7 @@
 2878980	NBA 2K25
 2889830	Fortress Challenge : Fort Boyard
 2894820	Velvet Bite: Softly, with Teeth
+2902560	PostLife
 2918150	ONE PIECE Bounty Rush
 2922790	Arena of Trophies
 2926680	Tiny
@@ -1584,6 +1585,7 @@
 3873970	NASCAR 25
 3879300	GAIONIN WAR don't combine
 3882430	Laid-Back Camp: Camping Cook-off!
+3890550	Jam's Adjustable Mirrors
 3903190	The Bygone Days of Her and the Flowers
 3915180	史小坑的黑暗料理
 3927680	Steel Defence

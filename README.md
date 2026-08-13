@@ -2,18 +2,19 @@
 
 Automatically tracks apps listed on [steam-tracker.com/apps/at-risk](https://steam-tracker.com/apps/at-risk).
 
-Updated every 2 days via GitHub Actions. Last updated: **2026-08-11 07:34 UTC**
+Updated every 2 days via GitHub Actions. Last updated: **2026-08-13 07:50 UTC**
 
 **Filters applied:** Recommended · Released (default page view)
 
-**Total tracked:** 1614 apps
+**Total tracked:** 1616 apps
 
 ---
 
 ## Newly Added Since Last Check
 
-- [HENTAI Sliding Puzzle](https://store.steampowered.com/app/1128670/) (AppID: 1128670)
-- [Survivor](https://store.steampowered.com/app/1673320/) (AppID: 1673320)
+- [Bessarabian Nightmares](https://store.steampowered.com/app/1855690/) (AppID: 1855690)
+- [PostLife](https://store.steampowered.com/app/2902560/) (AppID: 2902560)
+- [Jam's Adjustable Mirrors](https://store.steampowered.com/app/3890550/) (AppID: 3890550)
 
 ---
 
@@ -83,7 +84,7 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-08-11 07:34 UTC**
 - [Don Bradman Cricket 14](https://store.steampowered.com/app/216260/) (AppID: 216260)
 - [Blood Bowl: Chaos Edition](https://store.steampowered.com/app/216890/) (AppID: 216890)
 - [Age of Conan: Unchained](https://store.steampowered.com/app/217750/) (AppID: 217750)
-- [Farming Simulator 2013](https://store.steampowered.com/app/220260/) (AppID: 220260)
+- [Farming Simulator 2013: Titanium Edition](https://store.steampowered.com/app/220260/) (AppID: 220260)
 - [Nancy Drew: The Deadly Device](https://store.steampowered.com/app/220420/) (AppID: 220420)
 - [Iron Sky Invasion](https://store.steampowered.com/app/224900/) (AppID: 224900)
 - [Legacy of Kain: Soul Reaver 2 (2001)](https://store.steampowered.com/app/224940/) (AppID: 224940)
@@ -772,7 +773,6 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-08-11 07:34 UTC**
 - [I Love You, Colonel Sanders! A Finger Lickin’ Good Dating Simulator](https://store.steampowered.com/app/1121910/) (AppID: 1121910)
 - [IS<Infinite Stratos> Versus Colors](https://store.steampowered.com/app/1124710/) (AppID: 1124710)
 - [PBA Pro Bowling](https://store.steampowered.com/app/1126990/) (AppID: 1126990)
-- [HENTAI Sliding Puzzle](https://store.steampowered.com/app/1128670/) (AppID: 1128670)
 - [RISK: Global Domination](https://store.steampowered.com/app/1128810/) (AppID: 1128810)
 - [Westworld Awakening](https://store.steampowered.com/app/1133320/) (AppID: 1133320)
 - [Hunting Simulator 2](https://store.steampowered.com/app/1135910/) (AppID: 1135910)
@@ -1123,6 +1123,7 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-08-11 07:34 UTC**
 - [EA SPORTS™ WRC](https://store.steampowered.com/app/1849250/) (AppID: 1849250)
 - [Alien: Rogue Incursion VR](https://store.steampowered.com/app/1850050/) (AppID: 1850050)
 - [Operation Wolf Returns: First Mission](https://store.steampowered.com/app/1852650/) (AppID: 1852650)
+- [Bessarabian Nightmares](https://store.steampowered.com/app/1855690/) (AppID: 1855690)
 - [SWORD ART ONLINE Fractured Daydream](https://store.steampowered.com/app/1858630/) (AppID: 1858630)
 - [Operation8 Project](https://store.steampowered.com/app/1860150/) (AppID: 1860150)
 - [Way Down](https://store.steampowered.com/app/1867260/) (AppID: 1867260)
@@ -1458,6 +1459,7 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-08-11 07:34 UTC**
 - [NBA 2K25](https://store.steampowered.com/app/2878980/) (AppID: 2878980)
 - [Fortress Challenge : Fort Boyard](https://store.steampowered.com/app/2889830/) (AppID: 2889830)
 - [Velvet Bite: Softly, with Teeth](https://store.steampowered.com/app/2894820/) (AppID: 2894820)
+- [PostLife](https://store.steampowered.com/app/2902560/) (AppID: 2902560)
 - [ONE PIECE Bounty Rush](https://store.steampowered.com/app/2918150/) (AppID: 2918150)
 - [Arena of Trophies](https://store.steampowered.com/app/2922790/) (AppID: 2922790)
 - [Tiny](https://store.steampowered.com/app/2926680/) (AppID: 2926680)
@@ -1605,6 +1607,7 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-08-11 07:34 UTC**
 - [NASCAR 25](https://store.steampowered.com/app/3873970/) (AppID: 3873970)
 - [GAIONIN WAR don't combine](https://store.steampowered.com/app/3879300/) (AppID: 3879300)
 - [Laid-Back Camp: Camping Cook-off!](https://store.steampowered.com/app/3882430/) (AppID: 3882430)
+- [Jam's Adjustable Mirrors](https://store.steampowered.com/app/3890550/) (AppID: 3890550)
 - [The Bygone Days of Her and the Flowers](https://store.steampowered.com/app/3903190/) (AppID: 3903190)
 - [史小坑的黑暗料理](https://store.steampowered.com/app/3915180/) (AppID: 3915180)
 - [Steel Defence](https://store.steampowered.com/app/3927680/) (AppID: 3927680)
