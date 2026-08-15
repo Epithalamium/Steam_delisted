@@ -2,19 +2,17 @@
 
 Automatically tracks apps listed on [steam-tracker.com/apps/at-risk](https://steam-tracker.com/apps/at-risk).
 
-Updated every 2 days via GitHub Actions. Last updated: **2026-08-13 07:50 UTC**
+Updated every 2 days via GitHub Actions. Last updated: **2026-08-15 06:56 UTC**
 
 **Filters applied:** Recommended · Released (default page view)
 
-**Total tracked:** 1616 apps
+**Total tracked:** 1612 apps
 
 ---
 
 ## Newly Added Since Last Check
 
-- [Bessarabian Nightmares](https://store.steampowered.com/app/1855690/) (AppID: 1855690)
-- [PostLife](https://store.steampowered.com/app/2902560/) (AppID: 2902560)
-- [Jam's Adjustable Mirrors](https://store.steampowered.com/app/3890550/) (AppID: 3890550)
+- [Freezing WHAT IF...](https://store.steampowered.com/app/3126650/) (AppID: 3126650)
 
 ---
 
@@ -1123,7 +1121,6 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-08-13 07:50 UTC**
 - [EA SPORTS™ WRC](https://store.steampowered.com/app/1849250/) (AppID: 1849250)
 - [Alien: Rogue Incursion VR](https://store.steampowered.com/app/1850050/) (AppID: 1850050)
 - [Operation Wolf Returns: First Mission](https://store.steampowered.com/app/1852650/) (AppID: 1852650)
-- [Bessarabian Nightmares](https://store.steampowered.com/app/1855690/) (AppID: 1855690)
 - [SWORD ART ONLINE Fractured Daydream](https://store.steampowered.com/app/1858630/) (AppID: 1858630)
 - [Operation8 Project](https://store.steampowered.com/app/1860150/) (AppID: 1860150)
 - [Way Down](https://store.steampowered.com/app/1867260/) (AppID: 1867260)
@@ -1459,7 +1456,6 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-08-13 07:50 UTC**
 - [NBA 2K25](https://store.steampowered.com/app/2878980/) (AppID: 2878980)
 - [Fortress Challenge : Fort Boyard](https://store.steampowered.com/app/2889830/) (AppID: 2889830)
 - [Velvet Bite: Softly, with Teeth](https://store.steampowered.com/app/2894820/) (AppID: 2894820)
-- [PostLife](https://store.steampowered.com/app/2902560/) (AppID: 2902560)
 - [ONE PIECE Bounty Rush](https://store.steampowered.com/app/2918150/) (AppID: 2918150)
 - [Arena of Trophies](https://store.steampowered.com/app/2922790/) (AppID: 2922790)
 - [Tiny](https://store.steampowered.com/app/2926680/) (AppID: 2926680)
@@ -1505,6 +1501,7 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-08-13 07:50 UTC**
 - [Warhammer 40,000: Boltgun 2](https://store.steampowered.com/app/3115160/) (AppID: 3115160)
 - [Demeo x Dungeons & Dragons: Battlemarked](https://store.steampowered.com/app/3124340/) (AppID: 3124340)
 - [EDENS ZERO](https://store.steampowered.com/app/3125750/) (AppID: 3125750)
+- [Freezing WHAT IF...](https://store.steampowered.com/app/3126650/) (AppID: 3126650)
 - [Marvel Contest of Champions](https://store.steampowered.com/app/3127280/) (AppID: 3127280)
 - [Terrifier The ARTcade Game](https://store.steampowered.com/app/3130400/) (AppID: 3130400)
 - [Agatha Christie - Death on the Nile](https://store.steampowered.com/app/3150480/) (AppID: 3150480)
@@ -1564,7 +1561,6 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-08-13 07:50 UTC**
 - [Fear Effect 2: Retro Helix](https://store.steampowered.com/app/3509140/) (AppID: 3509140)
 - [RoboCop: Rogue City - Unfinished Business](https://store.steampowered.com/app/3527760/) (AppID: 3527760)
 - [Warhammer 40,000: Boltgun - Words of Vengeance](https://store.steampowered.com/app/3533730/) (AppID: 3533730)
-- [Mortal Cultivation Biography](https://store.steampowered.com/app/3543640/) (AppID: 3543640)
 - [Warhammer 40,000: Dawn of War - Definitive Edition](https://store.steampowered.com/app/3556750/) (AppID: 3556750)
 - [The Sequencer](https://store.steampowered.com/app/3569250/) (AppID: 3569250)
 - [西游降魔](https://store.steampowered.com/app/3572830/) (AppID: 3572830)
@@ -1594,7 +1590,6 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-08-13 07:50 UTC**
 - [Suite: Pictures at an Exhibition](https://store.steampowered.com/app/3758690/) (AppID: 3758690)
 - [Wu-Tang: Rise of the Deceiver](https://store.steampowered.com/app/3763470/) (AppID: 3763470)
 - [007 First Light](https://store.steampowered.com/app/3768760/) (AppID: 3768760)
-- [A Tale of Fortunate Lust](https://store.steampowered.com/app/3785420/) (AppID: 3785420)
 - [MARVEL Tōkon: Fighting Souls](https://store.steampowered.com/app/3787240/) (AppID: 3787240)
 - [Panzer Kliker](https://store.steampowered.com/app/3790770/) (AppID: 3790770)
 - [Rugrats: Retro Rewind Collection](https://store.steampowered.com/app/3817710/) (AppID: 3817710)
@@ -1607,7 +1602,6 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-08-13 07:50 UTC**
 - [NASCAR 25](https://store.steampowered.com/app/3873970/) (AppID: 3873970)
 - [GAIONIN WAR don't combine](https://store.steampowered.com/app/3879300/) (AppID: 3879300)
 - [Laid-Back Camp: Camping Cook-off!](https://store.steampowered.com/app/3882430/) (AppID: 3882430)
-- [Jam's Adjustable Mirrors](https://store.steampowered.com/app/3890550/) (AppID: 3890550)
 - [The Bygone Days of Her and the Flowers](https://store.steampowered.com/app/3903190/) (AppID: 3903190)
 - [史小坑的黑暗料理](https://store.steampowered.com/app/3915180/) (AppID: 3915180)
 - [Steel Defence](https://store.steampowered.com/app/3927680/) (AppID: 3927680)

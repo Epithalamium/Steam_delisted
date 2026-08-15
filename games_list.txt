@@ -1101,7 +1101,6 @@
 1849250	EA SPORTS™ WRC
 1850050	Alien: Rogue Incursion VR
 1852650	Operation Wolf Returns: First Mission
-1855690	Bessarabian Nightmares
 1858630	SWORD ART ONLINE Fractured Daydream
 1860150	Operation8 Project
 1867260	Way Down
@@ -1437,7 +1436,6 @@
 2878980	NBA 2K25
 2889830	Fortress Challenge : Fort Boyard
 2894820	Velvet Bite: Softly, with Teeth
-2902560	PostLife
 2918150	ONE PIECE Bounty Rush
 2922790	Arena of Trophies
 2926680	Tiny
@@ -1483,6 +1481,7 @@
 3115160	Warhammer 40,000: Boltgun 2
 3124340	Demeo x Dungeons & Dragons: Battlemarked
 3125750	EDENS ZERO
+3126650	Freezing WHAT IF...
 3127280	Marvel Contest of Champions
 3130400	Terrifier The ARTcade Game
 3150480	Agatha Christie - Death on the Nile
@@ -1542,7 +1541,6 @@
 3509140	Fear Effect 2: Retro Helix
 3527760	RoboCop: Rogue City - Unfinished Business
 3533730	Warhammer 40,000: Boltgun - Words of Vengeance
-3543640	Mortal Cultivation Biography
 3556750	Warhammer 40,000: Dawn of War - Definitive Edition
 3569250	The Sequencer
 3572830	西游降魔
@@ -1572,7 +1570,6 @@
 3758690	Suite: Pictures at an Exhibition
 3763470	Wu-Tang: Rise of the Deceiver
 3768760	007 First Light
-3785420	A Tale of Fortunate Lust
 3787240	MARVEL Tōkon: Fighting Souls
 3790770	Panzer Kliker
 3817710	Rugrats: Retro Rewind Collection
@@ -1585,7 +1582,6 @@
 3873970	NASCAR 25
 3879300	GAIONIN WAR don't combine
 3882430	Laid-Back Camp: Camping Cook-off!
-3890550	Jam's Adjustable Mirrors
 3903190	The Bygone Days of Her and the Flowers
 3915180	史小坑的黑暗料理
 3927680	Steel Defence
