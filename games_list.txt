@@ -418,7 +418,6 @@
 648750	Tokaido
 649640	Ashes Cricket
 649810	Windstorm: Start of a Great Friendship
-650350	Machine World 2
 650820	Psychic Isolation
 652160	DC Wonder: Unlimited
 654220	Flash Point: Fire Rescue
@@ -1494,6 +1493,7 @@
 3213300	DUST II | The Infinite Zero Point
 3219630	Halloween: The Game
 3222830	DreamWorks Gabby’s Dollhouse: Ready to Party
+3225930	Rotate or Die
 3229100	Teenage Mutant Ninja Turtles: Tactical Takedown
 3230400	EA SPORTS™ Madden NFL 26
 3231900	Go Babies
@@ -1541,6 +1541,7 @@
 3509140	Fear Effect 2: Retro Helix
 3527760	RoboCop: Rogue City - Unfinished Business
 3533730	Warhammer 40,000: Boltgun - Words of Vengeance
+3551340	Football Manager 26
 3556750	Warhammer 40,000: Dawn of War - Definitive Edition
 3569250	The Sequencer
 3572830	西游降魔
@@ -1610,3 +1611,4 @@
 4375120	Jigokuraku: BATTLE IN HELL'S PARADISE
 4459850	NAMCO LEGENDARY Mountains
 4682460	G-MODEアーカイブス+ パックマン
+4753420	Celestia

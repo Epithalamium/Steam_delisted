@@ -2,17 +2,19 @@
 
 Automatically tracks apps listed on [steam-tracker.com/apps/at-risk](https://steam-tracker.com/apps/at-risk).
 
-Updated every 2 days via GitHub Actions. Last updated: **2026-08-15 06:56 UTC**
+Updated every 2 days via GitHub Actions. Last updated: **2026-08-17 07:14 UTC**
 
 **Filters applied:** Recommended · Released (default page view)
 
-**Total tracked:** 1612 apps
+**Total tracked:** 1614 apps
 
 ---
 
 ## Newly Added Since Last Check
 
-- [Freezing WHAT IF...](https://store.steampowered.com/app/3126650/) (AppID: 3126650)
+- [Rotate or Die](https://store.steampowered.com/app/3225930/) (AppID: 3225930)
+- [Football Manager 26](https://store.steampowered.com/app/3551340/) (AppID: 3551340)
+- [Celestia](https://store.steampowered.com/app/4753420/) (AppID: 4753420)
 
 ---
 
@@ -438,7 +440,6 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-08-15 06:56 UTC**
 - [Tokaido](https://store.steampowered.com/app/648750/) (AppID: 648750)
 - [Ashes Cricket](https://store.steampowered.com/app/649640/) (AppID: 649640)
 - [Windstorm: Start of a Great Friendship](https://store.steampowered.com/app/649810/) (AppID: 649810)
-- [Machine World 2](https://store.steampowered.com/app/650350/) (AppID: 650350)
 - [Psychic Isolation](https://store.steampowered.com/app/650820/) (AppID: 650820)
 - [DC Wonder: Unlimited](https://store.steampowered.com/app/652160/) (AppID: 652160)
 - [Flash Point: Fire Rescue](https://store.steampowered.com/app/654220/) (AppID: 654220)
@@ -1514,6 +1515,7 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-08-15 06:56 UTC**
 - [DUST II | The Infinite Zero Point](https://store.steampowered.com/app/3213300/) (AppID: 3213300)
 - [Halloween: The Game](https://store.steampowered.com/app/3219630/) (AppID: 3219630)
 - [DreamWorks Gabby’s Dollhouse: Ready to Party](https://store.steampowered.com/app/3222830/) (AppID: 3222830)
+- [Rotate or Die](https://store.steampowered.com/app/3225930/) (AppID: 3225930)
 - [Teenage Mutant Ninja Turtles: Tactical Takedown](https://store.steampowered.com/app/3229100/) (AppID: 3229100)
 - [EA SPORTS™ Madden NFL 26](https://store.steampowered.com/app/3230400/) (AppID: 3230400)
 - [Go Babies](https://store.steampowered.com/app/3231900/) (AppID: 3231900)
@@ -1561,6 +1563,7 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-08-15 06:56 UTC**
 - [Fear Effect 2: Retro Helix](https://store.steampowered.com/app/3509140/) (AppID: 3509140)
 - [RoboCop: Rogue City - Unfinished Business](https://store.steampowered.com/app/3527760/) (AppID: 3527760)
 - [Warhammer 40,000: Boltgun - Words of Vengeance](https://store.steampowered.com/app/3533730/) (AppID: 3533730)
+- [Football Manager 26](https://store.steampowered.com/app/3551340/) (AppID: 3551340)
 - [Warhammer 40,000: Dawn of War - Definitive Edition](https://store.steampowered.com/app/3556750/) (AppID: 3556750)
 - [The Sequencer](https://store.steampowered.com/app/3569250/) (AppID: 3569250)
 - [西游降魔](https://store.steampowered.com/app/3572830/) (AppID: 3572830)
@@ -1630,3 +1633,4 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-08-15 06:56 UTC**
 - [Jigokuraku: BATTLE IN HELL'S PARADISE](https://store.steampowered.com/app/4375120/) (AppID: 4375120)
 - [NAMCO LEGENDARY Mountains](https://store.steampowered.com/app/4459850/) (AppID: 4459850)
 - [G-MODEアーカイブス+ パックマン](https://store.steampowered.com/app/4682460/) (AppID: 4682460)
+- [Celestia](https://store.steampowered.com/app/4753420/) (AppID: 4753420)
