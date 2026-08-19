@@ -675,6 +675,7 @@
 1022310	Warhammer Underworlds - Shadespire Edition
 1026370	My Fair Princess
 1028630	Cricket 19
+1029550	Torque Drift
 1031140	Warhammer Horus Heresy: Legions
 1032270	Kill The Censored
 1032520	JermaSlots
@@ -894,6 +895,7 @@
 1367580	GiseiHero
 1367690	Tony Stewart's All-American Racing
 1368960	Fishing Sim World®: Bass Pro Shops Edition
+1370120	Construction Simulator 3 - Pocket Edition
 1370130	Rezzil Index / Lite
 1371350	Solenars Edge II: Champions
 1372110	JoJo's Bizarre Adventure: All-Star Battle R
@@ -1151,6 +1153,7 @@
 1953520	WRC Generations - The FIA WRC Official Game
 1955800	TRANSFORMERS: EARTHSPARK - Expedition
 1955980	Arsilon
+1959280	Over Jump Rally
 1961460	Project Playtime
 1962150	My Life: Riding Stables 3
 1962650	Horrid Henry's Krazy Karts
@@ -1212,6 +1215,7 @@
 2125090	Tintin Reporter - Cigars of the Pharaoh
 2131430	Wings of The Universe
 2142330	Bud Spencer & Terence Hill - Slaps And Beans 2
+2157830	John Carpenter's Toxic Commando
 2158030	RetroRealms
 2160480	Hellboy Web of Wyrd
 2160680	Last Kids on Earth: Hit the Deck!
@@ -1222,6 +1226,8 @@
 2168240	Kizuna AI - Touch the Beat!
 2169570	The Lost Legends of Redwall: The Scout Anthology
 2170370	SPY×ANYA: Operation Memories
+2172910	CAPTAIN TSUBASA 2: WORLD FIGHTERS
+2176320	Magical Drop VI
 2177170	All of Us Are Dead...
 2177570	Stone Age: Digital Edition
 2183900	Warhammer 40,000: Space Marine 2
@@ -1314,6 +1320,7 @@
 2419090	STAR WARS™: Bounty Hunter™
 2420510	HoloCure - Save the Fans!
 2424110	Demon Slayer -Kimetsu no Yaiba- Sweep the Board!
+2424420	Avatar Legends: The Fighting Game
 2428810	LEGO® Horizon Adventures™
 2431700	Vampire: The Masquerade - Justice
 2434050	The Sisters 2 - Road To Fame
@@ -1338,6 +1345,7 @@
 2479650	SpongeBob SquarePants: Titans of the Tide
 2483190	Forza Horizon 6
 2483220	LivingDollsRebirth
+2486740	Sledders
 2487350	Alex Jones: NWO Wars
 2487680	Burger Kombat
 2488620	F1® 24
@@ -1351,6 +1359,7 @@
 2512040	Yatzi
 2516170	G.I. Joe: Wrath of Cobra
 2518960	Wizardry: Proving Grounds of the Mad Overlord
+2523770	The Lord of the Rings: War in the North™ - Legacy Edition
 2527580	Teenage Mutant Ninja Turtles Arcade: Wrath of the Mutants
 2532480	Warhammer 40,000: Mechanicus II
 2535950	Battlestar Galactica: Scattered Hopes
@@ -1369,6 +1378,7 @@
 2581700	MotoGP™24
 2586560	NINJA KAMUI: SHINOBI ORIGINS
 2587170	Railbreak
+2591280	F1® Manager 2024
 2591710	Pirates of the Caribbean: Tides of War
 2596330	Micro Machines: Mini Challenge Mayhem
 2602020	The Smurfs – Dreams
@@ -1412,11 +1422,12 @@
 2774110	Tavern Girl
 2776900	The Eminence in Shadow: Master of Garden
 2777970	Stranger Things VR
-2780080	Screen TRPG
 2793950	Totally Spies! - Cyber Mission
+2800080	Thief VR: Legacy of Shadow
 2800630	The Smurfs - Village Party
 2807870	Darkness Ritual: Impasse
 2811580	文若九洲记：艳欲之乡
+2815070	RIDE 6
 2816870	Mighty Morphin Power Rangers: Rita's Rewind
 2817640	Wer weiß denn sowas? - Das 3. Spiel
 2821390	HOT WHEELS™ Infinite Rush
@@ -1429,6 +1440,7 @@
 2859870	Duel of games
 2864110	GILTSTEADER
 2865440	FRONT MISSION 2: Remake
+2865960	SAW: Genesis
 2866670	NBA THE RUN
 2878220	Space Adventure Cobra - The Awakening
 2878600	Harry Potter: Quidditch Champions
@@ -1463,6 +1475,7 @@
 3023070	BEYBLADE X XONE
 3025590	TRON: Catalyst
 3040910	Hot Wheels Let's Race: Ultimate Speed
+3042650	Race Max Pro
 3050640	WhereHurt
 3051490	Nicktoons & The Dice of Destiny
 3058630	Assetto Corsa EVO
@@ -1478,14 +1491,18 @@
 3112730	Dog Man: Mission Impawsible
 3115130	NBA BOUNCE
 3115160	Warhammer 40,000: Boltgun 2
+3116640	Torque Drift 2
 3124340	Demeo x Dungeons & Dragons: Battlemarked
 3125750	EDENS ZERO
 3126650	Freezing WHAT IF...
+3127230	PBA Pro Bowling 2026
 3127280	Marvel Contest of Champions
 3130400	Terrifier The ARTcade Game
 3150480	Agatha Christie - Death on the Nile
 3169520	Warhammer 40,000: Space Marine - Master Crafted Edition
+3180240	Tetris® Forever
 3181160	Late Emergency
+3183970	Gex Trilogy
 3185460	Fap&Click
 3189010	The Mansion of The Macabre
 3210120	The Elf on the Shelf®: Christmas Heroes
@@ -1518,22 +1535,31 @@
 3344960	夏目友人帳 ～葉月の記～
 3352750	Kings of Emperor Bonaparte
 3356340	The Original Moorhuhn Hunt
+3356350	Moorhuhn 2
+3356360	Moorhuhn Winter Edition
 3362660	World War Z VR
 3376690	THE HOUSE OF THE DEAD 2: Remake
 3385250	ラビィとパネルでしりとり
 3392700	Geopogo Cities
 3393070	KAIJU NO. 8 THE GAME
+3399110	Jaleco Sports: Goal!
+3399120	Jaleco Sports: Goal! 2
 3401920	Upin & Ipin Universe
+3417530	Panzer Dragoon Zwei: Remake
 3419690	Chicken Run: Eggstraction
+3428080	Jaleco Sports: Bases Loaded
+3428090	Jaleco Sports: Bases Loaded 2
 3428880	BRIO World - Railway
 3432510	Jianghu Diary
 3448650	Aliens: Fireteam Elite 2
 3452280	The Solitude Project
+3465710	The Cat in the Hat: Rainy Day Mayhem
 3468640	AFL 26
 3468650	Cricket 26 - The Official Game of the Ashes
 3469230	Baki Hanma: Blood Arena
 3472040	NBA 2K26
 3493430	Set a Watch: Digital Edition
+3504560	Tomba! 2: The Evil Swine Return Special Edition
 3504570	Fear Effect
 3504580	Fighting Force Collection
 3504600	Ren & Stimpy Happy, Happy, Joy, Joy, Collection
@@ -1549,12 +1575,15 @@
 3589910	Voivod: The Nuclear Warrior
 3592510	SpongeBob: Krusty Cook-Off
 3600820	In Gehenna Fantasy Heroine Edition
+3603020	Auto Legends
+3623890	Launch Dude
 3633250	Junji Ito Maniac: An Infinite Gaol
 3649590	run for money Hunter vs. Runner! Which side will you win!?
 3650170	Marsupilami 2 - Salsa Palombia
 3650490	Oikizo
 3655390	Alien: Rogue Incursion Evolved Edition
 3656800	Train Sim World® 6
+3659460	Gear.Club Unlimited 3
 3669430	Twilight Imperium Digital
 3669620	Warhammer Survivors
 3679080	The Seven Deadly Sins: Origin
@@ -1566,6 +1595,8 @@
 3727390	The Expanse: Osiris Reborn
 3735230	Samurai Academy: Paws of Fury
 3743790	Thomas & Friends™: Wonders of Sodor
+3744100	It’s Quiz Time: GUINNESS WORLD RECORDS™ 2026 Edition
+3744110	What Do You Meme?® The Video Game
 3749580	He-Man and the Masters of the Universe™: Dragon Pearl of Destruction
 3756700	Warhammer Age of Sigmar: Deathmaster
 3758690	Suite: Pictures at an Exhibition
@@ -1584,9 +1615,12 @@
 3879300	GAIONIN WAR don't combine
 3882430	Laid-Back Camp: Camping Cook-off!
 3903190	The Bygone Days of Her and the Flowers
+3905010	ONE PIECE: Grand Gourmet
 3915180	史小坑的黑暗料理
 3927680	Steel Defence
+3930330	Sesame Street: Friends & Fun
 3931060	MARVEL MaXimum Collection
+3932790	Garfield - Escape from Monday
 3936520	Tour de France 2026
 3936530	Pro Cycling Manager 26
 3936610	Monopoly: Star Wars™ Heroes vs. Villains
@@ -1602,13 +1636,24 @@
 4056590	Arthur's Math Games
 4056600	Arthur's Preschool
 4056610	Arthur's Reading Games
+4056630	Harry and the Haunted House
+4078430	STAR WARS: Galactic Racer™
+4080810	Construction Simulator 4 - Pocket Edition
 4128400	eBaseball™: PRO SPIRIT
 4162160	新盗墓笔记ol
 4162630	MINOS: Home A-Labyrinth
 4193730	The NewZealand Story: Untold Adventure
+4199910	Total War: WARHAMMER 40,000
+4224240	Jujutsu Kaisen Phantom Parade
 4282500	hololive Dreams
+4304060	SONIC PICO PARK
 4316960	Spirit-Sealing Tome
 4375120	Jigokuraku: BATTLE IN HELL'S PARADISE
+4434610	Hunter: The Reckoning – Deathwish
 4459850	NAMCO LEGENDARY Mountains
+4590790	Defense of Kyrath
 4682460	G-MODEアーカイブス+ パックマン
 4753420	Celestia
+4782240	Dog Man: Bark in Action
+4834760	Pool of Radiance: Ruins of Myth Drannor
+4902580	Jay and Silent Bob's Joint Venture
