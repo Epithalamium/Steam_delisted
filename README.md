@@ -2,62 +2,19 @@
 
 Automatically tracks apps listed on [steam-tracker.com/apps/at-risk](https://steam-tracker.com/apps/at-risk).
 
-Updated every 2 days via GitHub Actions. Last updated: **2026-08-19 07:03 UTC**
+Updated every 2 days via GitHub Actions. Last updated: **2026-08-21 07:06 UTC**
 
 **Filters applied:** Recommended · Released (default page view)
 
-**Total tracked:** 1659 apps
+**Total tracked:** 1660 apps
 
 ---
 
 ## Newly Added Since Last Check
 
-- [Torque Drift](https://store.steampowered.com/app/1029550/) (AppID: 1029550)
-- [Construction Simulator 3 - Pocket Edition](https://store.steampowered.com/app/1370120/) (AppID: 1370120)
-- [Over Jump Rally](https://store.steampowered.com/app/1959280/) (AppID: 1959280)
-- [John Carpenter's Toxic Commando](https://store.steampowered.com/app/2157830/) (AppID: 2157830)
-- [CAPTAIN TSUBASA 2: WORLD FIGHTERS](https://store.steampowered.com/app/2172910/) (AppID: 2172910)
-- [Magical Drop VI](https://store.steampowered.com/app/2176320/) (AppID: 2176320)
-- [Avatar Legends: The Fighting Game](https://store.steampowered.com/app/2424420/) (AppID: 2424420)
-- [Sledders](https://store.steampowered.com/app/2486740/) (AppID: 2486740)
-- [The Lord of the Rings: War in the North™ - Legacy Edition](https://store.steampowered.com/app/2523770/) (AppID: 2523770)
-- [F1® Manager 2024](https://store.steampowered.com/app/2591280/) (AppID: 2591280)
-- [Thief VR: Legacy of Shadow](https://store.steampowered.com/app/2800080/) (AppID: 2800080)
-- [RIDE 6](https://store.steampowered.com/app/2815070/) (AppID: 2815070)
-- [SAW: Genesis](https://store.steampowered.com/app/2865960/) (AppID: 2865960)
-- [Race Max Pro](https://store.steampowered.com/app/3042650/) (AppID: 3042650)
-- [Torque Drift 2](https://store.steampowered.com/app/3116640/) (AppID: 3116640)
-- [PBA Pro Bowling 2026](https://store.steampowered.com/app/3127230/) (AppID: 3127230)
-- [Tetris® Forever](https://store.steampowered.com/app/3180240/) (AppID: 3180240)
-- [Gex Trilogy](https://store.steampowered.com/app/3183970/) (AppID: 3183970)
-- [Moorhuhn 2](https://store.steampowered.com/app/3356350/) (AppID: 3356350)
-- [Moorhuhn Winter Edition](https://store.steampowered.com/app/3356360/) (AppID: 3356360)
-- [Jaleco Sports: Goal!](https://store.steampowered.com/app/3399110/) (AppID: 3399110)
-- [Jaleco Sports: Goal! 2](https://store.steampowered.com/app/3399120/) (AppID: 3399120)
-- [Panzer Dragoon Zwei: Remake](https://store.steampowered.com/app/3417530/) (AppID: 3417530)
-- [Jaleco Sports: Bases Loaded](https://store.steampowered.com/app/3428080/) (AppID: 3428080)
-- [Jaleco Sports: Bases Loaded 2](https://store.steampowered.com/app/3428090/) (AppID: 3428090)
-- [The Cat in the Hat: Rainy Day Mayhem](https://store.steampowered.com/app/3465710/) (AppID: 3465710)
-- [Tomba! 2: The Evil Swine Return Special Edition](https://store.steampowered.com/app/3504560/) (AppID: 3504560)
-- [Auto Legends](https://store.steampowered.com/app/3603020/) (AppID: 3603020)
-- [Launch Dude](https://store.steampowered.com/app/3623890/) (AppID: 3623890)
-- [Gear.Club Unlimited 3](https://store.steampowered.com/app/3659460/) (AppID: 3659460)
-- [It’s Quiz Time: GUINNESS WORLD RECORDS™ 2026 Edition](https://store.steampowered.com/app/3744100/) (AppID: 3744100)
-- [What Do You Meme?® The Video Game](https://store.steampowered.com/app/3744110/) (AppID: 3744110)
-- [ONE PIECE: Grand Gourmet](https://store.steampowered.com/app/3905010/) (AppID: 3905010)
-- [Sesame Street: Friends & Fun](https://store.steampowered.com/app/3930330/) (AppID: 3930330)
-- [Garfield - Escape from Monday](https://store.steampowered.com/app/3932790/) (AppID: 3932790)
-- [Harry and the Haunted House](https://store.steampowered.com/app/4056630/) (AppID: 4056630)
-- [STAR WARS: Galactic Racer™](https://store.steampowered.com/app/4078430/) (AppID: 4078430)
-- [Construction Simulator 4 - Pocket Edition](https://store.steampowered.com/app/4080810/) (AppID: 4080810)
-- [Total War: WARHAMMER 40,000](https://store.steampowered.com/app/4199910/) (AppID: 4199910)
-- [Jujutsu Kaisen Phantom Parade](https://store.steampowered.com/app/4224240/) (AppID: 4224240)
-- [SONIC PICO PARK](https://store.steampowered.com/app/4304060/) (AppID: 4304060)
-- [Hunter: The Reckoning – Deathwish](https://store.steampowered.com/app/4434610/) (AppID: 4434610)
-- [Defense of Kyrath](https://store.steampowered.com/app/4590790/) (AppID: 4590790)
-- [Dog Man: Bark in Action](https://store.steampowered.com/app/4782240/) (AppID: 4782240)
-- [Pool of Radiance: Ruins of Myth Drannor](https://store.steampowered.com/app/4834760/) (AppID: 4834760)
-- [Jay and Silent Bob's Joint Venture](https://store.steampowered.com/app/4902580/) (AppID: 4902580)
+- [KINGDOM HEARTS IV](https://store.steampowered.com/app/3216600/) (AppID: 3216600)
+- [黄色猫片：爆射](https://store.steampowered.com/app/3744910/) (AppID: 3744910)
+- [GACHIAKUTA: The Game](https://store.steampowered.com/app/4420730/) (AppID: 4420730)
 
 ---
 
@@ -165,7 +122,6 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-08-19 07:03 UTC**
 - [The Wolf Among Us](https://store.steampowered.com/app/250320/) (AppID: 250320)
 - [Hive](https://store.steampowered.com/app/251210/) (AppID: 251210)
 - [Double Dragon Neon](https://store.steampowered.com/app/252350/) (AppID: 252350)
-- [theHunter Classic](https://store.steampowered.com/app/253710/) (AppID: 253710)
 - [Shantae: Half-Genie Hero](https://store.steampowered.com/app/253840/) (AppID: 253840)
 - [Pro Cycling Manager 2014](https://store.steampowered.com/app/255260/) (AppID: 255260)
 - [KickBeat Steam Edition](https://store.steampowered.com/app/255370/) (AppID: 255370)
@@ -1573,6 +1529,7 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-08-19 07:03 UTC**
 - [The Elf on the Shelf®: Christmas Heroes](https://store.steampowered.com/app/3210120/) (AppID: 3210120)
 - [Bratz® Rhythm & Style](https://store.steampowered.com/app/3212580/) (AppID: 3212580)
 - [DUST II | The Infinite Zero Point](https://store.steampowered.com/app/3213300/) (AppID: 3213300)
+- [KINGDOM HEARTS IV](https://store.steampowered.com/app/3216600/) (AppID: 3216600)
 - [Halloween: The Game](https://store.steampowered.com/app/3219630/) (AppID: 3219630)
 - [DreamWorks Gabby’s Dollhouse: Ready to Party](https://store.steampowered.com/app/3222830/) (AppID: 3222830)
 - [Rotate or Die](https://store.steampowered.com/app/3225930/) (AppID: 3225930)
@@ -1662,6 +1619,7 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-08-19 07:03 UTC**
 - [Thomas & Friends™: Wonders of Sodor](https://store.steampowered.com/app/3743790/) (AppID: 3743790)
 - [It’s Quiz Time: GUINNESS WORLD RECORDS™ 2026 Edition](https://store.steampowered.com/app/3744100/) (AppID: 3744100)
 - [What Do You Meme?® The Video Game](https://store.steampowered.com/app/3744110/) (AppID: 3744110)
+- [黄色猫片：爆射](https://store.steampowered.com/app/3744910/) (AppID: 3744910)
 - [He-Man and the Masters of the Universe™: Dragon Pearl of Destruction](https://store.steampowered.com/app/3749580/) (AppID: 3749580)
 - [Warhammer Age of Sigmar: Deathmaster](https://store.steampowered.com/app/3756700/) (AppID: 3756700)
 - [Suite: Pictures at an Exhibition](https://store.steampowered.com/app/3758690/) (AppID: 3758690)
@@ -1714,9 +1672,9 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-08-19 07:03 UTC**
 - [SONIC PICO PARK](https://store.steampowered.com/app/4304060/) (AppID: 4304060)
 - [Spirit-Sealing Tome](https://store.steampowered.com/app/4316960/) (AppID: 4316960)
 - [Jigokuraku: BATTLE IN HELL'S PARADISE](https://store.steampowered.com/app/4375120/) (AppID: 4375120)
+- [GACHIAKUTA: The Game](https://store.steampowered.com/app/4420730/) (AppID: 4420730)
 - [Hunter: The Reckoning – Deathwish](https://store.steampowered.com/app/4434610/) (AppID: 4434610)
 - [NAMCO LEGENDARY Mountains](https://store.steampowered.com/app/4459850/) (AppID: 4459850)
-- [Defense of Kyrath](https://store.steampowered.com/app/4590790/) (AppID: 4590790)
 - [G-MODEアーカイブス+ パックマン](https://store.steampowered.com/app/4682460/) (AppID: 4682460)
 - [Celestia](https://store.steampowered.com/app/4753420/) (AppID: 4753420)
 - [Dog Man: Bark in Action](https://store.steampowered.com/app/4782240/) (AppID: 4782240)

@@ -100,7 +100,6 @@
 250320	The Wolf Among Us
 251210	Hive
 252350	Double Dragon Neon
-253710	theHunter Classic
 253840	Shantae: Half-Genie Hero
 255260	Pro Cycling Manager 2014
 255370	KickBeat Steam Edition
@@ -1508,6 +1507,7 @@
 3210120	The Elf on the Shelf®: Christmas Heroes
 3212580	Bratz® Rhythm & Style
 3213300	DUST II | The Infinite Zero Point
+3216600	KINGDOM HEARTS IV
 3219630	Halloween: The Game
 3222830	DreamWorks Gabby’s Dollhouse: Ready to Party
 3225930	Rotate or Die
@@ -1597,6 +1597,7 @@
 3743790	Thomas & Friends™: Wonders of Sodor
 3744100	It’s Quiz Time: GUINNESS WORLD RECORDS™ 2026 Edition
 3744110	What Do You Meme?® The Video Game
+3744910	黄色猫片：爆射
 3749580	He-Man and the Masters of the Universe™: Dragon Pearl of Destruction
 3756700	Warhammer Age of Sigmar: Deathmaster
 3758690	Suite: Pictures at an Exhibition
@@ -1649,9 +1650,9 @@
 4304060	SONIC PICO PARK
 4316960	Spirit-Sealing Tome
 4375120	Jigokuraku: BATTLE IN HELL'S PARADISE
+4420730	GACHIAKUTA: The Game
 4434610	Hunter: The Reckoning – Deathwish
 4459850	NAMCO LEGENDARY Mountains
-4590790	Defense of Kyrath
 4682460	G-MODEアーカイブス+ パックマン
 4753420	Celestia
 4782240	Dog Man: Bark in Action
