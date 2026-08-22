@@ -91,11 +91,6 @@ def update_readme(current: dict[str, str], new_appids: set[str]) -> None:
     else:
         new_section = "## Newly Added Since Last Check\n\n_(No new entries this run)_"
 
-    all_lines = [
-        f"- [{name}](https://store.steampowered.com/app/{appid}/) (AppID: {appid})"
-        for appid, name in sorted(current.items(), key=lambda x: int(x[0]))
-    ]
-
     readme = f"""\
 # Steam At-Risk Games Tracker
 
@@ -113,9 +108,7 @@ Updated every 2 days via GitHub Actions. Last updated: **{now}**
 
 ---
 
-## Full List
-
-{chr(10).join(all_lines)}
+*For the full list of tracked games, please refer to [games_list.txt](games_list.txt).*
 """
     README_FILE.write_text(readme, encoding="utf-8")
 
