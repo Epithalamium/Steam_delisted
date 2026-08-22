@@ -1414,7 +1414,6 @@
 2753970	MARVEL Cosmic Invasion
 2759810	VR Driver School
 2760580	Mars Attracts
-2765460	Star Trek Legends
 2767030	Marvel Rivals
 2767480	Alien Horizon (Preview Alpha)
 2769080	Kong: Survivor Instinct
@@ -1615,6 +1614,7 @@
 3873970	NASCAR 25
 3879300	GAIONIN WAR don't combine
 3882430	Laid-Back Camp: Camping Cook-off!
+3890550	Jam's Adjustable Mirrors
 3903190	The Bygone Days of Her and the Flowers
 3905010	ONE PIECE: Grand Gourmet
 3915180	史小坑的黑暗料理

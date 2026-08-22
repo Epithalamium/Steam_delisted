@@ -2,7 +2,7 @@
 
 Automatically tracks apps listed on [steam-tracker.com/apps/at-risk](https://steam-tracker.com/apps/at-risk).
 
-Updated every 2 days via GitHub Actions. Last updated: **2026-08-21 07:06 UTC**
+Updated every 2 days via GitHub Actions. Last updated: **2026-08-22 09:17 UTC**
 
 **Filters applied:** Recommended · Released (default page view)
 
@@ -12,9 +12,7 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-08-21 07:06 UTC**
 
 ## Newly Added Since Last Check
 
-- [KINGDOM HEARTS IV](https://store.steampowered.com/app/3216600/) (AppID: 3216600)
-- [黄色猫片：爆射](https://store.steampowered.com/app/3744910/) (AppID: 3744910)
-- [GACHIAKUTA: The Game](https://store.steampowered.com/app/4420730/) (AppID: 4420730)
+- [Jam's Adjustable Mirrors](https://store.steampowered.com/app/3890550/) (AppID: 3890550)
 
 ---
 
