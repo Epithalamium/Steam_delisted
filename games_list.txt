@@ -181,7 +181,6 @@
 335070	VRC PRO
 336220	ORBITOR
 338260	Usagi Yojimbo: Way of the Ronin
-340220	Shadows of War
 340810	Deepworld
 342200	MechWarrior Online
 342540	Terminal Hacker - Into the Deep
@@ -1038,7 +1037,6 @@
 1681890	Little League World Series Baseball 2022
 1689500	Dune: Imperium
 1689620	BLEACH Rebirth of Souls
-1692240	Fortune's Run
 1694600	THE HOUSE OF THE DEAD: Remake
 1695830	Baldur's Gate: Dark Alliance
 1701380	Cricket 22
