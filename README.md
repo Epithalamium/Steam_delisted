@@ -2,7 +2,7 @@
 
 Automatically tracks apps listed on [steam-tracker.com/apps/at-risk](https://steam-tracker.com/apps/at-risk).
 
-Updated every 2 days via GitHub Actions. Last updated: **2026-08-29 12:39 UTC**
+Updated every 2 days via GitHub Actions. Last updated: **2026-08-31 13:45 UTC**
 
 **Filters applied:** Recommended · Released (default page view)
 
@@ -12,7 +12,7 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-08-29 12:39 UTC**
 
 ## Newly Added Since Last Check
 
-_(No new entries this run)_
+- [Fortune's Run](https://store.steampowered.com/app/1692240/) (AppID: 1692240)
 
 ---
 

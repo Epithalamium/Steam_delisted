@@ -675,7 +675,6 @@
 1026370	My Fair Princess
 1028630	Cricket 19
 1029550	Torque Drift
-1031140	Warhammer Horus Heresy: Legions
 1032270	Kill The Censored
 1032520	JermaSlots
 1034040	Causa, Voices of the Dusk
@@ -1037,6 +1036,7 @@
 1681890	Little League World Series Baseball 2022
 1689500	Dune: Imperium
 1689620	BLEACH Rebirth of Souls
+1692240	Fortune's Run
 1694600	THE HOUSE OF THE DEAD: Remake
 1695830	Baldur's Gate: Dark Alliance
 1701380	Cricket 22
