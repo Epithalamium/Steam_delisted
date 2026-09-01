@@ -64,6 +64,7 @@
 217750	Age of Conan: Unchained
 220260	Farming Simulator 2013: Titanium Edition
 220420	Nancy Drew: The Deadly Device
+221680	Rocksmith® 2014 Edition - Remastered
 224900	Iron Sky Invasion
 224940	Legacy of Kain: Soul Reaver 2 (2001)
 225260	Brütal Legend
@@ -121,6 +122,7 @@
 271920	Worlds Adrift Island Creator
 272510	NARUTO SHIPPUDEN: Ultimate Ninja STORM Revolution
 273030	Pro Rugby Manager 2015
+273110	Counter-Strike Nexon
 273570	Descent
 273580	Descent 2
 273590	Descent 3
@@ -1036,7 +1038,6 @@
 1681890	Little League World Series Baseball 2022
 1689500	Dune: Imperium
 1689620	BLEACH Rebirth of Souls
-1692240	Fortune's Run
 1694600	THE HOUSE OF THE DEAD: Remake
 1695830	Baldur's Gate: Dark Alliance
 1701380	Cricket 22
@@ -1090,6 +1091,7 @@
 1817070	Marvel’s Spider-Man Remastered
 1817190	Marvel's Spider-Man: Miles Morales
 1817230	Hi-Fi RUSH
+1817610	Battle Heroine Crisis
 1820140	SlavicPunk: Oldtimer
 1823200	Jumanji: Wild Adventures
 1830630	Overpass 2
@@ -1495,7 +1497,6 @@
 3116640	Torque Drift 2
 3124340	Demeo x Dungeons & Dragons: Battlemarked
 3125750	EDENS ZERO
-3126650	Freezing WHAT IF...
 3127230	PBA Pro Bowling 2026
 3127280	Marvel Contest of Champions
 3130400	Terrifier The ARTcade Game
@@ -1535,6 +1536,7 @@
 3328180	Snoopy & The Great Mystery Club
 3328480	TETRIS® THE GRAND MASTER 4 -ABSOLUTE EYE-
 3344960	夏目友人帳 ～葉月の記～
+3351570	Sandbox Survivors
 3352750	Kings of Emperor Bonaparte
 3356340	The Original Moorhuhn Hunt
 3356350	Moorhuhn 2
@@ -1632,6 +1634,7 @@
 3936610	Monopoly: Star Wars™ Heroes vs. Villains
 3940610	EA SPORTS™ Madden NFL 27
 3954580	Star Trek: Infection
+3969340	Bibi & Tina – Ready, Set, Ride!
 3977380	JAWS: Retro Edition
 3984650	City Hunter
 3985460	Football Club Manager 26 LIVE
