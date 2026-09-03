@@ -5,6 +5,7 @@
 4570	Warhammer 40,000: Dawn of War - Anniversary Edition
 6270	Ducati World Championship
 6910	Deus Ex: Game of the Year Edition
+7830	Men of War
 8660	GTR Evolution
 8690	STCC: The Game
 8790	GTR 2 - FIA GT Racing Game
@@ -140,6 +141,7 @@
 285190	Warhammer 40,000: Dawn of War III
 285380	On The Road - Truck Simulator
 288860	Realms of Arkania: Star Trail
+289300	Faces of War
 289950	Construction-Simulator 2015
 290000	DubWars
 292410	Street Racing Syndicate
@@ -280,7 +282,6 @@
 464850	Don Bradman Cricket 17
 465660	Franchise Hockey Manager 3
 466300	Planescape: Torment: Enhanced Edition
-467660	Paranormal Activity: The Lost Soul
 468920	Ultimate Fishing Simulator®
 469610	Rick and Morty: Virtual Rick-ality
 470220	UNO
@@ -1059,7 +1060,9 @@
 1733250	Turbo Kid
 1733890	Warhammer 40,000: Battle Sister
 1734270	Royal Frontier
+1735230	Stones Keeper: Prologue
 1739000	Franchise Hockey Manager 8
+1739850	Howling Village
 1740660	Miraculous: Rise of the Sphinx
 1742020	Idol Showdown
 1748610	Evil God Korone
@@ -1091,7 +1094,6 @@
 1817070	Marvel’s Spider-Man Remastered
 1817190	Marvel's Spider-Man: Miles Morales
 1817230	Hi-Fi RUSH
-1817610	Battle Heroine Crisis
 1820140	SlavicPunk: Oldtimer
 1823200	Jumanji: Wild Adventures
 1830630	Overpass 2
@@ -1121,10 +1123,12 @@
 1889930	Baldur's Gate: Dark Alliance II
 1894570	Parasight Prologue
 1894730	Asterix & Obelix XXXL : The Ram From Hibernia
+1894790	Stones Keeper: King Aurelius
 1897630	Garbage Pail Kids: Mad Mike and the Quest for Stale Gum
 1898290	LEGO® Bricktales
 1903270	Sunset World Online
 1903670	Peaky Blinders: The King's Ransom
+1904030	Maze Dungeon
 1904530	Forgotten Realms: The Archives - Collection Three
 1904560	Dungeons & Dragons: Ravenloft Series
 1904580	Dungeons & Dragons: Dark Sun Series
@@ -1230,6 +1234,7 @@
 2169570	The Lost Legends of Redwall: The Scout Anthology
 2170370	SPY×ANYA: Operation Memories
 2172910	CAPTAIN TSUBASA 2: WORLD FIGHTERS
+2173920	Demon's Wrath
 2176320	Magical Drop VI
 2177170	All of Us Are Dead...
 2177570	Stone Age: Digital Edition
@@ -1428,6 +1433,7 @@
 2793950	Totally Spies! - Cyber Mission
 2800080	Thief VR: Legacy of Shadow
 2800630	The Smurfs - Village Party
+2806840	Arcane Array Arena
 2807870	Darkness Ritual: Impasse
 2811580	文若九洲记：艳欲之乡
 2815070	RIDE 6
@@ -1582,6 +1588,7 @@
 3592510	SpongeBob: Krusty Cook-Off
 3600820	In Gehenna Fantasy Heroine Edition
 3603020	Auto Legends
+3615390	A journey through shadow, to Reach the light.
 3623890	Launch Dude
 3633250	Junji Ito Maniac: An Infinite Gaol
 3649590	run for money Hunter vs. Runner! Which side will you win!?
@@ -1609,6 +1616,7 @@
 3758690	Suite: Pictures at an Exhibition
 3763470	Wu-Tang: Rise of the Deceiver
 3768760	007 First Light
+3777850	The Walking Dead: Streets of Survival
 3787240	MARVEL Tōkon: Fighting Souls
 3790770	Panzer Kliker
 3817710	Rugrats: Retro Rewind Collection
@@ -1619,7 +1627,6 @@
 3843530	Forgotten Realms: Demon Stone
 3843540	Dungeons & Dragons: Dragonshard
 3873970	NASCAR 25
-3879300	GAIONIN WAR don't combine
 3882430	Laid-Back Camp: Camping Cook-off!
 3890550	Jam's Adjustable Mirrors
 3903190	The Bygone Days of Her and the Flowers
