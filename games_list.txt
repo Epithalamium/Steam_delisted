@@ -1529,6 +1529,7 @@
 3253030	Is It Wrong to Try to Pick Up Girls in a Dungeon? ~Fullland of Water and Light~
 3256150	Moomintroll: Winter's Warmth
 3264110	AUTO_BATTLER_RPG
+3264490	Pastopia
 3273550	Dora™: Rainforest Rescue
 3281130	World of Outlaws: Dirt Racing 24 Gold Edition
 3288920	Ed & Edda: GRAND PRIX – Racing Champions
@@ -1588,7 +1589,6 @@
 3592510	SpongeBob: Krusty Cook-Off
 3600820	In Gehenna Fantasy Heroine Edition
 3603020	Auto Legends
-3615390	A journey through shadow, to Reach the light.
 3623890	Launch Dude
 3633250	Junji Ito Maniac: An Infinite Gaol
 3649590	run for money Hunter vs. Runner! Which side will you win!?
@@ -1599,6 +1599,7 @@
 3659460	Gear.Club Unlimited 3
 3669430	Twilight Imperium Digital
 3669620	Warhammer Survivors
+3675360	Tenra AI Multichat
 3679080	The Seven Deadly Sins: Origin
 3686980	Yatzi 2
 3700250	Master of Piece: Prologue
@@ -1657,6 +1658,7 @@
 4080810	Construction Simulator 4 - Pocket Edition
 4124830	Hasbro Games™ Junior Collection
 4128400	eBaseball™: PRO SPIRIT
+4138160	Kawaii Survivors
 4162160	新盗墓笔记ol
 4162630	MINOS: Home A-Labyrinth
 4193730	The NewZealand Story: Untold Adventure
@@ -1668,10 +1670,11 @@
 4420730	GACHIAKUTA: The Game
 4434610	Hunter: The Reckoning – Deathwish
 4459850	NAMCO LEGENDARY Mountains
-4517960	Idle Kingdom: Magic & Beasts
 4678800	Train Sim World® 7
 4682460	G-MODEアーカイブス+ パックマン
 4753420	Celestia
 4782240	Dog Man: Bark in Action
+4787250	Popular Kids
+4805820	The Leather Maker
 4834760	Pool of Radiance: Ruins of Myth Drannor
 4902580	Jay and Silent Bob's Joint Venture
