@@ -1641,6 +1641,7 @@
 3936530	Pro Cycling Manager 26
 3936610	Monopoly: Star Wars™ Heroes vs. Villains
 3940610	EA SPORTS™ Madden NFL 27
+3953870	인류보호회사
 3954580	Star Trek: Infection
 3969340	Bibi & Tina – Ready, Set, Ride!
 3977380	JAWS: Retro Edition
