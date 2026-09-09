@@ -5,7 +5,6 @@
 4570	Warhammer 40,000: Dawn of War - Anniversary Edition
 6270	Ducati World Championship
 6910	Deus Ex: Game of the Year Edition
-7830	Men of War
 8660	GTR Evolution
 8690	STCC: The Game
 8790	GTR 2 - FIA GT Racing Game
@@ -141,7 +140,6 @@
 285190	Warhammer 40,000: Dawn of War III
 285380	On The Road - Truck Simulator
 288860	Realms of Arkania: Star Trail
-289300	Faces of War
 289950	Construction-Simulator 2015
 290000	DubWars
 292410	Street Racing Syndicate
@@ -997,7 +995,6 @@
 1586700	Marsupilami: Hoobadventure
 1589290	Kitsu's Destiny
 1590320	Bro Falls: Ultimate Showdown
-1591680	Open Mod
 1594400	GAI Stops Auto: Right Version
 1595050	PBA Pro Bowling 2023
 1596940	Ryan's Rescue Squad
@@ -1056,6 +1053,7 @@
 1722840	Everdell
 1722860	Munchkin Digital
 1729050	The Fox in the Forest
+1729780	Gladiator: about to die
 1731460	LEGO® Brawls
 1733250	Turbo Kid
 1733890	Warhammer 40,000: Battle Sister
@@ -1128,7 +1126,6 @@
 1898290	LEGO® Bricktales
 1903270	Sunset World Online
 1903670	Peaky Blinders: The King's Ransom
-1904030	Maze Dungeon
 1904530	Forgotten Realms: The Archives - Collection Three
 1904560	Dungeons & Dragons: Ravenloft Series
 1904580	Dungeons & Dragons: Dark Sun Series
@@ -1601,6 +1598,7 @@
 3669620	Warhammer Survivors
 3675360	Tenra AI Multichat
 3679080	The Seven Deadly Sins: Origin
+3682440	Othello: Battle Royale
 3686980	Yatzi 2
 3700250	Master of Piece: Prologue
 3710360	GÖREV
@@ -1641,7 +1639,6 @@
 3936530	Pro Cycling Manager 26
 3936610	Monopoly: Star Wars™ Heroes vs. Villains
 3940610	EA SPORTS™ Madden NFL 27
-3953870	인류보호회사
 3954580	Star Trek: Infection
 3969340	Bibi & Tina – Ready, Set, Ride!
 3977380	JAWS: Retro Edition
@@ -1659,9 +1656,9 @@
 4080810	Construction Simulator 4 - Pocket Edition
 4124830	Hasbro Games™ Junior Collection
 4128400	eBaseball™: PRO SPIRIT
-4138160	Kawaii Survivors
 4162160	新盗墓笔记ol
 4162630	MINOS: Home A-Labyrinth
+4179450	Passion Bay
 4193730	The NewZealand Story: Untold Adventure
 4199910	Total War: WARHAMMER 40,000
 4224240	Jujutsu Kaisen Phantom Parade
@@ -1671,11 +1668,10 @@
 4420730	GACHIAKUTA: The Game
 4434610	Hunter: The Reckoning – Deathwish
 4459850	NAMCO LEGENDARY Mountains
+4590020	Kill Source: Neon Hemorrhage
 4678800	Train Sim World® 7
 4682460	G-MODEアーカイブス+ パックマン
 4753420	Celestia
 4782240	Dog Man: Bark in Action
-4787250	Popular Kids
-4805820	The Leather Maker
 4834760	Pool of Radiance: Ruins of Myth Drannor
 4902580	Jay and Silent Bob's Joint Venture
